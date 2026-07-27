@@ -285,8 +285,8 @@ function bind(el){
   el.querySelector(".soundhint").addEventListener("click",()=>setSound(true));
   el.querySelector(".tapzone").addEventListener("click",()=>{
     if(!SOUND){ setSound(true); return; }
-    if(v.paused){ v.play().catch(()=>{}); el.classList.remove("paused"); }
-    else { v.pause(); el.classList.add("paused"); }
+    if(v.paused){ v.play().catch(()=>{}); el.classList.remove("paused"); keepAwake(); }
+    else { v.pause(); el.classList.add("paused"); letSleep(); }
   });
   v.addEventListener("timeupdate",()=>{
     paint(el);
@@ -331,6 +331,25 @@ function syncUI(){
   });
   renderCounts();
 }
+/* ── 재생 중 화면 꺼짐 방지 ───────────────── */
+let wakeLock=null;
+async function keepAwake(){
+  try{
+    if(!("wakeLock" in navigator) || wakeLock || document.visibilityState!=="visible") return;
+    wakeLock=await navigator.wakeLock.request("screen");
+    wakeLock.addEventListener("release",()=>{ wakeLock=null; });
+  }catch(e){}
+}
+async function letSleep(){
+  try{ if(wakeLock){ await wakeLock.release(); wakeLock=null; } }catch(e){}
+}
+document.addEventListener("visibilitychange",()=>{
+  if(document.visibilityState==="visible"){
+    const v=liveEl&&liveEl.querySelector("video");
+    if(v && !v.paused) keepAwake();
+  } else letSleep();
+});
+
 let unlocked=false;
 function unlockAll(){          /* 반드시 사용자 탭 안에서 호출 */
   if(unlocked) return; unlocked=true;
@@ -343,7 +362,7 @@ function unlockAll(){          /* 반드시 사용자 탭 안에서 호출 */
 }
 function setSound(on){
   SOUND=on;
-  unlockAll();
+  unlockAll(); keepAwake();
   document.querySelectorAll("video").forEach(v=>{ v.muted=!on; });
   const live=document.querySelector(".clip.live video");
   if(live){ live.muted=!on; live.play().catch(()=>{}); }
@@ -389,7 +408,7 @@ const io=new IntersectionObserver(entries=>{
     v.muted=!SOUND;
     if(v.currentTime>0.3){ try{ v.currentTime=0; }catch(err){} }
     const pr=v.play();
-    if(pr&&pr.catch) pr.catch(()=>{ el.classList.add("paused"); });
+    if(pr&&pr.then) pr.then(()=>keepAwake()).catch(()=>{ el.classList.add("paused"); });
     paint(el);
   });
 },{threshold:[0,.6,1]});
