@@ -1,5 +1,5 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -1121,6 +1121,302 @@
           "chunk": "work collectively together",
           "ko": "다 함께 힘을 모으다",
           "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ss012",
+      "src": "videos/012.mp4",
+      "source": "배우 대담",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#안부인사"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Hello, Jennifer. — Hello, Lisa.",
+          "ko": "안녕하세요, 제니퍼. — 안녕하세요, 리사."
+        },
+        {
+          "t": 5.5,
+          "en": "So the last time we did this was on Zoom.",
+          "ko": "지난번에 이걸 했을 땐 줌으로 했었죠."
+        },
+        {
+          "t": 9.6,
+          "en": "It was on Zoom, during lockdown. — Yeah, in 2020.",
+          "ko": "줌이었어요, 봉쇄 기간에. — 네, 2020년에요."
+        },
+        {
+          "t": 16.5,
+          "en": "— Was it? — Oh, wow. Right. 2020.",
+          "ko": "— 그랬나요? — 와. 맞아요. 2020년."
+        },
+        {
+          "t": 26.4,
+          "en": "Which feels like — boy, we've come a long way.",
+          "ko": "생각해 보면 — 참, 우리 멀리도 왔네요."
+        },
+        {
+          "t": 30.5,
+          "en": "Yeah. Lots happened. Well, COVID — that's done.",
+          "ko": "네. 많은 일이 있었죠. 코로나는 — 이제 끝났고요."
+        },
+        {
+          "t": 36.2,
+          "en": "That's done. You know, let's just pick the good things. It's over.",
+          "ko": "끝났어요. 그냥 좋은 것만 고르기로 해요. 지나갔잖아요."
+        },
+        {
+          "t": 43.1,
+          "en": "And we're all now living amongst each other, back to being in the same rooms and connecting.",
+          "ko": "이제 다들 서로 부대끼며 살고, 같은 공간에서 다시 만나고 있죠."
+        },
+        {
+          "t": 49.6,
+          "en": "And we can do actor-on-actor in person.",
+          "ko": "배우 대 배우 대담도 직접 만나서 할 수 있고요."
+        },
+        {
+          "t": 53.5,
+          "en": "— In person. Yeah. — And I get to be with you again.",
+          "ko": "— 직접이요. 네. — 그리고 다시 함께할 수 있게 됐죠."
+        },
+        {
+          "t": 56.1,
+          "en": "I know. It's important. I haven't seen you in so long.",
+          "ko": "그러니까요. 중요한 일이죠. 정말 오랜만이에요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "the last time we did this",
+          "ko": "지난번에 이걸 했을 때",
+          "note": ""
+        },
+        {
+          "chunk": "we've come a long way",
+          "ko": "우리 참 멀리 왔다",
+          "note": "물리적 거리 아님. 그동안 많이 나아졌다는 뜻"
+        },
+        {
+          "chunk": "let's just pick the good things",
+          "ko": "좋은 것만 고르기로 하자",
+          "note": ""
+        },
+        {
+          "chunk": "in person",
+          "ko": "직접 만나서",
+          "note": "online·on Zoom의 반대말"
+        },
+        {
+          "chunk": "I get to be with you again",
+          "ko": "다시 함께할 수 있게 됐다",
+          "note": "get to = 하게 되는 기회를 얻다. 010에도 나옴"
+        },
+        {
+          "chunk": "I haven't seen you in so long",
+          "ko": "정말 오랜만이에요",
+          "note": "long time no see보다 자연스러운 실제 표현"
+        }
+      ]
+    },
+    {
+      "id": "ss013",
+      "src": "videos/013.mp4",
+      "source": "Q&A 영상",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#Q&A영어",
+        "#마음표현"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "I've seen you hit bottom — like, dead on the floor, not breathing, rock bottom.",
+          "ko": "바닥을 치는 걸 봤어요. 바닥에 쓰러져 숨도 못 쉬는, 완전한 밑바닥이요."
+        },
+        {
+          "t": 7.6,
+          "en": "But you bounce back every time. I want to be resilient like that. Please share your secret.",
+          "ko": "그런데 매번 다시 일어나시죠. 저도 그렇게 되고 싶어요. 비결 좀 알려주세요."
+        },
+        {
+          "t": 14.7,
+          "en": "Okay, so today's topic is resilience. Strength.",
+          "ko": "좋아요, 오늘 주제는 회복력입니다. 그리고 강함이요."
+        },
+        {
+          "t": 20.7,
+          "en": "And the reason why I bring up this topic is because",
+          "ko": "이 주제를 꺼내는 이유는요,"
+        },
+        {
+          "t": 24.9,
+          "en": "my daughter is turning 16 this year. She'll be celebrating her sweet 16.",
+          "ko": "제 딸이 올해 열여섯이 되거든요. 스위트 식스틴을 맞이해요."
+        },
+        {
+          "t": 31.4,
+          "en": "And that age seems to be when you struggle the most with: am I strong enough to handle this?",
+          "ko": "그 나이가 가장 많이 흔들리는 때인 것 같아요. '내가 이걸 감당할 만큼 강한가?'"
+        },
+        {
+          "t": 38.4,
+          "en": "Am I strong enough to handle that?",
+          "ko": "'저건 감당할 수 있을까?'"
+        },
+        {
+          "t": 41.1,
+          "en": "Why does this bother me so much? Why is this failure hitting me so hard?",
+          "ko": "'왜 이게 이렇게 신경 쓰이지? 왜 이 실패가 이렇게 아프지?'"
+        },
+        {
+          "t": 46.6,
+          "en": "Why am I not able to get out of this thing that I'm in?",
+          "ko": "'왜 나는 지금 이 상황에서 빠져나오질 못하지?'"
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "hit rock bottom",
+          "ko": "밑바닥을 치다",
+          "note": "더 내려갈 데가 없는 상태"
+        },
+        {
+          "chunk": "bounce back",
+          "ko": "다시 털고 일어나다",
+          "note": "공이 튀어 오르는 그림"
+        },
+        {
+          "chunk": "the reason why I bring up this topic",
+          "ko": "이 얘기를 꺼내는 이유는",
+          "note": "bring up = 화제를 꺼내다"
+        },
+        {
+          "chunk": "strong enough to handle",
+          "ko": "감당할 만큼 강한",
+          "note": "형용사 + enough to + 동사"
+        },
+        {
+          "chunk": "hitting me so hard",
+          "ko": "너무 아프게 다가온다",
+          "note": "감정이 세게 때린다는 표현"
+        },
+        {
+          "chunk": "get out of this",
+          "ko": "여기서 빠져나오다",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ss014",
+      "src": "videos/014.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#음식취향"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "— Do you like to cook? — I love to cook.",
+          "ko": "— 요리하는 거 좋아하세요? — 아주 좋아해요."
+        },
+        {
+          "t": 3.6,
+          "en": "I love to eat. I'm an extraordinary eater.",
+          "ko": "먹는 것도 좋아하고요. 저는 대단한 먹보예요."
+        },
+        {
+          "t": 6.9,
+          "en": "— What's your favorite pizza place?",
+          "ko": "— 제일 좋아하는 피자집은요?"
+        },
+        {
+          "t": 7.9,
+          "en": "Did you ever go to that pizza place when we were shooting?",
+          "ko": "우리 촬영할 때 그 피자집 가보셨어요?"
+        },
+        {
+          "t": 11.2,
+          "en": "— I did not eat any gluten. — Oh, you didn't, did you?",
+          "ko": "— 저는 글루텐을 아예 안 먹었어요. — 아, 안 드셨죠?"
+        },
+        {
+          "t": 15.2,
+          "en": "— Are you back on gluten? — Nope.",
+          "ko": "— 지금은 다시 드세요? — 아뇨."
+        },
+        {
+          "t": 19.2,
+          "en": "— Are we doing gluten-free today? — We're going to do a bait and switch.",
+          "ko": "— 오늘은 글루텐 프리로 가나요? — 살짝 바꿔치기를 할 거예요."
+        },
+        {
+          "t": 21.2,
+          "en": "I'm going to make a pizza that everyone here can enjoy, and then they have a gluten-free one for me.",
+          "ko": "여기 계신 분들 다 즐길 수 있는 피자를 만들고, 저를 위한 글루텐 프리도 따로 준비돼 있어요."
+        },
+        {
+          "t": 24.9,
+          "en": "— Do you believe pineapple belongs on pizza? — For me, no.",
+          "ko": "— 파인애플이 피자에 올라가도 된다고 보세요? — 저는 아니요."
+        },
+        {
+          "t": 28.6,
+          "en": "I don't like sweet with my savory when it comes to pizza.",
+          "ko": "피자에서는 단맛이랑 짠맛 섞이는 걸 안 좋아해요."
+        },
+        {
+          "t": 32.2,
+          "en": "— I like it. I probably wouldn't order it, but I do like it.",
+          "ko": "— 저는 좋아해요. 주문까진 안 하겠지만, 좋아하긴 해요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "I'm an extraordinary eater",
+          "ko": "저는 대단한 먹보예요",
+          "note": "자기 소개용 농담"
+        },
+        {
+          "chunk": "back on gluten",
+          "ko": "글루텐을 다시 먹다",
+          "note": "be back on ~ = 끊었다가 다시 시작하다"
+        },
+        {
+          "chunk": "a bait and switch",
+          "ko": "미끼 던지고 바꿔치기",
+          "note": "원래는 상술. 여기선 농담으로 씀"
+        },
+        {
+          "chunk": "belongs on",
+          "ko": "~에 올라가는 게 맞다",
+          "note": "belong = 있어야 할 자리에 있다"
+        },
+        {
+          "chunk": "when it comes to",
+          "ko": "~에 관해서라면",
+          "note": "주제를 좁힐 때 쓰는 틀"
+        },
+        {
+          "chunk": "I probably wouldn't order it",
+          "ko": "주문까진 안 하겠지만",
+          "note": "완곡하게 선을 긋는 말"
         }
       ]
     }
