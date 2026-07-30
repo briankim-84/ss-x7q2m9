@@ -46,7 +46,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
   width:100%;aspect-ratio:9/16;object-fit:cover;background:var(--ink);display:block}
 .scrim{position:absolute;left:0;right:0;top:0;height:24%;pointer-events:none;
   background:linear-gradient(to bottom,rgba(0,0,0,.62),transparent)}
-.prog{position:relative;flex:none;height:26px;margin:2px 2px 0;display:flex;align-items:center;
+.prog{position:relative;flex:none;height:22px;margin:0 2px;display:flex;align-items:center;
   cursor:pointer;touch-action:none;-webkit-user-select:none;user-select:none}
 .prog .track{width:100%;height:3px;border-radius:2px;background:rgba(255,255,255,.22);overflow:hidden;
   transition:height .15s}
@@ -126,9 +126,9 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 /* 하단 — 영상 밴드 아래에서 시작 */
 .lower{position:absolute;left:0;right:0;bottom:0;top:var(--lower-top,62%);z-index:6;
   display:flex;flex-direction:column;
-  padding:0 14px calc(62px + env(safe-area-inset-bottom))}
-.subs{flex:none;min-height:56px;display:flex;flex-direction:column;justify-content:center;
-  padding:6px 4px 8px;text-align:center}
+  padding:0 14px calc(50px + env(safe-area-inset-bottom))}
+.subs{flex:none;min-height:44px;display:flex;flex-direction:column;justify-content:center;
+  padding:2px 4px 6px;text-align:center}
 .subs .en{font-family:var(--en);font-size:16px;font-weight:500;letter-spacing:-.005em;
   line-height:1.35;text-shadow:0 1px 6px rgba(0,0,0,.8)}
 .subs .ko{font-size:15px;font-weight:500;letter-spacing:-.02em;
@@ -136,12 +136,12 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .subs[data-mode="off"]{opacity:0}
 
 .seg{position:relative;display:grid;grid-template-columns:repeat(3,1fr);flex:none;
-  width:222px;margin:0 auto 12px;padding:3px;
+  width:210px;margin:0 auto 8px;padding:3px;
   background:rgba(20,20,22,.62);border:1px solid var(--line);border-radius:999px;
   backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px)}
 .seg .thumb{position:absolute;top:3px;left:3px;width:calc((100% - 6px)/3);height:calc(100% - 6px);
   background:var(--mark);border-radius:999px;transition:transform .26s cubic-bezier(.34,1.4,.5,1)}
-.seg button{position:relative;z-index:1;padding:7px 0;font-size:12.5px;font-weight:600;
+.seg button{position:relative;z-index:1;padding:5.5px 0;font-size:12px;font-weight:600;
   letter-spacing:-.02em;color:var(--mute);transition:color .18s}
 .seg button[aria-selected="true"]{color:#141416}
 
@@ -169,12 +169,11 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
   opacity:0;transition:opacity .2s;pointer-events:none}
 .toast.on{opacity:1}
 .sheet::-webkit-scrollbar{display:none}
-.hearts{font-size:12.5px;font-weight:600;color:rgba(255,255,255,.9);letter-spacing:-.02em;
-  margin-bottom:5px;font-variant-numeric:tabular-nums}
 .cap{font-size:13.5px;line-height:1.5;letter-spacing:-.015em}
 .cap .who{font-family:var(--en);font-weight:700;font-size:13.5px;margin-right:5px}
 .cap .tags{font-family:var(--en);font-weight:500;color:#9cc0ff}
-.more{font-size:13px;color:var(--dim);margin-top:5px;letter-spacing:-.02em}
+.more{font-size:13px;color:rgba(255,255,255,.72);font-weight:600;margin-left:6px;letter-spacing:-.02em}
+.clip.reading .cap .more{display:block;margin:8px 0 0}
 .picks{margin-top:12px;border-top:1px solid var(--line);padding-top:12px}
 .picks.hidden{display:none}
 .picks h3{font-size:11px;font-weight:700;letter-spacing:.14em;color:var(--dim);margin-bottom:11px}
@@ -187,17 +186,17 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .note{margin-top:3px;font-size:11.5px;color:var(--dim);letter-spacing:-.02em}
 
 .tabbar{position:absolute;left:0;right:0;bottom:0;z-index:9;display:grid;
-  grid-template-columns:repeat(3,1fr);height:calc(54px + env(safe-area-inset-bottom));
+  grid-template-columns:repeat(3,1fr);height:calc(46px + env(safe-area-inset-bottom));
   padding-bottom:env(safe-area-inset-bottom);
   background:rgba(10,10,11,.92);border-top:1px solid var(--line);
   backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px)}
-.tabbar button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;
-  color:rgba(255,255,255,.5);height:54px}
+.tabbar button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;
+  color:rgba(255,255,255,.5);height:46px}
 .tabbar button[aria-selected="true"]{color:var(--paper)}
-.tabbar svg{width:23px;height:23px;stroke:currentColor;stroke-width:1.7;fill:none;
+.tabbar svg{width:20px;height:20px;stroke:currentColor;stroke-width:1.7;fill:none;
   stroke-linecap:round;stroke-linejoin:round}
 .tabbar button[aria-selected="true"] svg.fillable{fill:currentColor}
-.tabbar span{font-size:10px;font-weight:600;letter-spacing:-.02em}
+.tabbar span{font-size:9.5px;font-weight:600;letter-spacing:-.02em}
 .clip.reading ~ .tabbar,body.reading .tabbar{opacity:0;pointer-events:none}
 
 .view{position:absolute;inset:0;z-index:8;background:var(--shell);display:none;
@@ -348,9 +347,7 @@ function render(){
     </div>
     <div class="sheet">
       <div class="grip"></div>
-      <p class="hearts">하트 0개</p>
-      <p class="cap"><span class="who">${FEED.handle}</span><span class="tags">${c.tags.join(" ")}</span></p>
-      <button class="more">더보기</button>
+      <p class="cap"><span class="who">${FEED.handle}</span><span class="tags">${c.tags.join(" ")}</span><button class="more">더보기</button></p>
       <div class="picks">
         <h3>핵심 표현 ${c.picks.length}</h3>
         ${c.picks.map(p=>`
@@ -530,7 +527,6 @@ function renderCounts(){
     const id=el.dataset.id;
     el.querySelector(".count").textContent=nf(total(id));
     el.querySelector(".like").classList.toggle("on",myTaps(id)>0);
-    el.querySelector(".hearts").textContent=`하트 ${nf(total(id))}개`;
   });
 }
 function tapLike(btn,el){
