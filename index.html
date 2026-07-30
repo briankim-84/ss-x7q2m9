@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#000000">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
 <title>Swipe &amp; Speak — 넘기면서 배우는 영어</title>
 <meta name="description" content="실제 인터뷰 클립으로 배우는 영어. 한글·영어·무자막 3단 토글, 클립마다 핵심 표현 정리. DoEnglishwithBrian">
 <meta property="og:type" content="website">
@@ -236,6 +237,7 @@ boot();
 async function boot(){
   const res=await fetch("feed.json",{cache:"no-cache"});
   FEED=await res.json();
+  console.log("Swipe & Speak feed v"+FEED.version);
   FEED.clips.forEach(c=>{ server[c.id]=0; pending[c.id]=0; });
   render();
   connect();
