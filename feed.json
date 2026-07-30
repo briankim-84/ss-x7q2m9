@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
+  "version": "2.3",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -133,7 +133,8 @@
           "use": "That question came out of nowhere.",
           "useKo": "그 질문 진짜 갑자기 나왔어요."
         }
-      ]
+      ],
+      "poster": "posters/001.jpg"
     },
     {
       "id": "ss002",
@@ -286,7 +287,8 @@
           "use": "It literally tastes like water.",
           "useKo": "진짜 딱 물 맛이에요."
         }
-      ]
+      ],
+      "poster": "posters/002.jpg"
     },
     {
       "id": "ss003",
@@ -359,7 +361,8 @@
           "use": "She pushed it all the way to the very end.",
           "useKo": "끝의 끝까지 밀어붙였어요."
         }
-      ]
+      ],
+      "poster": "posters/003.jpg"
     },
     {
       "id": "ss004",
@@ -457,7 +460,8 @@
           "use": "At some point you just have to let it go.",
           "useKo": "어느 순간엔 그냥 놓아야 해요."
         }
-      ]
+      ],
+      "poster": "posters/004.jpg"
     },
     {
       "id": "ss005",
@@ -570,7 +574,8 @@
           "use": "Even after all that, she's always been herself.",
           "useKo": "그 일을 다 겪고도 한결같아요."
         }
-      ]
+      ],
+      "poster": "posters/005.jpg"
     },
     {
       "id": "ss006",
@@ -638,7 +643,8 @@
           "use": "It's the third time this week.",
           "useKo": "이번 주만 세 번째예요."
         }
-      ]
+      ],
+      "poster": "posters/006.jpg"
     },
     {
       "id": "ss007",
@@ -711,7 +717,8 @@
           "use": "He's pretty happy-go-lucky about everything.",
           "useKo": "걘 뭐든 참 태평해요."
         }
-      ]
+      ],
+      "poster": "posters/007.jpg"
     },
     {
       "id": "ss008",
@@ -779,7 +786,8 @@
           "use": "That soundtrack goes hard.",
           "useKo": "그 사운드트랙 진짜 좋아요."
         }
-      ]
+      ],
+      "poster": "posters/008.jpg"
     },
     {
       "id": "ss009",
@@ -847,7 +855,8 @@
           "use": "He's not picking up.",
           "useKo": "걔 전화를 안 받네."
         }
-      ]
+      ],
+      "poster": "posters/009.jpg"
     },
     {
       "id": "ss010",
@@ -935,7 +944,8 @@
           "use": "Her talent can only be surpassed by her kindness.",
           "useKo": "그의 재능을 넘어서는 건 그 다정함뿐입니다."
         }
-      ]
+      ],
+      "poster": "posters/010.jpg"
     },
     {
       "id": "ss011",
@@ -1038,7 +1048,8 @@
           "use": "Their voices were drowned out by the noise.",
           "useKo": "그들의 목소리는 소음에 묻혔어요."
         }
-      ]
+      ],
+      "poster": "posters/011.jpg"
     },
     {
       "id": "ss012",
@@ -1131,7 +1142,8 @@
           "use": "The last time we met was before the pandemic.",
           "useKo": "지난번에 만난 게 팬데믹 전이었네요."
         }
-      ]
+      ],
+      "poster": "posters/012.jpg"
     },
     {
       "id": "ss013",
@@ -1214,7 +1226,8 @@
           "use": "I didn't want to bring it up.",
           "useKo": "그 얘긴 꺼내고 싶지 않았어요."
         }
-      ]
+      ],
+      "poster": "posters/013.jpg"
     },
     {
       "id": "ss014",
@@ -1307,7 +1320,8 @@
           "use": "I don't order it, but I do like it.",
           "useKo": "주문은 안 하는데, 좋아하긴 해요."
         }
-      ]
+      ],
+      "poster": "posters/014.jpg"
     }
   ]
 }
