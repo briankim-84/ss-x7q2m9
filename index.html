@@ -4,10 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#000000">
-<title>Scroll &amp; Speak — 넘기면서 배우는 영어</title>
+<title>Swipe &amp; Speak — 넘기면서 배우는 영어</title>
 <meta name="description" content="실제 인터뷰 클립으로 배우는 영어. 한글·영어·무자막 3단 토글, 클립마다 핵심 표현 정리. DoEnglishwithBrian">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Scroll & Speak — 넘기면서 배우는 영어">
+<meta property="og:title" content="Swipe & Speak — 넘기면서 배우는 영어">
 <meta property="og:description" content="실제 인터뷰 클립으로 배우는 영어. 자막 3단 토글, 클립마다 핵심 표현 정리.">
 <meta property="og:image" content="https://briankim-84.github.io/ss-x7q2m9/og.png">
 <meta property="og:url" content="https://briankim-84.github.io/ss-x7q2m9/">
@@ -132,6 +132,28 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .seg button[aria-selected="true"]{color:#141416}
 
 .sheet{flex:1;min-height:0;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:none}
+/* 읽기 모드 — 표현 패널을 위로 끌어올림 */
+.clip.reading .lower{top:24%;background:linear-gradient(to top,rgba(0,0,0,.95) 55%,rgba(0,0,0,.78));
+  backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+.clip.reading .subs,.clip.reading .seg,.clip.reading .rail{display:none}
+.clip.reading .sheet{padding-top:4px}
+.grip{display:none;width:38px;height:4px;border-radius:2px;background:rgba(255,255,255,.28);
+  margin:8px auto 12px;flex:none}
+.clip.reading .grip{display:block}
+.pick .why{margin-top:8px;font-size:12.5px;line-height:1.6;color:rgba(255,255,255,.74);letter-spacing:-.02em}
+.pick .why b{color:var(--mark);font-weight:700;margin-right:5px}
+.pick .use{margin-top:9px;padding:9px 11px;border-radius:9px;background:rgba(255,255,255,.055);
+  border-left:2px solid var(--mark)}
+.pick .use em{display:block;font-family:var(--en);font-style:normal;font-size:14px;font-weight:600;
+  letter-spacing:-.01em;line-height:1.4}
+.pick .use i{display:block;font-style:normal;margin-top:4px;font-size:12px;
+  color:rgba(255,255,255,.58);letter-spacing:-.02em}
+.pick{padding:14px 0}
+.toast{position:absolute;left:50%;bottom:88px;transform:translateX(-50%);z-index:9;
+  background:rgba(20,20,22,.9);border:1px solid var(--line);border-radius:999px;
+  padding:9px 16px;font-size:12.5px;font-weight:600;letter-spacing:-.02em;
+  opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.on{opacity:1}
 .sheet::-webkit-scrollbar{display:none}
 .hearts{font-size:12.5px;font-weight:600;color:rgba(255,255,255,.9);letter-spacing:-.02em;
   margin-bottom:5px;font-variant-numeric:tabular-nums}
@@ -249,6 +271,7 @@ function render(){
       <button role="tab" data-mode="off" aria-selected="false">무자막</button>
     </div>
     <div class="sheet">
+      <div class="grip"></div>
       <p class="hearts">하트 0개</p>
       <p class="cap"><span class="who">${FEED.handle}</span><span class="tags">${c.tags.join(" ")}</span></p>
       <button class="more">더보기</button>
@@ -258,7 +281,8 @@ function render(){
           <div class="pick">
             <span class="chunk">${esc(p.chunk)}</span>
             <div class="gloss">${esc(p.ko)}</div>
-            ${p.note?`<div class="note">${esc(p.note)}</div>`:""}
+            <div class="why"><b>왜</b>${esc(p.why)}</div>
+            <div class="use"><em>${esc(p.use)}</em><i>${esc(p.useKo)}</i></div>
           </div>`).join("")}
       </div>
     </div>
@@ -277,11 +301,13 @@ function bind(el){
   el.querySelectorAll(".seg button").forEach(b=>
     b.addEventListener("click",()=>{ MODE=b.dataset.mode; syncUI(); }));
   el.querySelector(".more").addEventListener("click",()=>{ el._open=!el._open; paintPicks(el); });
+  el.querySelector(".grip").addEventListener("click",()=>{ el._open=false; paintPicks(el); });
   el.querySelector(".like").addEventListener("click",e=>tapLike(e.currentTarget,el));
   el.querySelector(".save").addEventListener("click",e=>{
     const b=e.currentTarget; b.setAttribute("aria-pressed", b.getAttribute("aria-pressed")==="false");
   });
   el.querySelector(".sound").addEventListener("click",()=>setSound(!SOUND));
+  el.querySelector(".share").addEventListener("click",shareApp);
   el.querySelector(".soundhint").addEventListener("click",()=>setSound(true));
   el.querySelector(".tapzone").addEventListener("click",()=>{
     if(!SOUND){ setSound(true); return; }
@@ -317,7 +343,9 @@ function layoutAll(){
 }
 function paintPicks(el){
   el.querySelector(".picks").classList.toggle("hidden",!el._open);
+  el.classList.toggle("reading",!!el._open);
   el.querySelector(".more").textContent = el._open ? "접기" : "더보기";
+  if(el._open) el.querySelector(".sheet").scrollTop=0;
 }
 function syncUI(){
   document.querySelectorAll(".clip").forEach(el=>{
@@ -359,6 +387,23 @@ function unlockAll(){          /* 반드시 사용자 탭 안에서 호출 */
     const p=v.play();
     if(p&&p.then) p.then(()=>{ if(!el.classList.contains("live")) v.pause(); }).catch(()=>{});
   });
+}
+function toast(msg){
+  const el=document.querySelector(".clip.live")||document.querySelector(".clip");
+  if(!el) return;
+  let t=el.querySelector(".toast");
+  if(!t){ t=document.createElement("div"); t.className="toast"; el.appendChild(t); }
+  t.textContent=msg; requestAnimationFrame(()=>t.classList.add("on"));
+  clearTimeout(t._h); t._h=setTimeout(()=>t.classList.remove("on"),1800);
+}
+async function shareApp(){
+  const url=location.origin+location.pathname;
+  const data={title:"Swipe & Speak",text:"실제 인터뷰 클립으로 영어 표현 익히기 — DoEnglishwithBrian",url};
+  if(navigator.share){
+    try{ await navigator.share(data); return; }catch(e){ if(e&&e.name==="AbortError") return; }
+  }
+  try{ await navigator.clipboard.writeText(url); toast("링크를 복사했습니다"); }
+  catch(e){ window.prompt("아래 주소를 복사하세요", url); }
 }
 function setSound(on){
   SOUND=on;
