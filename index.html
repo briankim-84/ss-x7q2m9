@@ -507,7 +507,10 @@ document.addEventListener("visibilitychange",()=>{
   if(document.visibilityState==="visible"){
     const v=liveEl&&liveEl.querySelector("video");
     if(v && !v.paused) keepAwake();
-  } else letSleep();
+  } else {
+    letSleep();
+    document.querySelectorAll("video").forEach(v=>{ if(!v.paused) v.pause(); });
+  }
 });
 
 let unlocked=false;
@@ -515,8 +518,16 @@ function unlockAll(){          /* 반드시 사용자 탭 안에서 호출 */
   if(unlocked) return; unlocked=true;
   document.querySelectorAll(".clip").forEach(el=>{
     const v=el.querySelector("video");
-    if(!v.src && v.dataset.src){ v.src=v.dataset.src; }
+    const isLive=el.classList.contains("live");
+    if(isLive){                      /* 현재 클립만 실제로 재생 */
+      if(!v.src && v.dataset.src){ v.src=v.dataset.src; }
+      const p=v.play(); if(p&&p.then) p.catch(()=>{});
+      return;
+    }
+    /* 나머지는 소리 잠금 해제용으로만 짧게 건드리고 즉시 정지 (음소거 유지) */
+    v.muted=true;
     const p=v.play();
+    v.pause();                       /* 동기 정지 — 겹침 원천 차단 */
     if(p&&p.then) p.then(()=>{ if(!el.classList.contains("live")) v.pause(); }).catch(()=>{});
   });
 }
@@ -540,8 +551,11 @@ async function shareApp(){
 function setSound(on){
   SOUND=on;
   unlockAll(); keepAwake();
-  document.querySelectorAll("video").forEach(v=>{ v.muted=!on; });
   const live=document.querySelector(".clip.live video");
+  /* 현재 보고 있는 클립 외에는 항상 음소거 + 정지 (소리 겹침 방지) */
+  document.querySelectorAll("video").forEach(v=>{
+    if(v!==live){ v.muted=true; if(!v.paused) v.pause(); }
+  });
   if(live){ live.muted=!on; live.play().catch(()=>{}); }
   syncUI();
 }
@@ -568,6 +582,13 @@ function tapLike(btn,el){
 }
 
 let liveEl=null;
+/* 안전망: 현재 클립이 아닌 영상이 재생되면 즉시 정지·음소거 */
+document.addEventListener("play",e=>{
+  const v=e.target;
+  if(!v||v.tagName!=="VIDEO") return;
+  const el=v.closest(".clip");
+  if(el && !el.classList.contains("live")){ v.muted=true; v.pause(); }
+},true);
 const io=new IntersectionObserver(entries=>{
   entries.forEach(e=>{
     const el=e.target, v=el.querySelector("video");
@@ -575,7 +596,7 @@ const io=new IntersectionObserver(entries=>{
     if(el===liveEl) return;        /* 이미 재생 중인 클립이면 건드리지 않음 */
     if(liveEl){
       const pv=liveEl.querySelector("video");
-      liveEl.classList.remove("live"); pv.pause();
+      liveEl.classList.remove("live"); pv.pause(); pv.muted=true;   /* 지난 클립은 음소거로 되돌림 */
       try{ pv.currentTime=0; }catch(err){}
     }
     liveEl=el;
