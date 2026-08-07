@@ -1,5 +1,5 @@
 {
-  "version": "2.6",
+  "version": "2.7",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -1322,6 +1322,572 @@
         }
       ],
       "poster": "posters/014.jpg"
+    },
+    {
+      "id": "ss015",
+      "src": "videos/015.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#예감표현"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "We love you. Welcome back to the show.",
+          "ko": "정말 좋아합니다. 다시 모시게 됐네요."
+        },
+        {
+          "t": 3.2,
+          "en": "It's always great to see you.",
+          "ko": "뵐 때마다 반갑습니다."
+        },
+        {
+          "t": 4.4,
+          "en": "I want to get into the Odyssey. It is epic. It's fantastic.",
+          "ko": "「오디세이」 얘기를 하고 싶어요. 대단하더군요. 정말 훌륭합니다."
+        },
+        {
+          "t": 7.5,
+          "en": "Before we get into the film, I got to talk to you about the World Cup.",
+          "ko": "영화 얘기 전에, 월드컵 얘기부터 해야겠어요."
+        },
+        {
+          "t": 11.1,
+          "en": "Okay, let's get into it.",
+          "ko": "좋아요, 해보죠."
+        },
+        {
+          "t": 12.3,
+          "en": "Because I know you're from England. You're an England fan,",
+          "ko": "영국 출신이시잖아요. 잉글랜드 팬이시고,"
+        },
+        {
+          "t": 15.2,
+          "en": "so they just beat Norway.",
+          "ko": "방금 노르웨이를 이겼죠."
+        },
+        {
+          "t": 19.2,
+          "en": "Yeah, and now England's in the semifinals.",
+          "ko": "네, 이제 잉글랜드가 4강에 올랐어요."
+        },
+        {
+          "t": 21.6,
+          "en": "Yeah, this is a big deal.",
+          "ko": "네, 이거 큰일이죠."
+        },
+        {
+          "t": 23.6,
+          "en": "It's a huge deal for us, and it really does —",
+          "ko": "저희한텐 정말 큰일이에요. 그리고 정말 —"
+        },
+        {
+          "t": 26.7,
+          "en": "It feels like something is in the air right now.",
+          "ko": "지금 뭔가 심상치 않은 기운이 도는 것 같아요."
+        },
+        {
+          "t": 29.6,
+          "en": "Do you feel it?",
+          "ko": "느껴지세요?"
+        },
+        {
+          "t": 30.3,
+          "en": "Sometimes in life, I just get a feeling.",
+          "ko": "살다 보면 그냥 느낌이 올 때가 있잖아요."
+        },
+        {
+          "t": 35.0,
+          "en": "And I have that feeling right now, Jimmy.",
+          "ko": "지금 그 느낌이 와요, 지미."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "get into ___",
+          "ko": "~에 대해 본격적으로 얘기하다",
+          "why": "'들어가다'로만 알면 이 문장이 안 잡힙니다. 화제를 꺼내 파고든다는 뜻이라, 인터뷰에서 주제를 옮길 때 계속 나옵니다. 뒤에 영화·주제·문제 어떤 명사든 붙습니다.",
+          "use": "Before we get into that, one quick question.",
+          "useKo": "그 얘기 들어가기 전에, 하나만 여쭐게요."
+        },
+        {
+          "chunk": "something is in the air",
+          "ko": "뭔가 심상치 않은 기운이 돈다",
+          "why": "공기 중에 뭐가 있다는 말이 아닙니다. 설명하긴 어렵지만 분위기가 달라졌다는 걸 통째로 담는 표현이고, 좋은 예감 쪽으로 기웁니다.",
+          "use": "There's something in the air tonight.",
+          "useKo": "오늘 밤 분위기가 심상치 않네요."
+        },
+        {
+          "chunk": "it's a big deal",
+          "ko": "그거 대단한 일이다",
+          "why": "deal은 거래지만 big deal은 '큰 사건'입니다. 반대로 no big deal은 '별거 아니야'가 되어 정반대 뜻이 되니, 둘을 한 쌍으로 외워두면 헷갈리지 않습니다.",
+          "use": "It's not a big deal, really.",
+          "useKo": "진짜 별거 아니에요."
+        }
+      ],
+      "poster": "posters/015.jpg"
+    },
+    {
+      "id": "ss016",
+      "src": "videos/016.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#거절표현"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "It is so great to see you, bud.",
+          "ko": "이렇게 봬서 정말 반가워요."
+        },
+        {
+          "t": 1.2,
+          "en": "Good to see you, too. Welcome back to the show.",
+          "ko": "저도 반갑습니다. 다시 오신 걸 환영해요."
+        },
+        {
+          "t": 2.8,
+          "en": "Thank you. You know, it was fun.",
+          "ko": "고맙습니다. 그때 참 재밌었어요."
+        },
+        {
+          "t": 4.2,
+          "en": "I got to spend a little time with you after the Odyssey a few weeks ago.",
+          "ko": "몇 주 전 「오디세이」 끝나고 같이 시간을 좀 보냈죠."
+        },
+        {
+          "t": 8.6,
+          "en": "Our friend has a summer party with all the families, and we got together.",
+          "ko": "친구가 가족들 모아서 여름 파티를 열었는데, 거기서 만났어요."
+        },
+        {
+          "t": 12.3,
+          "en": "And you were nice and fun, as always.",
+          "ko": "여전히 다정하고 유쾌하시더군요."
+        },
+        {
+          "t": 13.8,
+          "en": "We sang karaoke together.",
+          "ko": "같이 노래방도 했고요."
+        },
+        {
+          "t": 16.9,
+          "en": "We had breakfast together at this big table,",
+          "ko": "큰 테이블에서 다 같이 아침을 먹었는데,"
+        },
+        {
+          "t": 21.1,
+          "en": "and I go, \"Hey, bud,\" and we're talking.",
+          "ko": "제가 \"어이\" 하면서 얘기를 나눴죠."
+        },
+        {
+          "t": 24.1,
+          "en": "And you go, \"What are you doing today?\"",
+          "ko": "그쪽이 \"오늘 뭐 해요?\" 하시길래,"
+        },
+        {
+          "t": 26.2,
+          "en": "I go, \"I'm gonna go on a hike. You want to come?\"",
+          "ko": "제가 \"등산 가려는데, 같이 가실래요?\" 했어요."
+        },
+        {
+          "t": 28.7,
+          "en": "And do you remember what you said?",
+          "ko": "뭐라고 하셨는지 기억나세요?"
+        },
+        {
+          "t": 30.1,
+          "en": "I said, \"No.\"",
+          "ko": "\"아뇨\"라고 했죠."
+        },
+        {
+          "t": 31.7,
+          "en": "You didn't elaborate. That was the end of it.",
+          "ko": "부연 설명도 없었어요. 그걸로 끝이었죠."
+        },
+        {
+          "t": 34.2,
+          "en": "I go, \"Okay, fair enough.\"",
+          "ko": "제가 \"알겠어요, 그럴 만하죠\" 했고요."
+        },
+        {
+          "t": 35.8,
+          "en": "There's no elaboration needed.",
+          "ko": "덧붙일 게 없었으니까요."
+        },
+        {
+          "t": 38.1,
+          "en": "I knew what I wanted to do that day, which was not go hiking.",
+          "ko": "그날 뭘 하고 싶은지 알고 있었고, 그게 등산은 아니었어요."
+        },
+        {
+          "t": 45.1,
+          "en": "Where's the vacation at?",
+          "ko": "휴가는 어디로 가세요?"
+        },
+        {
+          "t": 48.2,
+          "en": "But we sang Sweet Caroline, and then we sang America.",
+          "ko": "「스위트 캐롤라인」 부르고, 그다음 「아메리카」도 불렀죠."
+        },
+        {
+          "t": 53.1,
+          "en": "Neil Diamond.",
+          "ko": "닐 다이아몬드 곡이죠."
+        },
+        {
+          "t": 54.3,
+          "en": "We were coming up on July 4th. We had to do that.",
+          "ko": "독립기념일이 다가오던 참이라, 안 부를 수가 없었죠."
+        },
+        {
+          "t": 57.4,
+          "en": "But you're in World Cup madness, right?",
+          "ko": "그런데 지금 월드컵에 푹 빠져 계시죠?"
+        },
+        {
+          "t": 60.9,
+          "en": "Because your wife is from Argentina.",
+          "ko": "아내분이 아르헨티나 출신이시니까요."
+        },
+        {
+          "t": 64.5,
+          "en": "But then you also have a connection with Spain.",
+          "ko": "그런데 스페인과도 인연이 있으시죠."
+        },
+        {
+          "t": 67.2,
+          "en": "Well, her brother is Spanish. He was born and raised in Spain.",
+          "ko": "처남이 스페인 사람이에요. 스페인에서 나고 자랐죠."
+        },
+        {
+          "t": 72.0,
+          "en": "So it's crazy in our family. Everyone's got World Cup fever.",
+          "ko": "그래서 저희 집이 난리예요. 다들 월드컵 열병에 걸렸죠."
+        },
+        {
+          "t": 79.6,
+          "en": "Have you ever been to a match?",
+          "ko": "경기장에 가보신 적 있어요?"
+        },
+        {
+          "t": 80.5,
+          "en": "I've been to a match in Argentina.",
+          "ko": "아르헨티나에서 한 번 봤어요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "fair enough",
+          "ko": "그럴 만하죠, 알겠어요",
+          "why": "완전히 동의하는 건 아니지만 상대 입장이 이해된다는 뜻입니다. 반박을 접고 넘어갈 때 쓰는 두 단어짜리 마침표라, 대화가 부드럽게 끊깁니다.",
+          "use": "Fair enough, I won't push it.",
+          "useKo": "알겠어요, 더 말 안 할게요."
+        },
+        {
+          "chunk": "you didn't elaborate",
+          "ko": "부연 설명이 없었다",
+          "why": "elaborate는 '정교한'이라는 형용사로도 쓰여서 헷갈립니다. 동사로 쓰면 이미 한 말에 살을 덧붙인다는 뜻이고, 회의나 인터뷰에서 자주 요청받는 말입니다.",
+          "use": "Could you elaborate on that?",
+          "useKo": "조금 더 자세히 말씀해 주시겠어요?"
+        },
+        {
+          "chunk": "and I go, ...",
+          "ko": "그래서 내가 그랬죠, ~",
+          "why": "교과서에는 안 나오지만 원어민이 남의 말을 옮길 때 said 대신 가장 많이 쓰는 말입니다. 현재형인데 과거 이야기를 하고, 그래서 장면이 살아 있는 느낌이 납니다.",
+          "use": "And I go, \"No way,\" and she goes, \"I'm serious.\"",
+          "useKo": "그래서 제가 \"말도 안 돼\" 했더니, 걔가 \"진짜야\" 하더라고요."
+        }
+      ],
+      "poster": "posters/016.jpg"
+    },
+    {
+      "id": "ss017",
+      "src": "videos/017.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#긴장표현"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "What was that like?",
+          "ko": "어떤 느낌이었어요?"
+        },
+        {
+          "t": 1.5,
+          "en": "Was it extra pressure doing Shakespeare in England?",
+          "ko": "영국에서 셰익스피어를 하는 게 더 부담됐나요?"
+        },
+        {
+          "t": 4.0,
+          "en": "Yes, as an American, yes.",
+          "ko": "네, 미국인으로서는 그렇죠."
+        },
+        {
+          "t": 6.5,
+          "en": "Why would you put yourself in that position?",
+          "ko": "왜 그런 자리에 스스로를 밀어 넣으셨어요?"
+        },
+        {
+          "t": 8.7,
+          "en": "Well, I didn't. I guess I wasn't nervous at first,",
+          "ko": "그럴 생각은 아니었어요. 처음엔 긴장이 안 됐거든요."
+        },
+        {
+          "t": 11.3,
+          "en": "and then once we got the whole cast together,",
+          "ko": "그런데 출연진이 다 모이고 나니까,"
+        },
+        {
+          "t": 14.6,
+          "en": "it was, like, a mostly British cast.",
+          "ko": "거의 다 영국 배우들이더라고요."
+        },
+        {
+          "t": 18.6,
+          "en": "And when they do Shakespeare, it just sounds so good and so natural,",
+          "ko": "그 사람들이 셰익스피어를 하면 정말 좋고 자연스럽게 들려요."
+        },
+        {
+          "t": 21.4,
+          "en": "and I sound so American.",
+          "ko": "그런데 저는 너무 미국인처럼 들리고요."
+        },
+        {
+          "t": 23.2,
+          "en": "I was, like, very aware of my accent.",
+          "ko": "제 억양이 계속 신경 쓰였어요."
+        },
+        {
+          "t": 25.8,
+          "en": "Got in your head, yeah.",
+          "ko": "머릿속에 들어앉았군요."
+        },
+        {
+          "t": 27.1,
+          "en": "But you crushed it. It was great.",
+          "ko": "그래도 정말 잘하셨어요. 훌륭했습니다."
+        },
+        {
+          "t": 28.8,
+          "en": "And I know a lot of your friends came to see you.",
+          "ko": "친구분들도 많이 보러 오셨다면서요."
+        },
+        {
+          "t": 30.3,
+          "en": "All these big names come to see you.",
+          "ko": "쟁쟁한 분들이 다 보러 왔죠."
+        },
+        {
+          "t": 35.2,
+          "en": "Do you get nervous knowing that they're there,",
+          "ko": "그분들이 와 있다는 걸 알면 긴장되세요,"
+        },
+        {
+          "t": 36.9,
+          "en": "or do you not want to know if anyone's coming?",
+          "ko": "아니면 아예 모르고 싶으세요?"
+        },
+        {
+          "t": 38.8,
+          "en": "I don't want to know if anyone's there,",
+          "ko": "누가 왔는지 모르고 싶어요."
+        },
+        {
+          "t": 41.5,
+          "en": "and then sometimes it's inevitable. They'll let me know, which is fine.",
+          "ko": "그런데 어쩔 수 없을 때도 있죠. 알려주기도 하는데, 그건 괜찮아요."
+        },
+        {
+          "t": 44.7,
+          "en": "Do you ever recognize them in the middle of a performance?",
+          "ko": "공연 중에 알아본 적도 있어요?"
+        },
+        {
+          "t": 46.8,
+          "en": "No. I mean, well, my brother once —",
+          "ko": "아뇨. 아, 형이 한 번 —"
+        },
+        {
+          "t": 50.1,
+          "en": "one of my older brothers, he was in the audience,",
+          "ko": "형들 중 하나가 객석에 있었는데,"
+        },
+        {
+          "t": 52.1,
+          "en": "and I locked eyes with him during a soliloquy and was like, \"Oh, no.\"",
+          "ko": "독백 중에 눈이 딱 마주쳐서 '어떡해' 싶었죠."
+        },
+        {
+          "t": 55.3,
+          "en": "Did it throw you? — Just a little bit.",
+          "ko": "흔들리셨어요? — 조금은요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "it got in my head",
+          "ko": "그게 머릿속에 들어앉았다",
+          "why": "직역하면 '내 머리에 들어왔다'라 뜻이 안 잡힙니다. 신경 쓰이기 시작해서 계속 맴돈다는 말이고, 실력 자체는 그대로인데 마음이 흔들릴 때 씁니다.",
+          "use": "Don't let it get in your head.",
+          "useKo": "거기 신경 쓰지 마세요."
+        },
+        {
+          "chunk": "you crushed it",
+          "ko": "정말 잘 해냈다",
+          "why": "'부쉈다'가 아니라 최고의 칭찬입니다. 발표·시험·공연처럼 결과가 나오는 일에 쓰고, nailed it과 바꿔 써도 그대로 통합니다.",
+          "use": "You crushed that presentation.",
+          "useKo": "발표 진짜 잘하셨어요."
+        },
+        {
+          "chunk": "did it throw you?",
+          "ko": "그것 때문에 흔들렸어요?",
+          "why": "throw는 던지다지만, 사람을 목적어로 두면 균형을 잃게 만든다는 뜻이 됩니다. 예상 못 한 일에 당황했느냐고 묻는 말이라 질문 그대로 외워두면 됩니다.",
+          "use": "That question really threw me.",
+          "useKo": "그 질문에 진짜 당황했어요."
+        }
+      ],
+      "poster": "posters/017.jpg"
+    },
+    {
+      "id": "ss018",
+      "src": "videos/018.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#근황표현"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Welcome to Blind Date.",
+          "ko": "「블라인드 데이트」에 오신 걸 환영합니다."
+        },
+        {
+          "t": 6.0,
+          "en": "I dressed up for you. — You did.",
+          "ko": "오늘 차려입고 왔어요. — 그러셨네요."
+        },
+        {
+          "t": 8.0,
+          "en": "You look so beautiful.",
+          "ko": "정말 아름다우세요."
+        },
+        {
+          "t": 10.0,
+          "en": "Cheers. — Cheers.",
+          "ko": "건배. — 건배."
+        },
+        {
+          "t": 13.0,
+          "en": "Thank you for having me.",
+          "ko": "불러주셔서 감사해요."
+        },
+        {
+          "t": 14.0,
+          "en": "My first question for you is, should I go by Willa?",
+          "ko": "첫 질문인데요, 저도 그냥 '윌라'로 불러야 할까요?"
+        },
+        {
+          "t": 18.0,
+          "en": "No last name, all caps.",
+          "ko": "성 없이, 전부 대문자로요."
+        },
+        {
+          "t": 20.0,
+          "en": "Always. — Always. You should.",
+          "ko": "당연하죠. — 당연하죠. 그러셔야 해요."
+        },
+        {
+          "t": 23.0,
+          "en": "I mean, I go by Jenny, all caps, no last name.",
+          "ko": "저도 '제니'로 통해요. 전부 대문자에 성은 없고요."
+        },
+        {
+          "t": 26.0,
+          "en": "So join the family.",
+          "ko": "그러니 같이 하시죠."
+        },
+        {
+          "t": 28.0,
+          "en": "I'm just trying to be like you.",
+          "ko": "그냥 따라 해보는 거예요."
+        },
+        {
+          "t": 29.0,
+          "en": "I think it works with your everything.",
+          "ko": "그쪽한테는 뭐든 잘 어울려요."
+        },
+        {
+          "t": 34.0,
+          "en": "You've had a major summer, so many incredible performances.",
+          "ko": "대단한 여름을 보내셨죠. 멋진 무대가 정말 많았어요."
+        },
+        {
+          "t": 37.0,
+          "en": "How are you feeling watching them, looking back at them?",
+          "ko": "돌아보시면 기분이 어떠세요?"
+        },
+        {
+          "t": 40.0,
+          "en": "It was a great summer. I feel like I'm still here.",
+          "ko": "정말 좋은 여름이었어요. 아직 그 안에 있는 것 같아요."
+        },
+        {
+          "t": 43.0,
+          "en": "I'm just having fun and more exploring of myself and my music.",
+          "ko": "그냥 즐기면서 저 자신과 제 음악을 더 찾아가는 중이에요."
+        },
+        {
+          "t": 48.0,
+          "en": "So it's been really fun and seeing all the fans around the world.",
+          "ko": "정말 재밌었고, 전 세계 팬들을 만나는 것도 좋았어요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "I go by ___",
+          "ko": "저는 ~로 불려요",
+          "why": "이름을 소개하는 가장 자연스러운 말입니다. My name is는 서류에 적는 이름이고, go by는 실제로 사람들이 부르는 이름이라 애칭이나 영어 이름에 딱 맞습니다.",
+          "use": "My name is Ji-hoon, but I go by Jay.",
+          "useKo": "이름은 지훈인데, 다들 제이라고 불러요."
+        },
+        {
+          "chunk": "you've had a major summer",
+          "ko": "대단한 여름을 보내셨네요",
+          "why": "major를 '주요한'으로만 알면 이 문장이 안 나옵니다. 여기서는 '엄청난, 대단한'이라는 뜻이고, 시기 앞에 붙이면 그 기간이 통째로 대단했다는 인사가 됩니다.",
+          "use": "You've had a major year.",
+          "useKo": "올해 정말 대단하셨어요."
+        },
+        {
+          "chunk": "I feel like I'm still there",
+          "ko": "아직 그 안에 있는 것 같아요",
+          "why": "지나간 시기를 돌아보며 '아직 실감이 안 난다, 여운이 남아 있다'를 담는 말입니다. 아직 정리가 안 됐다는 감정을 부정문 없이 표현하는 방식이 한국어와 다릅니다.",
+          "use": "It's been a month, but I feel like I'm still there.",
+          "useKo": "한 달이 지났는데도 아직 그때에 있는 것 같아요."
+        }
+      ],
+      "poster": "posters/018.jpg"
     }
   ]
 }
