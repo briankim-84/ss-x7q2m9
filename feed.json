@@ -1,5 +1,5 @@
 {
-  "version": "2.7",
+  "version": "2.8",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -1888,6 +1888,348 @@
         }
       ],
       "poster": "posters/018.jpg"
+    },
+    {
+      "id": "ss019",
+      "src": "videos/019.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#자기소개"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "I am doing the right thing, and it's therapeutic. It's nice.",
+          "ko": "제대로 하고 있는 거고, 마음이 편해져요. 좋아요."
+        },
+        {
+          "t": 3.5,
+          "en": "Okay, I have to get more into it.",
+          "ko": "좋아요, 좀 더 파고들어야겠네요."
+        },
+        {
+          "t": 5.6,
+          "en": "I want to go all the way back to the beginning.",
+          "ko": "아주 처음까지 거슬러 올라가고 싶어요."
+        },
+        {
+          "t": 8.5,
+          "en": "Where did you grow up? Where were you born?",
+          "ko": "어디서 자라셨어요? 어디서 태어나셨고요?"
+        },
+        {
+          "t": 12.0,
+          "en": "We're starting all the way back.",
+          "ko": "완전히 처음부터 시작하는 거네요."
+        },
+        {
+          "t": 17.8,
+          "en": "So I was born in South Korea. I was born in Seoul,",
+          "ko": "저는 한국에서 태어났어요. 서울에서요."
+        },
+        {
+          "t": 23.7,
+          "en": "and at like eight months old, I moved to the US,",
+          "ko": "그리고 생후 8개월쯤에 미국으로 갔죠."
+        },
+        {
+          "t": 27.5,
+          "en": "and I spent my entire childhood growing up in Wisconsin and then New York.",
+          "ko": "어린 시절은 위스콘신에서, 그다음엔 뉴욕에서 보냈어요."
+        },
+        {
+          "t": 34.6,
+          "en": "But it was upstate New York, like near Albany.",
+          "ko": "뉴욕주 북부요. 올버니 근처예요."
+        },
+        {
+          "t": 38.5,
+          "en": "I'm not sure if you're familiar, but yeah, upstate New York.",
+          "ko": "아실지 모르겠지만, 뉴욕주 북부요."
+        },
+        {
+          "t": 40.7,
+          "en": "I grew up there, and I have two younger siblings.",
+          "ko": "거기서 자랐고, 동생이 둘 있어요."
+        },
+        {
+          "t": 44.4,
+          "en": "And I had always been really interested in writing, making stories and storytelling.",
+          "ko": "그리고 늘 글쓰기랑 이야기 만드는 데 관심이 많았어요."
+        },
+        {
+          "t": 51.0,
+          "en": "I remember my first work —",
+          "ko": "제 첫 작품이 기억나는데요 —"
+        },
+        {
+          "t": 59.5,
+          "en": "it was the story of a vegetarian vampire, at eight years old.",
+          "ko": "채식하는 뱀파이어 이야기였어요. 여덟 살 때요."
+        },
+        {
+          "t": 67.5,
+          "en": "Yeah, I was just so into creative stuff,",
+          "ko": "네, 창작하는 걸 정말 좋아했어요."
+        },
+        {
+          "t": 71.5,
+          "en": "and that kind of bled into the career path I ultimately wanted to take.",
+          "ko": "그게 결국 제가 택한 길로 자연스럽게 이어졌고요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "go all the way back to",
+          "ko": "~까지 거슬러 올라가다",
+          "why": "all the way가 붙어서 '중간에 멈추지 않고 끝까지'라는 뜻이 됩니다. 대화에서 옛날 얘기를 꺼낼 때 쓰는 신호라, 이 말이 나오면 긴 이야기가 시작됩니다.",
+          "use": "Let's go all the way back to how you two met.",
+          "useKo": "두 분이 어떻게 만났는지부터 거슬러 올라가 보죠."
+        },
+        {
+          "chunk": "I was into ___",
+          "ko": "~에 푹 빠져 있었다",
+          "why": "into는 '안으로'지만 be into가 되면 취향과 열정을 말합니다. like보다 훨씬 강하고, 취미나 관심사를 소개할 때 가장 자연스러운 표현입니다.",
+          "use": "I was really into photography back then.",
+          "useKo": "그때는 사진에 정말 빠져 있었어요."
+        },
+        {
+          "chunk": "it bled into ___",
+          "ko": "~로 자연스럽게 번져 들어갔다",
+          "why": "bleed는 피가 흐르는 것이지만, 여기서는 물감이 번지듯 한 영역이 다른 영역으로 스며든다는 뜻입니다. 의도하지 않았는데 이어졌다는 뉘앙스가 핵심입니다.",
+          "use": "My hobby kind of bled into my job.",
+          "useKo": "취미가 어쩌다 일로 번졌어요."
+        }
+      ],
+      "poster": "posters/019.jpg"
+    },
+    {
+      "id": "ss020",
+      "src": "videos/020.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#칭찬표현"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "In these Avengers movies, you take off your shirt and you're in really good shape,",
+          "ko": "어벤져스 영화에서 상의를 벗는 장면이 있는데, 몸이 정말 좋으시죠."
+        },
+        {
+          "t": 5.0,
+          "en": "and the director is like, \"We got it,\" and you're like,",
+          "ko": "감독이 \"됐어요\" 하면, 그쪽은 이러시죠,"
+        },
+        {
+          "t": 8.7,
+          "en": "\"Can I please stop dieting and working out now?\"",
+          "ko": "\"이제 식단이랑 운동 그만해도 될까요?\""
+        },
+        {
+          "t": 12.5,
+          "en": "There is no one I've ever come across",
+          "ko": "제가 만나본 사람 중에"
+        },
+        {
+          "t": 16.0,
+          "en": "who is actually more anxious to not be vain",
+          "ko": "허영을 이렇게까지 피하고 싶어 하는 사람은 없었어요."
+        },
+        {
+          "t": 21.9,
+          "en": "past the point where it is necessary to achieve an end for their work.",
+          "ko": "일에 필요한 선을 넘어서면서까지요."
+        },
+        {
+          "t": 25.0,
+          "en": "Is that a compliment?",
+          "ko": "그거 칭찬인가요?"
+        },
+        {
+          "t": 26.0,
+          "en": "It's a huge compliment.",
+          "ko": "엄청난 칭찬이죠."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "in good shape",
+          "ko": "몸 상태가 좋다",
+          "why": "shape을 '모양'으로만 알면 안 나옵니다. 몸매뿐 아니라 건강 상태, 나아가 회사나 물건의 상태에도 씁니다. 반대는 in bad shape입니다.",
+          "use": "The car's still in good shape.",
+          "useKo": "그 차 아직 상태 괜찮아요."
+        },
+        {
+          "chunk": "I've come across",
+          "ko": "내가 마주쳐 본",
+          "why": "우연히 만나거나 발견했다는 뜻입니다. meet은 만날 의도가 있지만 come across는 어쩌다 마주친 것이라, 사람뿐 아니라 물건이나 정보에도 씁니다.",
+          "use": "I came across this article yesterday.",
+          "useKo": "어제 이 기사를 우연히 봤어요."
+        },
+        {
+          "chunk": "Is that a compliment?",
+          "ko": "그거 칭찬인가요?",
+          "why": "칭찬인지 아닌지 애매한 말을 들었을 때 되받는 한 문장입니다. 따지는 게 아니라 웃으며 받는 말이라, 대화가 부드럽게 이어집니다.",
+          "use": "Is that a compliment? — I'll let you decide.",
+          "useKo": "그거 칭찬이에요? — 알아서 판단하세요."
+        }
+      ],
+      "poster": "posters/020.jpg"
+    },
+    {
+      "id": "ss021",
+      "src": "videos/021.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#감사표현"
+      ],
+      "cues": [
+        {
+          "t": 1.0,
+          "en": "I was lucky enough — I got to go to a screening yesterday to see it,",
+          "ko": "운 좋게도 어제 시사회에서 봤는데요,"
+        },
+        {
+          "t": 4.9,
+          "en": "and it's so fantastic. You're so fantastic in it.",
+          "ko": "정말 훌륭하더군요. 연기도 정말 훌륭했고요."
+        },
+        {
+          "t": 8.4,
+          "en": "There was a very funny thing when we went in,",
+          "ko": "들어갈 때 재밌는 일이 있었어요."
+        },
+        {
+          "t": 9.8,
+          "en": "which makes a lot of sense when you get the luxury of seeing a movie before it comes out.",
+          "ko": "개봉 전에 영화를 보는 호사를 누리면 당연한 일이긴 한데요."
+        },
+        {
+          "t": 14.9,
+          "en": "One of the things they said was, \"No spoilers,\"",
+          "ko": "그쪽에서 \"스포일러 금지\"라고 하더군요."
+        },
+        {
+          "t": 17.1,
+          "en": "which is a very funny thing to say about the Odyssey.",
+          "ko": "「오디세이」를 두고 그러는 게 좀 웃겼어요."
+        },
+        {
+          "t": 21.2,
+          "en": "It's like, we don't want people to know how the Odyssey ends.",
+          "ko": "「오디세이」 결말을 사람들이 알면 안 된다니요."
+        },
+        {
+          "t": 23.7,
+          "en": "\"No, no, don't give away the ending.\"",
+          "ko": "\"안 돼요, 결말 흘리시면 안 돼요.\""
+        },
+        {
+          "t": 26.6,
+          "en": "This is Christopher Nolan. This is your third movie with him.",
+          "ko": "크리스토퍼 놀란이잖아요. 이번이 세 번째 작품이시죠."
+        },
+        {
+          "t": 32.5,
+          "en": "I know it must be so gratifying when he reaches out again,",
+          "ko": "그가 다시 연락해 오면 정말 뿌듯하시겠어요."
+        },
+        {
+          "t": 36.0,
+          "en": "because obviously, nobody's gonna say no to him.",
+          "ko": "당연히 아무도 그에게 거절하지 않을 테니까요."
+        },
+        {
+          "t": 39.0,
+          "en": "He has every option in the world, and so when he goes back to you,",
+          "ko": "세상의 모든 선택지가 있는데도 다시 찾아온다면,"
+        },
+        {
+          "t": 42.0,
+          "en": "it just must feel so nice to be able to collaborate with him again.",
+          "ko": "다시 함께한다는 게 정말 기분 좋으시겠어요."
+        },
+        {
+          "t": 44.6,
+          "en": "Oh, my gosh, it's amazing. It's incredible. And I got just so lucky",
+          "ko": "세상에, 정말 대단하죠. 저는 운이 정말 좋았어요."
+        },
+        {
+          "t": 48.5,
+          "en": "because I made The Dark Knight Rises with him when I was in my late 20s.",
+          "ko": "20대 후반에 「다크 나이트 라이즈」를 같이 했거든요."
+        },
+        {
+          "t": 54.0,
+          "en": "And then we made Interstellar,",
+          "ko": "그다음엔 「인터스텔라」를 했고요."
+        },
+        {
+          "t": 56.1,
+          "en": "which I cannot believe that I'm in that movie.",
+          "ko": "제가 그 영화에 나왔다는 게 아직도 안 믿겨요."
+        },
+        {
+          "t": 60.8,
+          "en": "I love that movie so much. It's so beautiful.",
+          "ko": "그 영화를 정말 좋아해요. 정말 아름답죠."
+        },
+        {
+          "t": 63.4,
+          "en": "And then he made a bunch of movies that I wasn't in.",
+          "ko": "그러고는 제가 안 나오는 영화를 여러 편 만드셨죠."
+        },
+        {
+          "t": 68.0,
+          "en": "So I was like, \"I hope I didn't say anything while we were in space.\"",
+          "ko": "그래서 '우주에 있을 때 내가 말실수한 건 아니겠지' 싶었어요."
+        },
+        {
+          "t": 73.7,
+          "en": "But we would see each other, everything would be cool, and then I got the call.",
+          "ko": "그래도 만나면 다 괜찮았고, 그러다 연락이 왔죠."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "I was lucky enough to ___",
+          "ko": "운 좋게도 ~할 수 있었다",
+          "why": "자랑처럼 들릴 말을 겸손하게 바꾸는 틀입니다. 내 능력이 아니라 운 덕분이라고 돌려서, 좋은 경험을 얘기하면서도 재수 없게 들리지 않습니다.",
+          "use": "I was lucky enough to work with her.",
+          "useKo": "운 좋게도 그분과 일할 기회가 있었어요."
+        },
+        {
+          "chunk": "he reaches out",
+          "ko": "그가 먼저 연락해 오다",
+          "why": "call이나 contact보다 훨씬 자주 쓰입니다. 손을 뻗는 그림이라 '먼저 다가온다'는 뉘앙스가 있고, 일 제안이나 협업 요청에 딱 맞습니다.",
+          "use": "Feel free to reach out anytime.",
+          "useKo": "언제든 편하게 연락 주세요."
+        },
+        {
+          "chunk": "don't give away the ending",
+          "ko": "결말을 흘리지 마세요",
+          "why": "give away는 '거저 주다'지만 정보가 목적어면 '새어 나가게 하다'가 됩니다. 001의 give too much away와 같은 뿌리라, 두 개를 나란히 보면 감이 잡힙니다.",
+          "use": "Don't give away the ending!",
+          "useKo": "결말 말하지 마세요!"
+        }
+      ],
+      "poster": "posters/021.jpg"
     }
   ]
 }
