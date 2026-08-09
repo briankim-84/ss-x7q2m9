@@ -1,5 +1,5 @@
 {
-  "version": "3.5",
+  "version": "3.6",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -3443,17 +3443,17 @@
       ],
       "cues": [
         {
-          "t": 3.6,
+          "t": 3.7,
           "en": "Although it's quite different now, most students in Korea — myself included —",
           "ko": "지금은 많이 다르지만, 한국 학생들 대부분은 — 저도 포함해서 —"
         },
         {
-          "t": 9.4,
+          "t": 9.2,
           "en": "weren't used to asking questions in class.",
           "ko": "수업에서 질문하는 게 익숙하지 않았어요."
         },
         {
-          "t": 11.7,
+          "t": 11.6,
           "en": "You waited to be asked.",
           "ko": "질문을 받기를 기다렸죠."
         },
@@ -3468,22 +3468,22 @@
           "ko": "거기에 적응하는 데 시간이 좀 걸렸고, 솔직히"
         },
         {
-          "t": 21.4,
+          "t": 21.5,
           "en": "it didn't really click until a few years in.",
           "ko": "몇 년이 지나서야 제대로 이해가 됐어요."
         },
         {
-          "t": 24.9,
+          "t": 25.0,
           "en": "Looking back on my time there,",
           "ko": "그때를 돌아보면,"
         },
         {
-          "t": 27.0,
+          "t": 26.8,
           "en": "there are a few things I might have done differently.",
           "ko": "다르게 했을 법한 것들이 몇 가지 있어요."
         },
         {
-          "t": 30.4,
+          "t": 30.5,
           "en": "But what I've come to realize is — you've got to live with no regrets.",
           "ko": "그런데 제가 깨달은 건, 후회 없이 살아야 한다는 거예요."
         }
@@ -3527,22 +3527,22 @@
       ],
       "cues": [
         {
-          "t": 2.2,
+          "t": 1.5,
           "en": "I love tea too, but I can't live without coffee.",
           "ko": "차도 좋아하지만, 커피 없이는 못 살아요."
         },
         {
-          "t": 7.8,
+          "t": 7.6,
           "en": "My teaching schedule for next week.",
           "ko": "다음 주 수업 일정이요."
         },
         {
-          "t": 12.2,
+          "t": 13.0,
           "en": "A bit of both.",
           "ko": "둘 다 조금씩이요."
         },
         {
-          "t": 13.6,
+          "t": 15.1,
           "en": "I'm calm at night, but energetic in the morning.",
           "ko": "밤엔 차분하고, 아침엔 활기차요."
         }
@@ -3586,22 +3586,22 @@
       ],
       "cues": [
         {
-          "t": 0.0,
+          "t": 0.8,
           "en": "Hey, it's Brian.",
           "ko": "안녕하세요, 브라이언입니다."
         },
         {
-          "t": 1.8,
+          "t": 3.4,
           "en": "You've been swiping through clips of other people talking.",
           "ko": "지금까지 다른 사람들이 말하는 클립을 넘겨 보셨죠."
         },
         {
-          "t": 7.5,
+          "t": 6.8,
           "en": "But if there's something you want to hear about —",
           "ko": "그런데 여러분이 듣고 싶은 게 있다면 —"
         },
         {
-          "t": 10.5,
+          "t": 10.9,
           "en": "a situation you're stuck in, a phrase you keep messing up —",
           "ko": "막혀 있는 상황이나, 자꾸 틀리는 표현이 있다면 —"
         },
@@ -3611,7 +3611,7 @@
           "ko": "카카오톡으로 메시지 보내주세요."
         },
         {
-          "t": 18.5,
+          "t": 17.8,
           "en": "I'll record a clip about it and put it right here in your feed.",
           "ko": "그 내용으로 클립을 찍어서 바로 여기 피드에 올려드릴게요."
         }
@@ -3655,7 +3655,7 @@
       ],
       "cues": [
         {
-          "t": 2.3,
+          "t": 2.6,
           "en": "I'm terrible at letting things go.",
           "ko": "저는 뭔가를 놓아주는 걸 정말 못해요."
         },
@@ -3665,37 +3665,37 @@
           "ko": "그리고 실패를 받아들이는 것도 잘 못하고요."
         },
         {
-          "t": 11.7,
+          "t": 10.0,
           "en": "I end up watching Netflix, mostly.",
           "ko": "결국 넷플릭스를 보게 되죠, 대개는."
         },
         {
-          "t": 16.6,
+          "t": 15.9,
           "en": "I'm trying to cut back on coffee.",
           "ko": "커피를 줄이려고 하고 있어요."
         },
         {
-          "t": 20.0,
+          "t": 17.8,
           "en": "Maximum two cups a day.",
           "ko": "하루 최대 두 잔이요."
         },
         {
-          "t": 25.3,
+          "t": 21.7,
           "en": "I'd rather call than text.",
           "ko": "문자보다는 전화가 낫습니다."
         },
         {
-          "t": 30.0,
+          "t": 27.3,
           "en": "Difficult one to answer. Hmm...",
           "ko": "답하기 어려운 질문이네요. 음..."
         },
         {
-          "t": 32.9,
+          "t": 30.6,
           "en": "I'd say Starbucks is overrated.",
           "ko": "스타벅스가 과대평가된 것 같아요."
         },
         {
-          "t": 36.5,
+          "t": 34.2,
           "en": "And my English class might be underrated. Just kidding.",
           "ko": "그리고 제 영어 수업은 과소평가된 것 같고요. 농담이에요."
         }
