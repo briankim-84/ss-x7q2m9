@@ -1,5 +1,5 @@
 {
-  "version": "3.4",
+  "version": "3.5",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -3640,6 +3640,90 @@
         }
       ],
       "poster": "posters/036.jpg"
+    },
+    {
+      "id": "ss037",
+      "src": "videos/037.mp4",
+      "source": "Brian · 빠른 문답",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#Brian클립",
+        "#빠른문답"
+      ],
+      "cues": [
+        {
+          "t": 2.3,
+          "en": "I'm terrible at letting things go.",
+          "ko": "저는 뭔가를 놓아주는 걸 정말 못해요."
+        },
+        {
+          "t": 4.9,
+          "en": "And probably not good at accepting failure.",
+          "ko": "그리고 실패를 받아들이는 것도 잘 못하고요."
+        },
+        {
+          "t": 11.7,
+          "en": "I end up watching Netflix, mostly.",
+          "ko": "결국 넷플릭스를 보게 되죠, 대개는."
+        },
+        {
+          "t": 16.6,
+          "en": "I'm trying to cut back on coffee.",
+          "ko": "커피를 줄이려고 하고 있어요."
+        },
+        {
+          "t": 20.0,
+          "en": "Maximum two cups a day.",
+          "ko": "하루 최대 두 잔이요."
+        },
+        {
+          "t": 25.3,
+          "en": "I'd rather call than text.",
+          "ko": "문자보다는 전화가 낫습니다."
+        },
+        {
+          "t": 30.0,
+          "en": "Difficult one to answer. Hmm...",
+          "ko": "답하기 어려운 질문이네요. 음..."
+        },
+        {
+          "t": 32.9,
+          "en": "I'd say Starbucks is overrated.",
+          "ko": "스타벅스가 과대평가된 것 같아요."
+        },
+        {
+          "t": 36.5,
+          "en": "And my English class might be underrated. Just kidding.",
+          "ko": "그리고 제 영어 수업은 과소평가된 것 같고요. 농담이에요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "I'd rather A than B",
+          "ko": "B보다 A가 낫다",
+          "why": "선호를 말하는 가장 자연스러운 틀입니다. prefer보다 회화에서 훨씬 자주 쓰이고, than 자리에 instead of를 넣으면 어색해집니다. A와 B 둘 다 동사원형이 옵니다.",
+          "use": "I'd rather stay in than go out.",
+          "useKo": "나가느니 집에 있는 게 나아요."
+        },
+        {
+          "chunk": "I end up ___ing",
+          "ko": "결국 ~하게 된다",
+          "why": "의도한 게 아닌데 그렇게 됐다는 뜻입니다. 계획과 결과가 다를 때 쓰는 표현이라, finally나 at last와는 뉘앙스가 완전히 다릅니다.",
+          "use": "I always end up buying too much.",
+          "useKo": "항상 너무 많이 사게 돼요."
+        },
+        {
+          "chunk": "cut back on ___",
+          "ko": "~를 줄이다",
+          "why": "quit은 완전히 끊는 것이고, cut back on은 양을 줄이는 것입니다. 커피·설탕·지출처럼 아예 안 할 수는 없는 것에 씁니다.",
+          "use": "I need to cut back on sugar.",
+          "useKo": "설탕을 좀 줄여야겠어요."
+        }
+      ],
+      "poster": "posters/037.jpg"
     }
   ]
 }
