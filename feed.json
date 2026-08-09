@@ -1,5 +1,5 @@
 {
-  "version": "3.0",
+  "version": "3.4",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -3428,6 +3428,218 @@
         }
       ],
       "poster": "posters/033.jpg"
+    },
+    {
+      "id": "ss034",
+      "src": "videos/034.mp4",
+      "source": "Brian · 캐나다 이야기",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#Brian클립",
+        "#적응이야기"
+      ],
+      "cues": [
+        {
+          "t": 3.6,
+          "en": "Although it's quite different now, most students in Korea — myself included —",
+          "ko": "지금은 많이 다르지만, 한국 학생들 대부분은 — 저도 포함해서 —"
+        },
+        {
+          "t": 9.4,
+          "en": "weren't used to asking questions in class.",
+          "ko": "수업에서 질문하는 게 익숙하지 않았어요."
+        },
+        {
+          "t": 11.7,
+          "en": "You waited to be asked.",
+          "ko": "질문을 받기를 기다렸죠."
+        },
+        {
+          "t": 14.0,
+          "en": "So when I got to Canada, I had to push myself to speak up.",
+          "ko": "그래서 캐나다에 갔을 때, 스스로를 밀어붙여 목소리를 내야 했어요."
+        },
+        {
+          "t": 18.4,
+          "en": "It took me a while to adjust to that, and honestly,",
+          "ko": "거기에 적응하는 데 시간이 좀 걸렸고, 솔직히"
+        },
+        {
+          "t": 21.4,
+          "en": "it didn't really click until a few years in.",
+          "ko": "몇 년이 지나서야 제대로 이해가 됐어요."
+        },
+        {
+          "t": 24.9,
+          "en": "Looking back on my time there,",
+          "ko": "그때를 돌아보면,"
+        },
+        {
+          "t": 27.0,
+          "en": "there are a few things I might have done differently.",
+          "ko": "다르게 했을 법한 것들이 몇 가지 있어요."
+        },
+        {
+          "t": 30.4,
+          "en": "But what I've come to realize is — you've got to live with no regrets.",
+          "ko": "그런데 제가 깨달은 건, 후회 없이 살아야 한다는 거예요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "wasn't used to ___ing",
+          "ko": "~하는 게 익숙하지 않았다",
+          "why": "to 뒤에 동사원형을 넣는 실수가 가장 잦습니다. 여기서 to는 전치사라 명사나 -ing가 와야 하고, used to + 동사원형(예전에 ~하곤 했다)과는 완전히 다른 말입니다.",
+          "use": "I wasn't used to speaking up in meetings.",
+          "useKo": "회의에서 의견 내는 게 익숙하지 않았어요."
+        },
+        {
+          "chunk": "push myself to ___",
+          "ko": "스스로를 밀어붙여 ~하다",
+          "why": "try보다 훨씬 강합니다. 하기 싫거나 안 하던 일을 의지로 해낸다는 뜻이라, 성격을 거슬러 행동할 때 씁니다.",
+          "use": "I had to push myself to go out.",
+          "useKo": "억지로라도 나가야 했어요."
+        },
+        {
+          "chunk": "it didn't click until",
+          "ko": "~하고 나서야 이해가 됐다",
+          "why": "click을 '누르다'로만 알면 이 문장이 안 잡힙니다. 머릿속에서 딱 맞물리는 그림이라, 오래 헤매다 갑자기 이해될 때 씁니다.",
+          "use": "It didn't click until someone explained it.",
+          "useKo": "누가 설명해 주고 나서야 이해가 됐어요."
+        }
+      ],
+      "poster": "posters/034.jpg"
+    },
+    {
+      "id": "ss035",
+      "src": "videos/035.mp4",
+      "source": "Brian · 빠른 문답",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#Brian클립",
+        "#빠른문답"
+      ],
+      "cues": [
+        {
+          "t": 2.2,
+          "en": "I love tea too, but I can't live without coffee.",
+          "ko": "차도 좋아하지만, 커피 없이는 못 살아요."
+        },
+        {
+          "t": 7.8,
+          "en": "My teaching schedule for next week.",
+          "ko": "다음 주 수업 일정이요."
+        },
+        {
+          "t": 12.2,
+          "en": "A bit of both.",
+          "ko": "둘 다 조금씩이요."
+        },
+        {
+          "t": 13.6,
+          "en": "I'm calm at night, but energetic in the morning.",
+          "ko": "밤엔 차분하고, 아침엔 활기차요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "can't live without ___",
+          "ko": "~ 없이는 못 산다",
+          "why": "과장인 걸 서로 알면서 쓰는 애정 표현입니다. really like보다 훨씬 자연스럽고, 사람·음식·물건 어디에나 붙습니다.",
+          "use": "I can't live without my morning walk.",
+          "useKo": "아침 산책 없이는 못 살아요."
+        },
+        {
+          "chunk": "a bit of both",
+          "ko": "둘 다 조금씩이요",
+          "why": "둘 중 하나를 고르라는 질문에 어느 쪽도 아닐 때 쓰는 답입니다. 한국 학습자들이 억지로 하나를 고르는 경우가 많은데, 이 한마디면 됩니다.",
+          "use": "Is it work or fun? — A bit of both.",
+          "useKo": "일이에요 취미예요? — 둘 다 조금씩이요."
+        },
+        {
+          "chunk": "a night owl",
+          "ko": "저녁형 인간",
+          "why": "올빼미에서 온 말입니다. a morning person과 짝을 이루는데, night person이라고는 잘 안 씁니다. 이 단어 자체가 관용 표현입니다.",
+          "use": "I've always been a night owl.",
+          "useKo": "저는 늘 저녁형이었어요."
+        }
+      ],
+      "poster": "posters/035.jpg"
+    },
+    {
+      "id": "ss036",
+      "src": "videos/036.mp4",
+      "source": "Brian · 메시지",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#Brian클립",
+        "#메시지"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Hey, it's Brian.",
+          "ko": "안녕하세요, 브라이언입니다."
+        },
+        {
+          "t": 1.8,
+          "en": "You've been swiping through clips of other people talking.",
+          "ko": "지금까지 다른 사람들이 말하는 클립을 넘겨 보셨죠."
+        },
+        {
+          "t": 7.5,
+          "en": "But if there's something you want to hear about —",
+          "ko": "그런데 여러분이 듣고 싶은 게 있다면 —"
+        },
+        {
+          "t": 10.5,
+          "en": "a situation you're stuck in, a phrase you keep messing up —",
+          "ko": "막혀 있는 상황이나, 자꾸 틀리는 표현이 있다면 —"
+        },
+        {
+          "t": 15.5,
+          "en": "just send me a message on KakaoTalk.",
+          "ko": "카카오톡으로 메시지 보내주세요."
+        },
+        {
+          "t": 18.5,
+          "en": "I'll record a clip about it and put it right here in your feed.",
+          "ko": "그 내용으로 클립을 찍어서 바로 여기 피드에 올려드릴게요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "swipe through",
+          "ko": "넘겨 보다",
+          "why": "손가락으로 화면을 쓸어 넘기는 동작입니다. scroll이 위아래로 굴리는 것이라면 swipe는 옆이나 위로 쳐내는 것이라, 요즘 앱 얘기에 필수입니다.",
+          "use": "I was just swiping through photos.",
+          "useKo": "사진 그냥 넘겨 보고 있었어요."
+        },
+        {
+          "chunk": "a situation you're stuck in",
+          "ko": "막혀 있는 상황",
+          "why": "stuck은 끼여서 못 움직이는 상태입니다. 물리적으로 갇힌 것뿐 아니라 해결이 안 나는 상황에도 쓰여서, 문제를 설명할 때 자주 필요합니다.",
+          "use": "I'm stuck in the same situation again.",
+          "useKo": "또 같은 상황에 막혀 있어요."
+        },
+        {
+          "chunk": "keep messing up",
+          "ko": "자꾸 틀리다",
+          "why": "mess up은 망치거나 실수하는 것이고, keep -ing가 붙어 반복이 됩니다. make a mistake보다 가볍고 자책이 덜해서 일상에서 훨씬 자주 씁니다.",
+          "use": "I keep messing up his name.",
+          "useKo": "그 사람 이름을 자꾸 틀려요."
+        }
+      ],
+      "poster": "posters/036.jpg"
     }
   ]
 }
