@@ -1,5 +1,5 @@
 {
-  "version": "3.6",
+  "version": "3.7",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -3724,6 +3724,506 @@
         }
       ],
       "poster": "posters/037.jpg"
+    },
+    {
+      "id": "ss038",
+      "src": "videos/038.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#진로이야기"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "What does their support mean to you?",
+          "ko": "부모님의 응원은 어떤 의미예요?"
+        },
+        {
+          "t": 2.5,
+          "en": "I mean, I think my dad did a little manifesting.",
+          "ko": "음, 아빠가 살짝 주문을 걸었던 것 같아요."
+        },
+        {
+          "t": 6.9,
+          "en": "When I was young, he always called me superstar.",
+          "ko": "어릴 때부터 늘 저를 슈퍼스타라고 불렀거든요."
+        },
+        {
+          "t": 10.9,
+          "en": "\"Hi, my superstar!\" — Wow. Really?",
+          "ko": "\"안녕, 우리 슈퍼스타!\" — 와, 정말요?"
+        },
+        {
+          "t": 14.2,
+          "en": "They're, like, the big supporters. Yeah.",
+          "ko": "제일 든든한 응원군이에요."
+        },
+        {
+          "t": 16.5,
+          "en": "Was there ever a backup plan for you, or you just knew you'd get to this point?",
+          "ko": "혹시 대비책이 있었어요? 아니면 여기까지 올 걸 그냥 알았어요?"
+        },
+        {
+          "t": 20.2,
+          "en": "And this is what you wanted to do. You just wanted to be a singer.",
+          "ko": "이게 하고 싶은 일이었고, 그냥 가수가 되고 싶었던 거죠."
+        },
+        {
+          "t": 23.3,
+          "en": "Was that always your goal? — I think so.",
+          "ko": "그게 늘 목표였어요? — 그런 것 같아요."
+        },
+        {
+          "t": 26.6,
+          "en": "Or maybe my Plan B was... a dance teacher.",
+          "ko": "아니면 제 플랜 B는… 댄스 선생님이었어요."
+        },
+        {
+          "t": 32.0,
+          "en": "Or maybe work as a performer at Disneyland.",
+          "ko": "아니면 디즈니랜드에서 공연하는 사람이요."
+        },
+        {
+          "t": 38.8,
+          "en": "A performer at Disneyland? — Yeah, wearing the costume.",
+          "ko": "디즈니랜드 공연자요? — 네, 의상 입고요."
+        },
+        {
+          "t": 41.9,
+          "en": "Like a princess costume.",
+          "ko": "공주 의상 같은 거요."
+        },
+        {
+          "t": 43.8,
+          "en": "Yeah, I'd love doing it.",
+          "ko": "네, 정말 해보고 싶었어요."
+        },
+        {
+          "t": 45.5,
+          "en": "Wow! All right. Next time you come on, we have to do that.",
+          "ko": "와! 좋아요. 다음에 나오면 그거 꼭 해봐요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "a backup plan",
+          "ko": "대비책, 차선책",
+          "why": "Plan B와 같은 뜻인데 대화에서는 backup plan이 더 자연스럽게 나옵니다. backup은 뒤를 받쳐준다는 그림이라, 첫 계획이 무너졌을 때 꺼내는 계획이 됩니다. 리사처럼 My Plan B was ___로 받아도 됩니다.",
+          "use": "Do you have a backup plan?",
+          "useKo": "대비책 있어요?"
+        },
+        {
+          "chunk": "get to this point",
+          "ko": "여기까지 오다",
+          "why": "장소가 아니라 경력·관계·상황이 지금 단계에 이르렀다는 뜻입니다. How did we get to this point?라고 하면 '어쩌다 여기까지 왔지'라는 한탄도 됩니다.",
+          "use": "It took years to get to this point.",
+          "useKo": "여기까지 오는 데 몇 년 걸렸어요."
+        },
+        {
+          "chunk": "did a little manifesting",
+          "ko": "바라는 걸 말로 불러들였다",
+          "why": "manifest는 원래 '드러내다'인데, 요즘은 원하는 걸 믿고 말하면 이뤄진다는 뜻으로 많이 씁니다. 리사는 manifest라고 했지만 표준형은 manifesting입니다. a little을 붙이면 '살짝 주문을 걸었다'는 가벼운 농담이 됩니다.",
+          "use": "I've been manifesting a promotion this year.",
+          "useKo": "올해 승진하는 걸 계속 주문처럼 외고 있어요."
+        }
+      ],
+      "poster": "posters/038.jpg"
+    },
+    {
+      "id": "ss039",
+      "src": "videos/039.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#축하표현"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "And then in November, you have a residency in Las Vegas.",
+          "ko": "그리고 11월엔 라스베이거스 레지던시가 있죠."
+        },
+        {
+          "t": 3.9,
+          "en": "Yes. — Congratulations! — Thank you.",
+          "ko": "네. — 축하해요! — 고마워요."
+        },
+        {
+          "t": 6.2,
+          "en": "Viva La Lisa! — Viva La Lisa.",
+          "ko": "비바 라 리사! — 비바 라 리사."
+        },
+        {
+          "t": 8.8,
+          "en": "You're the first ever K-pop artist ever to have a Vegas residency,",
+          "ko": "라스베이거스 레지던시를 하는 최초의 K-pop 아티스트예요."
+        },
+        {
+          "t": 12.7,
+          "en": "and it sold out in, like, five minutes or something crazy. Congratulations.",
+          "ko": "그것도 5분 만인가, 말도 안 되게 매진됐고요. 축하해요."
+        },
+        {
+          "t": 17.2,
+          "en": "Thank you. — It's all happening. — Yes.",
+          "ko": "고마워요. — 다 이뤄지고 있네요. — 네."
+        },
+        {
+          "t": 18.8,
+          "en": "And you deserve all of it. You deserve all of it.",
+          "ko": "다 누릴 자격 있어요. 정말로요."
+        },
+        {
+          "t": 21.6,
+          "en": "Have you started thinking about what the show looks like? Have you started rehearsing yet?",
+          "ko": "공연을 어떻게 꾸밀지 생각해봤어요? 리허설은 시작했어요?"
+        },
+        {
+          "t": 24.5,
+          "en": "Oh, I haven't started, but I'm going to start soon.",
+          "ko": "아, 아직 시작 안 했는데 곧 할 거예요."
+        },
+        {
+          "t": 27.6,
+          "en": "And it's going to be four shows. — Okay. Four shows.",
+          "ko": "공연은 네 번이에요. — 그렇군요, 네 번."
+        },
+        {
+          "t": 31.6,
+          "en": "Can't wait. I'm super excited.",
+          "ko": "너무 기다려져요. 완전 설레요."
+        },
+        {
+          "t": 33.2,
+          "en": "Congratulations. Sold out.",
+          "ko": "축하해요. 매진이라니."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "It's all happening",
+          "ko": "다 이뤄지고 있다, 착착 진행되고 있다",
+          "why": "바라던 일들이 한꺼번에 현실이 되는 순간에 씁니다. happening 하나에 '실감 난다'는 흥분이 담기고, 주어 it은 특정한 무언가가 아니라 상황 전체입니다.",
+          "use": "New job, new city — it's all happening.",
+          "useKo": "새 직장, 새 도시 — 다 이뤄지고 있어."
+        },
+        {
+          "chunk": "You deserve all of it",
+          "ko": "다 누릴 자격 있어요",
+          "why": "Congratulations 뒤에 붙이면 축하가 확 깊어집니다. deserve는 '받을 만하다'라서 운이 아니라 노력의 결과라는 인정이 담기고, all of it을 붙이면 '하나도 빠짐없이'가 됩니다.",
+          "use": "You worked so hard. You deserve it.",
+          "useKo": "그렇게 열심히 했잖아. 받을 자격 있어."
+        },
+        {
+          "chunk": "I haven't started, but I'm going to start soon",
+          "ko": "아직 안 했지만 곧 할 거예요",
+          "why": "진행 상황을 물을 때 가장 정직하게 답하는 틀입니다. 현재완료로 '지금까지는 안 했다', be going to로 '이미 정해둔 계획'을 말해서, 미룬 게 아니라 순서가 남았다는 느낌을 줍니다.",
+          "use": "I haven't started the report, but I'm going to start today.",
+          "useKo": "보고서 아직 시작 안 했는데 오늘 할 거예요."
+        }
+      ],
+      "poster": "posters/039.jpg"
+    },
+    {
+      "id": "ss040",
+      "src": "videos/040.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#자기소개"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "You have more music coming, by the way.",
+          "ko": "그리고 새 음악도 나오죠."
+        },
+        {
+          "t": 1.7,
+          "en": "You have a new EP, \"Press Play.\" It comes out next month.",
+          "ko": "새 EP 'Press Play'가 다음 달에 나와요."
+        },
+        {
+          "t": 5.1,
+          "en": "How would you describe this EP?",
+          "ko": "이번 EP를 어떻게 설명하시겠어요?"
+        },
+        {
+          "t": 7.2,
+          "en": "So this EP is about my journey from my roots to where I am right now, today.",
+          "ko": "이번 EP는 제 뿌리에서 지금 여기까지 온 여정에 관한 거예요."
+        },
+        {
+          "t": 13.9,
+          "en": "And there's a lot of, like, Thai elements in the songs as well, in the EP.",
+          "ko": "노래에 태국적인 요소도 많이 들어가 있어요."
+        },
+        {
+          "t": 19.5,
+          "en": "And every single song has their own character, their own vibe.",
+          "ko": "곡마다 각자의 캐릭터와 분위기가 있고요."
+        },
+        {
+          "t": 29.4,
+          "en": "And when we combine it together, it's like a movie. So you just press play.",
+          "ko": "그걸 다 합치면 한 편의 영화 같아요. 그러니까 그냥 재생을 누르면 돼요."
+        },
+        {
+          "t": 27.5,
+          "en": "That's where you came up with \"Press Play.\" Like, just go and enjoy.",
+          "ko": "그래서 'Press Play'군요. 그냥 틀고 즐기라는."
+        },
+        {
+          "t": 30.1,
+          "en": "Just enjoy it. Just press play, and then sit back and relax.",
+          "ko": "그냥 즐기세요. 재생 누르고 편히 앉아서요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "my journey from ___ to where I am today",
+          "ko": "~부터 지금의 나까지 온 여정",
+          "why": "자기 이력이나 작업을 소개할 때 쓰는 틀입니다. where I am today가 '지금의 자리'를 한 덩어리로 받아서, 경력 소개나 발표 첫머리에 그대로 쓸 수 있습니다.",
+          "use": "This talk is about my journey from engineer to founder.",
+          "useKo": "이번 발표는 엔지니어에서 창업자가 되기까지의 이야기예요."
+        },
+        {
+          "chunk": "have their own vibe",
+          "ko": "저마다 분위기가 있다",
+          "why": "vibe는 사람·장소·음악 어디에나 붙는 '느낌, 분위기'입니다. their own을 붙이면 '각자 다른'이 살아나서, 여러 개를 두고 비교할 때 편합니다.",
+          "use": "Every neighborhood in Seoul has its own vibe.",
+          "useKo": "서울은 동네마다 분위기가 달라요."
+        },
+        {
+          "chunk": "sit back and relax",
+          "ko": "편히 앉아서 즐기다",
+          "why": "기내 방송에서 자주 듣는 말입니다. sit back은 등을 기대는 동작이라, 할 일은 우리가 할 테니 당신은 즐기기만 하라는 뜻이 됩니다.",
+          "use": "Just sit back and relax. I'll handle it.",
+          "useKo": "편히 계세요. 제가 처리할게요."
+        }
+      ],
+      "poster": "posters/040.jpg"
+    },
+    {
+      "id": "ss041",
+      "src": "videos/041.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#연락표현"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Well, you recently broke the internet because you got to star in a BTS music video.",
+          "ko": "최근에 BTS 뮤직비디오에 나와서 인터넷을 뒤집어 놨죠."
+        },
+        {
+          "t": 6.7,
+          "en": "Here's you with BTS in \"SWIM.\"",
+          "ko": "'SWIM'에서 BTS와 함께한 모습이에요."
+        },
+        {
+          "t": 12.4,
+          "en": "I love \"SWIM.\" That's my favorite song on the album. — It's so good.",
+          "ko": "저 'SWIM' 좋아해요. 앨범에서 제일 좋아하는 곡이에요. — 진짜 좋죠."
+        },
+        {
+          "t": 16.5,
+          "en": "Did you know that they were fans of yours? How did you hook up with them?",
+          "ko": "그들이 당신 팬인 거 알았어요? 어떻게 연결된 거예요?"
+        },
+        {
+          "t": 19.4,
+          "en": "I mean, I was sent a DM by their creative director, and thank God I opened it.",
+          "ko": "크리에이티브 디렉터한테서 DM이 왔는데, 열어봐서 천만다행이었죠."
+        },
+        {
+          "t": 25.6,
+          "en": "But I hope they would have been more formal — imagine if I never opened the DM.",
+          "ko": "좀 더 정식으로 연락했으면 했지만… 그 DM 안 열었으면 어쩔 뻔했어요."
+        },
+        {
+          "t": 31.3,
+          "en": "Do you normally open your DMs, or every now and then?",
+          "ko": "DM은 보통 다 열어봐요, 아니면 가끔?"
+        },
+        {
+          "t": 34.2,
+          "en": "Good question. Every now and then. There's some scary stuff in there,",
+          "ko": "좋은 질문이네요. 가끔이요. 무서운 것도 좀 있어서요."
+        },
+        {
+          "t": 36.7,
+          "en": "so I tend to shy away from that.",
+          "ko": "그래서 좀 피하는 편이에요."
+        },
+        {
+          "t": 38.9,
+          "en": "But, yeah, he had seen my show, \"Hal & Harper,\" and really was a fan of it.",
+          "ko": "어쨌든 그분이 제 드라마 'Hal & Harper'를 보고 팬이 됐대요."
+        },
+        {
+          "t": 44.1,
+          "en": "So I think he thought of me for this, like, leading lady in their music video.",
+          "ko": "그래서 뮤비 여주인공으로 저를 떠올린 것 같아요."
+        },
+        {
+          "t": 48.8,
+          "en": "And I flew to Lisbon and filmed for four days.",
+          "ko": "그래서 리스본에 가서 나흘 동안 촬영했어요."
+        },
+        {
+          "t": 52.6,
+          "en": "Lisbon was where you went? — I went there, yeah.",
+          "ko": "리스본에 갔었어요? — 네, 거기 갔어요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "break the internet",
+          "ko": "인터넷을 뒤집어 놓다",
+          "why": "너무 화제가 돼서 인터넷이 터질 지경이라는 과장입니다. 한국어 '난리 났다'와 딱 맞고, 칭찬으로 씁니다.",
+          "use": "That photo totally broke the internet.",
+          "useKo": "그 사진 완전 난리 났잖아."
+        },
+        {
+          "chunk": "thank God I ___",
+          "ko": "~해서 천만다행이다",
+          "why": "종교적 의미 없이 '다행이다'를 세게 말할 때 씁니다. 뒤에 과거형을 붙이면 '안 했으면 큰일 날 뻔했다'는 뉘앙스가 됩니다.",
+          "use": "Thank God I checked the date.",
+          "useKo": "날짜 확인해서 천만다행이다."
+        },
+        {
+          "chunk": "shy away from ___",
+          "ko": "~을 슬쩍 피하다",
+          "why": "avoid보다 부드럽습니다. 불편해서 몸을 살짝 빼는 그림이라, 딱 잘라 거부하는 게 아니라 '굳이 안 건드린다'는 느낌입니다.",
+          "use": "I tend to shy away from conflict.",
+          "useKo": "저는 갈등은 되도록 피하는 편이에요."
+        }
+      ],
+      "poster": "posters/041.jpg"
+    },
+    {
+      "id": "ss042",
+      "src": "videos/042.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#거절표현"
+      ],
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Were you intimidated when you...? — It was a little intimidating.",
+          "ko": "주눅 들진 않았어요? — 좀 주눅 들더라고요."
+        },
+        {
+          "t": 3.7,
+          "en": "I mean, they're the biggest band of all time.",
+          "ko": "세계 최고의 밴드잖아요."
+        },
+        {
+          "t": 6.2,
+          "en": "Yes, they really are the most talented guys.",
+          "ko": "맞아요, 정말 재능 넘치는 친구들이죠."
+        },
+        {
+          "t": 8.4,
+          "en": "I know. And my first instinct was, \"BTS is asking me to be in a music video.",
+          "ko": "그러니까요. 처음 든 생각이 'BTS가 뮤비에 나와 달래.'"
+        },
+        {
+          "t": 16.7,
+          "en": "I can't dance at all.\"",
+          "ko": "'난 춤을 하나도 못 추는데.'였어요."
+        },
+        {
+          "t": 16.7,
+          "en": "But you're going, \"You have to. It's BTS.\" — Well, that was my fear.",
+          "ko": "그래도 'BTS니까 해야지' 싶잖아요. — 그게 제일 걱정이었어요."
+        },
+        {
+          "t": 19.8,
+          "en": "I was like, I'm gonna have to turn them down because I can't dance.",
+          "ko": "거절해야겠다 싶었어요. 춤을 못 추니까요."
+        },
+        {
+          "t": 24.6,
+          "en": "Have you seen their music videos? The dance moves that are happening there — I can't do that.",
+          "ko": "그들 뮤비 보셨어요? 거기 나오는 춤, 저는 못 해요."
+        },
+        {
+          "t": 30.7,
+          "en": "They're the most talented. — They're the real deal.",
+          "ko": "진짜 재능 있죠. — 진짜배기예요."
+        },
+        {
+          "t": 33.8,
+          "en": "So I was like, I actually am gonna have to pass. — Yes, you can. — No, no, no.",
+          "ko": "그래서 '저 진짜 사양해야겠어요' 했죠. — 할 수 있어요. — 아니요, 아니요."
+        },
+        {
+          "t": 37.6,
+          "en": "You're Lili Reinhart. You can hang with anyone.",
+          "ko": "당신은 릴리 라인하트잖아요. 누구랑도 어울릴 수 있어요."
+        },
+        {
+          "t": 39.9,
+          "en": "But because the dancing in the music video was more improv-y and free-flowing,",
+          "ko": "그런데 뮤비 속 춤이 즉흥적이고 자유로운 스타일이라서"
+        },
+        {
+          "t": 46.0,
+          "en": "I was able to do it, but I was intimidated.",
+          "ko": "할 수 있었어요. 그래도 주눅은 들었죠."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "It was a little intimidating",
+          "ko": "좀 주눅 들더라고요",
+          "why": "상대나 상황이 너무 대단해서 위축될 때 씁니다. scary는 무서운 것이고 intimidating은 압도되는 것이라 결이 다릅니다. a little을 붙이면 솔직하되 약해 보이지 않습니다.",
+          "use": "Meeting the CEO was a little intimidating.",
+          "useKo": "대표님 만나는 게 좀 떨리더라고요."
+        },
+        {
+          "chunk": "turn ___ down",
+          "ko": "~을 거절하다",
+          "why": "제안이나 초대를 거절할 때 refuse보다 훨씬 자주 씁니다. 볼륨을 낮추듯 부드럽게 내려놓는 그림이고, 목적어가 대명사면 turn them down처럼 가운데 들어갑니다.",
+          "use": "I had to turn down the offer.",
+          "useKo": "그 제안은 거절해야 했어요."
+        },
+        {
+          "chunk": "the real deal",
+          "ko": "진짜배기",
+          "why": "명성이나 소문만큼 진짜라는 칭찬입니다. 사람·물건·실력 모두에 쓰고, 소문으로 듣던 걸 직접 확인했을 때 딱 맞습니다.",
+          "use": "This chef is the real deal.",
+          "useKo": "이 셰프 진짜배기야."
+        }
+      ],
+      "poster": "posters/042.jpg"
     }
   ]
 }
