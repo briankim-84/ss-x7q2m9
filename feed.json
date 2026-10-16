@@ -1,5 +1,5 @@
 {
-  "version": "3.8",
+  "version": "3.9",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -4366,6 +4366,140 @@
           "why": "별것 아닌 걱정을 한마디로 털어 버리는 말입니다. 글자 그대로는 '누가 신경 써?'인데, 실제로는 '신경 쓸 사람 아무도 없어, 괜찮아'라는 뜻이에요. 친한 사이에서 가볍게 씁니다.",
           "use": "So what if it's not perfect? Who cares?",
           "useKo": "완벽하지 않으면 뭐 어때? 누가 신경이나 쓴대?"
+        }
+      ]
+    },
+    {
+      "id": "ss044",
+      "src": "videos/044.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#농담표현"
+      ],
+      "poster": "posters/044.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Are those long days? — Yeah.",
+          "ko": "그런 날은 촬영이 길죠? — 네."
+        },
+        {
+          "t": 5.85,
+          "en": "Wait, what do you mean?",
+          "ko": "잠깐, 그게 무슨 뜻이에요?"
+        },
+        {
+          "t": 7.35,
+          "en": "I should probably lie and just be like, \"Oh, no, it's really hard.",
+          "ko": "원래는 거짓말로 '아니요, 진짜 힘들어요.' 해야 되는데."
+        },
+        {
+          "t": 11.4,
+          "en": "You have to dig very, very deep.\"",
+          "ko": "'정말 깊이 파고들어야 해요.' 하고요."
+        },
+        {
+          "t": 12.7,
+          "en": "It's a pleasure. — To lay in bed?",
+          "ko": "너무 즐거워요. — 침대에 누워 있는 게요?"
+        },
+        {
+          "t": 14.6,
+          "en": "It's a pleasure to play a character who's very wealthy and has expensive nightgowns and cashmere socks",
+          "ko": "엄청 부자에, 비싼 잠옷에 캐시미어 양말 신은 캐릭터 연기하는 건 즐겁죠."
+        },
+        {
+          "t": 21.0,
+          "en": "and lies in bed.",
+          "ko": "그리고 침대에 누워 있고요."
+        },
+        {
+          "t": 22.2,
+          "en": "It's the best role you ever played.",
+          "ko": "인생 최고의 배역이네요."
+        },
+        {
+          "t": 24.0,
+          "en": "I was so happy.",
+          "ko": "진짜 행복했어요."
+        },
+        {
+          "t": 25.2,
+          "en": "And like an actress friend of mine, who's a serious actress, when I told her about what I was doing,",
+          "ko": "배우 친구가 하나 있는데, 아주 진지한 배우예요. 제가 뭐 찍는지 얘기했더니"
+        },
+        {
+          "t": 31.0,
+          "en": "she looked at me with such concern.",
+          "ko": "엄청 걱정스러운 눈으로 보더라고요."
+        },
+        {
+          "t": 32.9,
+          "en": "And she was like, \"Aren't you bored?\"",
+          "ko": "'안 지루해?' 하길래"
+        },
+        {
+          "t": 35.2,
+          "en": "And I was like, \"No, babe.",
+          "ko": "'아니, 전혀.' 했죠."
+        },
+        {
+          "t": 36.8,
+          "en": "Yeah. — I am having the best time.",
+          "ko": "그렇죠. — '나 지금 완전 신나.'"
+        },
+        {
+          "t": 39.0,
+          "en": "I think I might be a genius.\"",
+          "ko": "'나 천재인가 봐.'"
+        },
+        {
+          "t": 40.6,
+          "en": "Wow, you cracked the code.",
+          "ko": "와, 비결을 찾으셨네요."
+        },
+        {
+          "t": 42.2,
+          "en": "Maybe that's it. — You cracked the code, yeah.",
+          "ko": "그런가 봐요. — 비결을 찾은 거예요."
+        },
+        {
+          "t": 43.9,
+          "en": "And then when I wasn't doing that, I got to do all this, like, juicy, like, villainy, heightened stuff.",
+          "ko": "그리고 안 누워 있을 땐 진짜 맛있는 악역 연기, 센 장면들을 다 했고요."
+        },
+        {
+          "t": 49.1,
+          "en": "And so that was great.",
+          "ko": "그래서 너무 좋았어요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "dig deep",
+          "ko": "젖 먹던 힘까지 짜내다",
+          "why": "땅을 깊이 파듯 내 안에서 힘이나 감정을 끌어올리는 그림입니다. try hard가 그냥 열심히 하는 거라면, dig deep은 바닥난 줄 알았던 데서 더 꺼내는 느낌이에요. 운동, 마감, 힘든 연기 장면에 다 씁니다.",
+          "use": "We had to dig deep to finish the project on time.",
+          "useKo": "기한 맞추려고 진짜 있는 힘 다 짜냈어요."
+        },
+        {
+          "chunk": "having the best time",
+          "ko": "완전 신나게 지내는 중",
+          "why": "지금 이 순간이 최고로 즐겁다는 말입니다. having fun보다 한 단계 위고, 여행 중이나 파티에서 근황 물으면 바로 나오는 답이에요. 진행형으로 써서 '한창 즐기는 중'이라는 느낌을 살립니다.",
+          "use": "How's the trip? — I'm having the best time!",
+          "useKo": "여행 어때? — 완전 최고야!"
+        },
+        {
+          "chunk": "crack the code",
+          "ko": "비결을 알아내다",
+          "why": "암호를 풀듯 남들이 못 푼 요령을 찾아냈다는 뜻입니다. figure out이 그냥 알아내는 거라면, crack the code는 '아, 이거구나' 하고 열쇠를 찾은 느낌이에요. 농담 섞어 칭찬할 때 잘 어울립니다.",
+          "use": "I think I finally cracked the code on getting my kids to sleep.",
+          "useKo": "애들 재우는 비결 드디어 찾은 것 같아."
         }
       ]
     }
