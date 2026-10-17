@@ -1,5 +1,5 @@
 {
-  "version": "3.9",
+  "version": "3.10",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -4500,6 +4500,125 @@
           "why": "암호를 풀듯 남들이 못 푼 요령을 찾아냈다는 뜻입니다. figure out이 그냥 알아내는 거라면, crack the code는 '아, 이거구나' 하고 열쇠를 찾은 느낌이에요. 농담 섞어 칭찬할 때 잘 어울립니다.",
           "use": "I think I finally cracked the code on getting my kids to sleep.",
           "useKo": "애들 재우는 비결 드디어 찾은 것 같아."
+        }
+      ]
+    },
+    {
+      "id": "ss045",
+      "src": "videos/045.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#가족이야기"
+      ],
+      "poster": "posters/045.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "What was it like when that crossed?",
+          "ko": "애들이 그 영화를 알게 됐을 땐 어땠어요?"
+        },
+        {
+          "t": 2.1,
+          "en": "I mean, you know, I had such a thing.",
+          "ko": "아, 그게 저한테 좀 그런 게 있었어요."
+        },
+        {
+          "t": 4.0,
+          "en": "I remember when my daughter was born, right around the time I directed my first movie,",
+          "ko": "딸이 태어났을 때가 생각나요. 딱 제 첫 연출작 찍을 즈음이었는데,"
+        },
+        {
+          "t": 7.9,
+          "en": "and I had a bunch of movies that didn't work, and was very uncool, and felt kind of despised,",
+          "ko": "그때 영화가 줄줄이 안 됐고, 완전 한물간 데다 사람들이 절 싫어하는 느낌이었어요."
+        },
+        {
+          "t": 13.3,
+          "en": "and thought like, \"God, I really want to make my kids proud with my career.\"",
+          "ko": "그래서 '아, 내 커리어로 애들이 자랑스러워하게 해 주고 싶다' 했죠."
+        },
+        {
+          "t": 18.2,
+          "en": "And as I've gotten older, my kids gotten older,",
+          "ko": "그런데 저도 나이 들고 애들도 크고 보니,"
+        },
+        {
+          "t": 20.4,
+          "en": "what I realized is, they don't give a [bleep]. — Yeah. — They really don't care.",
+          "ko": "깨달은 게, 걔들은 신경도 안 쓴다는 거예요. — 그렇죠. — 진짜 관심 없어요."
+        },
+        {
+          "t": 24.8,
+          "en": "They don't really want to see them.",
+          "ko": "제 영화 보고 싶어 하지도 않아요."
+        },
+        {
+          "t": 26.1,
+          "en": "The most cool thing I've ever done, in my kids' eyes, is, like, become a meme.",
+          "ko": "애들 눈에 제가 한 것 중 제일 멋진 건 밈이 된 거예요."
+        },
+        {
+          "t": 31.1,
+          "en": "Like, why is that cool?",
+          "ko": "아니, 그게 왜 멋져?"
+        },
+        {
+          "t": 33.7,
+          "en": "Because I'm spilling a coffee?",
+          "ko": "커피 쏟아서?"
+        },
+        {
+          "t": 35.6,
+          "en": "Like, is that... Like, they're like, \"You're relevant.\"",
+          "ko": "걔들 말이 '아빠 요즘 핫하잖아.'"
+        },
+        {
+          "t": 39.0,
+          "en": "I'm like, \"I'm relevant for being this, like, beleaguered, depressed man.\"",
+          "ko": "'지치고 우울한 아저씨로 핫한 거잖아' 했죠."
+        },
+        {
+          "t": 43.1,
+          "en": "I don't even... But that's, apparently...",
+          "ko": "아니 뭐… 근데 그게 그렇대요."
+        },
+        {
+          "t": 44.8,
+          "en": "Oh my God. So that... I gotta aim for meme? That's what you're telling me?",
+          "ko": "세상에. 그럼 저도 밈을 노려야 돼요? 그 말이에요?"
+        },
+        {
+          "t": 48.0,
+          "en": "Frankly, that's the high... Yeah, that's the high mark.",
+          "ko": "솔직히 그게 최고… 네, 그게 최고점이에요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "make my kids proud",
+          "ko": "애들이 자랑스러워하게 하다",
+          "why": "누군가가 나를 보고 뿌듯해하게 만든다는 말입니다. 빈칸에 parents, family, team, coach가 들어가고, 'I'm proud of you'를 뒤집어 내가 노력하는 쪽에서 쓰는 표현이에요. 면접이나 수상 소감에서도 자주 들립니다.",
+          "use": "I just want to make my parents proud.",
+          "useKo": "그냥 부모님이 자랑스러워하셨으면 좋겠어요."
+        },
+        {
+          "chunk": "as I've gotten older",
+          "ko": "나이 들면서",
+          "why": "시간이 지나며 생각이 달라졌다고 운을 뗄 때 씁니다. when I was young이 과거 한 시점이라면, 이건 지금까지 서서히 변해 온 과정이라 현재완료가 붙어요. 뒤에는 보통 깨달은 내용이 따라옵니다.",
+          "use": "As I've gotten older, I care less about what people think.",
+          "useKo": "나이 들면서 남 시선에 신경을 덜 쓰게 됐어."
+        },
+        {
+          "chunk": "in my kids' eyes",
+          "ko": "애들 눈에는",
+          "why": "그 사람 입장에서 보면 어떻게 보이는지를 말합니다. in my opinion이 내 의견이라면, in ___'s eyes는 상대의 눈으로 들여다보는 그림이에요. 소유격만 바꿔 in her eyes, in the boss's eyes로 씁니다.",
+          "use": "In my boss's eyes, I'm still the new guy.",
+          "useKo": "팀장님 눈엔 나 아직도 신입이야."
         }
       ]
     }
