@@ -1,5 +1,5 @@
 {
-  "version": "3.15",
+  "version": "3.16",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -11369,6 +11369,198 @@
           "why": "영원히 고맙다는 가장 강한 감사 표현입니다. thankful보다 격이 높고, 인생을 바꿔 준 사람에게 써요. I'll be eternally grateful to ___ for ___ 형태로 외우면 됩니다.",
           "use": "I'll be eternally grateful to my first boss for taking a chance on me.",
           "useKo": "나한테 기회를 준 첫 상사한테 평생 고마울 거야."
+        }
+      ]
+    },
+    {
+      "id": "ss111",
+      "src": "videos/111.mp4",
+      "source": "인터뷰",
+      "who": "손석구",
+      "cat": "korean",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#조언표현"
+      ],
+      "poster": "posters/111.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "What did I learn about the character?",
+          "ko": "제가 캐릭터한테서 뭘 배웠냐고요?"
+        },
+        {
+          "t": 3.1,
+          "en": "Let me rephrase the question. Is there anything you learned about playing this character that could relate to your own life?",
+          "ko": "질문을 다시 할게요. 이 캐릭터를 연기하면서 배운 것 중에 본인 삶과 이어지는 게 있나요?"
+        },
+        {
+          "t": 8.6,
+          "en": "Oh, I just, because I think this film is all about connection.",
+          "ko": "아, 그러니까, 이 영화는 결국 '연결'에 관한 얘기니까요."
+        },
+        {
+          "t": 15.7,
+          "en": "So having played the character for the intense three weeks, I just told myself,",
+          "ko": "그래서 빡센 3주 동안 이 캐릭터를 연기하면서 저 자신한테 계속 말했어요,"
+        },
+        {
+          "t": 23.54,
+          "en": "yeah, yeah, we only did three weeks, you know, it was a small budget movie.",
+          "ko": "네, 네, 3주밖에 안 찍었어요. 저예산 영화였거든요."
+        },
+        {
+          "t": 27.82,
+          "en": "I, you know, a lot of times I told myself, you know, connection is really important.",
+          "ko": "그러니까 여러 번 되뇌었어요. 연결이 정말 중요하다."
+        },
+        {
+          "t": 33.22,
+          "en": "You got to connect to people. You got to put an effort in connecting with people to enrich your life.",
+          "ko": "사람들이랑 연결돼야 한다. 삶을 풍요롭게 하려면 사람들과 연결되는 데 노력을 들여야 한다."
+        },
+        {
+          "t": 41.84,
+          "en": "If anything, that's one thing that I constantly told myself, learning it through the character in real life.",
+          "ko": "굳이 하나를 꼽자면, 그 캐릭터를 통해 배우면서 실제 삶에서 계속 되뇐 게 그거예요."
+        },
+        {
+          "t": 48.32,
+          "en": "Do you see disconnection in your, you know, in the world, with friends, and maybe, I don't know, your status in the dating world, maybe?",
+          "ko": "본인 주변에서도 단절을 느끼세요? 친구들이랑, 아니면, 글쎄요, 연애 쪽에서도요?"
+        },
+        {
+          "t": 56.94,
+          "en": "All the time. Yeah, yeah. Sometimes I intentionally disconnect myself from the world so I can have my own time,",
+          "ko": "항상요. 네, 네. 가끔은 일부러 세상이랑 끊고 제 시간을 가져요,"
+        },
+        {
+          "t": 62.54,
+          "en": "but when it gets too long, you know, you get sick.",
+          "ko": "근데 그게 너무 길어지면, 병이 나요."
+        },
+        {
+          "t": 67.02,
+          "en": "So, but when disconnection happens to you for too long, you get used to it, and you just don't want to go outside no more.",
+          "ko": "단절이 너무 오래되면 거기 익숙해져서 더는 밖에 나가고 싶지 않게 되거든요."
+        },
+        {
+          "t": 74.36,
+          "en": "And then, you know, you think the world around you is everything, and that's not good, right?",
+          "ko": "그러면 내 주변이 세상의 전부라고 생각하게 되는데, 그건 좋지 않잖아요."
+        },
+        {
+          "t": 79.92,
+          "en": "You want to go out there and expand.",
+          "ko": "나가서 넓혀야죠."
+        },
+        {
+          "t": 83.08,
+          "en": "And I think that's what it's about.",
+          "ko": "그게 핵심인 것 같아요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "Let me rephrase the question",
+          "ko": "질문을 다시 할게요",
+          "why": "상대가 못 알아들었을 때 같은 질문을 다른 말로 바꿔 묻는 표현입니다. Let me say it again이 그냥 반복이라면, rephrase는 '표현을 바꾼다'는 뜻이에요. 회의, 인터뷰, 수업에서 분위기 깨지 않고 다시 묻는 말입니다.",
+          "use": "Let me rephrase the question. What would you change first?",
+          "useKo": "질문을 다시 할게요. 뭘 제일 먼저 바꾸시겠어요?"
+        },
+        {
+          "chunk": "go out there and ___",
+          "ko": "나가서 ~하다, 나가서 부딪히다",
+          "why": "집이나 익숙한 자리에서 벗어나 세상으로 나간다는 그림입니다. go outside가 문자 그대로 밖이라면, go out there는 '부딪히러 나가다'라는 느낌이에요. 도전을 권할 때 Just go out there and try라고 합니다.",
+          "use": "Stop planning and go out there and try.",
+          "useKo": "계획만 세우지 말고 나가서 부딪혀 봐."
+        },
+        {
+          "chunk": "have my own time",
+          "ko": "내 시간을 갖다",
+          "why": "남 없이 혼자 쓰는 시간을 말합니다. me time이라고도 해요. 손석구처럼 '일부러 끊고' 혼자 있는 이유를 설명할 때 바로 붙여 쓸 수 있습니다.",
+          "use": "I turn my phone off on Sundays to have my own time.",
+          "useKo": "일요일엔 내 시간을 가지려고 폰을 꺼 놔."
+        }
+      ]
+    },
+    {
+      "id": "ss112",
+      "src": "videos/112.mp4",
+      "source": "인터뷰",
+      "who": "손석구",
+      "cat": "korean",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#친구이야기"
+      ],
+      "poster": "posters/112.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Okay, how did you develop chemistry with your co-actors during this role?",
+          "ko": "자, 이번 작품에서 상대 배우들과 케미는 어떻게 만들었어요?"
+        },
+        {
+          "t": 9.95,
+          "en": "Me and Moon, the actor who played Audrey.",
+          "ko": "저랑 문, 오드리 역을 맡은 배우요."
+        },
+        {
+          "t": 17.35,
+          "en": "Really, there was no need for us to put any effort to build any kind of chemistry, because we go way back in Korea.",
+          "ko": "솔직히 케미를 만들려고 노력할 필요가 전혀 없었어요. 한국에서 알고 지낸 지 한참 됐거든요."
+        },
+        {
+          "t": 24.72,
+          "en": "She and I, we're 20-year-old friends. Like, I knew her since, like, early 2007 or something like that.",
+          "ko": "저랑 그 친구는 20년 된 친구예요. 2007년 초쯤부터 알았으니까."
+        },
+        {
+          "t": 37.39,
+          "en": "So it's just there. You just believe the chemistry is there already.",
+          "ko": "그래서 그냥 거기 있는 거예요. 케미는 이미 있다고 믿으면 돼요."
+        },
+        {
+          "t": 42.55,
+          "en": "You just follow the direction and just believe that it'll, you know, it'll shine out through just what we always do.",
+          "ko": "그냥 연출대로 따라가면서, 늘 하던 대로 하면 그게 알아서 드러날 거라고 믿는 거죠."
+        },
+        {
+          "t": 51.89,
+          "en": "And that's it. We don't, I don't really particularly think too much about, you know, having to bring out the chemistry. — Yeah.",
+          "ko": "그게 다예요. 케미를 끌어내야 한다는 생각은 별로 안 해요. — 그렇군요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "go way back",
+          "ko": "알고 지낸 지 한참 됐다",
+          "why": "두 사람의 인연이 아주 오래전으로 거슬러 간다는 그림입니다. We've known each other for a long time을 세 단어로 줄인 말이에요. 오래된 친구나 거래처를 소개할 때 We go way back이라고 합니다.",
+          "use": "Don't worry about introductions. We go way back.",
+          "useKo": "소개는 됐어. 우리 알고 지낸 지 한참 됐거든."
+        },
+        {
+          "chunk": "there was no need to ___",
+          "ko": "~할 필요가 전혀 없었다",
+          "why": "하지 않아도 됐다는 말인데, didn't have to보다 '애초에 필요 자체가 없었다'는 느낌이 강합니다. There's no need to worry처럼 현재형으로도 자주 써요.",
+          "use": "There was no need to rush. We had all day.",
+          "useKo": "서두를 필요가 전혀 없었어. 하루 종일 시간 있었거든."
+        },
+        {
+          "chunk": "it's just there",
+          "ko": "그냥 거기 있는 거야, 이미 있어",
+          "why": "애써 만들지 않아도 이미 존재한다는 말입니다. 케미, 신뢰, 실력처럼 눈에 안 보이는 것에 써요. 짧은 세 단어지만 '노력으로 되는 게 아니다'라는 뉘앙스가 담깁니다.",
+          "use": "You can't fake chemistry. Either it's just there or it isn't.",
+          "useKo": "케미는 꾸며 낼 수 없어. 그냥 있거나 없거나야."
         }
       ]
     }
