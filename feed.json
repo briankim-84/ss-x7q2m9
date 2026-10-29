@@ -1,5 +1,5 @@
 {
-  "version": "3.13",
+  "version": "3.14",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
@@ -8593,6 +8593,2562 @@
           "why": "하고 싶었는데 기회가 없어서 못 했다는 아쉬움입니다. didn't가 그냥 안 한 것이라면, never got to는 '할 기회를 끝내 못 얻었다'는 뜻이에요. 여행, 만남, 경험 얘기에 자주 씁니다.",
           "use": "We never got to say goodbye properly.",
           "useKo": "제대로 작별 인사도 결국 못 했어."
+        }
+      ]
+    },
+    {
+      "id": "ss087",
+      "src": "videos/087.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#가족이야기"
+      ],
+      "poster": "posters/087.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Yeah, it's very violent. So I couldn't show my movies to my kids.",
+          "ko": "네, 되게 폭력적이에요. 그래서 제 영화를 애들한테 못 보여 줬어요."
+        },
+        {
+          "t": 5.84,
+          "en": "But, so, okay, this is the one I can watch and enjoy with my kid.",
+          "ko": "근데 이건 제가 아이랑 같이 보면서 즐길 수 있는 작품이잖아요."
+        },
+        {
+          "t": 11.56,
+          "en": "So I did it.",
+          "ko": "그래서 했죠."
+        },
+        {
+          "t": 13.2,
+          "en": "And then when it opened, I watched it with my 10-year-old boy,",
+          "ko": "그리고 개봉했을 때 열 살짜리 아들이랑 같이 봤어요,"
+        },
+        {
+          "t": 19.58,
+          "en": "because I have a two-year-old girl, but she cannot watch that.",
+          "ko": "두 살짜리 딸도 있는데, 걔는 못 보니까요."
+        },
+        {
+          "t": 25.22,
+          "en": "So I only watched it with my son.",
+          "ko": "그래서 아들하고만 봤어요."
+        },
+        {
+          "t": 28.24,
+          "en": "And in the middle of the movie, he said,",
+          "ko": "근데 영화 중간에 아들이 그러는 거예요,"
+        },
+        {
+          "t": 34.8,
+          "en": "okay, what's your character?",
+          "ko": "아빠, 아빠 캐릭터가 뭐야?"
+        },
+        {
+          "t": 37.0,
+          "en": "So I said, I'm invisible.",
+          "ko": "그래서 제가, 나 투명인간이야."
+        },
+        {
+          "t": 41.04,
+          "en": "You cannot see me.",
+          "ko": "나는 안 보여."
+        },
+        {
+          "t": 43.7,
+          "en": "And then he said, what?",
+          "ko": "그랬더니 아들이, 뭐?"
+        },
+        {
+          "t": 47.36,
+          "en": "But still, how can I see your character?",
+          "ko": "그래도, 아빠 캐릭터를 어떻게 봐?"
+        },
+        {
+          "t": 52.74,
+          "en": "Do you see the fire?",
+          "ko": "저 불 보이지?"
+        },
+        {
+          "t": 55.3,
+          "en": "There you go. This is what you tried to tell your son, that was you.",
+          "ko": "그렇죠. 그게 아들한테 '저게 아빠야'라고 설명하는 방법이었군요."
+        },
+        {
+          "t": 58.98,
+          "en": "Yeah, that's me.",
+          "ko": "네, 그게 저예요."
+        },
+        {
+          "t": 61.6,
+          "en": "And then he said, okay, you're a demon.",
+          "ko": "그랬더니 아들이, 아, 아빠 악마구나."
+        },
+        {
+          "t": 65.94,
+          "en": "So, yes, I'm demon king.",
+          "ko": "그래서, 응, 아빠가 악마 왕이야."
+        },
+        {
+          "t": 68.74,
+          "en": "And then, okay, then I hate hunters.",
+          "ko": "그러니까, 알았어, 그럼 나 헌터들 싫어."
+        },
+        {
+          "t": 74.58,
+          "en": "I'm on your side, okay?",
+          "ko": "나 아빠 편이야, 알았지?"
+        },
+        {
+          "t": 76.5,
+          "en": "So I was so happy with that.",
+          "ko": "그래서 저는 너무 좋았죠."
+        },
+        {
+          "t": 78.44,
+          "en": "But at the end of the movie, he said,",
+          "ko": "근데 영화 끝날 때쯤 아들이 그러는 거예요,"
+        },
+        {
+          "t": 82.58,
+          "en": "Dad, I cannot vote for you.",
+          "ko": "아빠, 나 아빠한테 투표 못 하겠어."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "the one I can ___ with my kid",
+          "ko": "아이랑 같이 ~할 수 있는 것",
+          "why": "여러 선택지 중에서 '이건 아이랑 같이 할 수 있다'고 콕 집어 말하는 표현입니다. the one이 '바로 그것'이라는 느낌을 줘요. 영화, 식당, 게임 고를 때 그대로 씁니다.",
+          "use": "Finally, a movie I can watch with my kid.",
+          "useKo": "드디어 아이랑 같이 볼 수 있는 영화네."
+        },
+        {
+          "chunk": "in the middle of the movie",
+          "ko": "영화 보다가 중간에",
+          "why": "어떤 일이 한창 진행되는 도중이라는 말입니다. during보다 '한창일 때 갑자기'라는 그림이 강해요. the movie 자리에 a meeting, dinner, the night을 넣어 씁니다.",
+          "use": "My phone rang in the middle of the meeting.",
+          "useKo": "회의하다가 중간에 전화가 울렸어."
+        },
+        {
+          "chunk": "I'm on your side",
+          "ko": "난 네 편이야",
+          "why": "다툼이나 경쟁에서 네 쪽에 서 있다는 말입니다. I agree가 의견 동의라면, 이건 사람에 대한 지지예요. 영상에서는 on이 빠졌지만 원래 표현에는 on이 꼭 들어갑니다.",
+          "use": "Don't worry. I'm on your side.",
+          "useKo": "걱정 마. 난 네 편이야."
+        }
+      ]
+    },
+    {
+      "id": "ss088",
+      "src": "videos/088.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#추억표현"
+      ],
+      "poster": "posters/088.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "I found out about Red 2 while I was shooting G.I. Joe in New Orleans.",
+          "ko": "레드 2 얘기는 뉴올리언스에서 지.아이.조 찍을 때 알게 됐어요."
+        },
+        {
+          "t": 5.9,
+          "en": "One day, I heard somebody knocked on my trailer.",
+          "ko": "어느 날 누가 제 트레일러 문을 두드리더라고요."
+        },
+        {
+          "t": 9.92,
+          "en": "So I opened the door, and Bruce was standing there,",
+          "ko": "그래서 문을 열었더니 브루스가 서 있는 거예요,"
+        },
+        {
+          "t": 14.82,
+          "en": "and he was bowing, like, Korean way.",
+          "ko": "한국식으로 꾸벅 인사를 하면서요."
+        },
+        {
+          "t": 17.64,
+          "en": "And I was so surprised by that.",
+          "ko": "저는 그게 너무 놀라웠어요."
+        },
+        {
+          "t": 20.34,
+          "en": "Every day in the morning, he came to my trailer and said hi, like, Korean way.",
+          "ko": "매일 아침 제 트레일러에 와서 한국식으로 인사를 했어요."
+        },
+        {
+          "t": 28.96,
+          "en": "Anyways, we became very good friends.",
+          "ko": "아무튼, 저희는 아주 친한 친구가 됐어요."
+        },
+        {
+          "t": 32.4,
+          "en": "I had a really good relationship with Bruce Willis, and I really appreciate it.",
+          "ko": "브루스 윌리스랑 정말 좋은 관계였고, 정말 고맙게 생각해요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "somebody knocked on my door",
+          "ko": "누가 문을 두드렸어",
+          "why": "knock on 뒤에 문이나 창문이 옵니다. 영상에서는 trailer였죠. 문 두드리는 소리로 이야기를 시작하면 듣는 사람이 바로 그림을 그립니다.",
+          "use": "Somebody knocked on my door at midnight.",
+          "useKo": "한밤중에 누가 문을 두드렸어."
+        },
+        {
+          "chunk": "I was so surprised by that",
+          "ko": "그게 너무 놀라웠어",
+          "why": "놀란 이유를 by 뒤에 붙이는 형태입니다. surprised at도 쓰지만, by는 '그 일이 나를 놀라게 했다'는 느낌이 더 선명해요. that 자리에 사람이나 소식을 넣어도 됩니다.",
+          "use": "He remembered my name. I was so surprised by that.",
+          "useKo": "그 사람이 내 이름을 기억하더라. 그게 너무 놀라웠어."
+        },
+        {
+          "chunk": "we became very good friends",
+          "ko": "아주 친한 친구가 됐어",
+          "why": "처음엔 몰랐던 사이가 가까워졌다는 말입니다. we are friends가 상태라면 became은 그 변화의 이야기예요. 직장 동료, 이웃, 여행에서 만난 사람 얘기에 자주 씁니다.",
+          "use": "We started as roommates and became very good friends.",
+          "useKo": "룸메이트로 시작해서 아주 친한 친구가 됐어."
+        }
+      ]
+    },
+    {
+      "id": "ss089",
+      "src": "videos/089.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#농담표현"
+      ],
+      "poster": "posters/089.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Okay, this one is from... This is funny. This one's funny. From Brooke Aranis,",
+          "ko": "자, 이건... 이거 웃겨요. 이거 웃긴 거예요. 브룩 아라니스 님,"
+        },
+        {
+          "t": 4.74,
+          "en": "has anyone been in the car with RM driving yet? — Yeah!",
+          "ko": "RM이 운전하는 차에 타 본 사람 있어요? — 네!"
+        },
+        {
+          "t": 9.78,
+          "en": "Not yet, not yet. — That is unfair! That is not cool. — Very scary.",
+          "ko": "아직요, 아직 없어요. — 그건 불공평하죠! 너무해요. — 너무 무서워요."
+        },
+        {
+          "t": 15.3,
+          "en": "It is scary? — Is this scary? — Yeah.",
+          "ko": "무서워요? — 이게 무서워요? — 네."
+        },
+        {
+          "t": 21.62,
+          "en": "All right, RM, that is so unfair. I believe that you're a good driver.",
+          "ko": "자, RM, 너무 불공평해요. 전 운전 잘할 거라고 믿어요."
+        },
+        {
+          "t": 25.38,
+          "en": "No, I got my license at 31. I'm gonna tell you.",
+          "ko": "아니에요, 면허를 서른한 살에 땄어요. 말씀드릴게요."
+        },
+        {
+          "t": 31.02,
+          "en": "Everyone, like, yo, like, everyone told me,",
+          "ko": "다들, 그러니까 다들 저한테 그랬어요,"
+        },
+        {
+          "t": 35.1,
+          "en": "like, do not drive, for the world, for the peace. — Yes.",
+          "ko": "운전하지 마, 세계를 위해서, 평화를 위해서. — 그렇죠."
+        },
+        {
+          "t": 38.56,
+          "en": "Or you might get a car accident or something, so I was like... — Yeah, yeah.",
+          "ko": "안 그러면 사고 날지도 몰라, 그래서 저는... — 네, 네."
+        },
+        {
+          "t": 43.84,
+          "en": "I was, like, told by, like... Even my parents told the same thing, so...",
+          "ko": "그런 말을 들었어요... 부모님도 똑같이 말씀하셨고요, 그래서..."
+        },
+        {
+          "t": 48.52,
+          "en": "Now I got my license, but I think everyone doesn't want to hop in.",
+          "ko": "이제 면허는 땄는데 아무도 타려고 하지 않는 것 같아요."
+        },
+        {
+          "t": 54.16,
+          "en": "It's too scary? — Yeah. Yeah, maybe. It's scary even for me, myself. — Yeah, yeah.",
+          "ko": "너무 무서워서요? — 네. 아마도요. 저 자신한테도 무서워요. — 네, 네."
+        },
+        {
+          "t": 58.88,
+          "en": "I think you're gonna be good. I'll drive with you anytime. — Yeah, you can drive.",
+          "ko": "잘할 거라고 생각해요. 언제든 같이 탈게요. — 네, 운전해도 돼요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "get my license",
+          "ko": "면허를 따다",
+          "why": "자격증이나 면허를 '딴다'고 할 때 get을 씁니다. driver's를 빼고 license만 말해도 보통 운전면허예요. 나이 얘기는 at 31처럼 at을 붙입니다.",
+          "use": "I finally got my license last month.",
+          "useKo": "지난달에 드디어 면허 땄어."
+        },
+        {
+          "chunk": "hop in",
+          "ko": "타, 얼른 타",
+          "why": "차에 폴짝 올라타는 그림입니다. get in보다 가볍고 친근해서 친구를 태울 때 Hop in!이라고 해요. 반대로 내리는 건 hop out입니다.",
+          "use": "Hop in, I'll give you a ride.",
+          "useKo": "타, 내가 태워다 줄게."
+        },
+        {
+          "chunk": "That is so unfair",
+          "ko": "너무 불공평해, 너무해",
+          "why": "억울하거나 말이 안 될 때 터져 나오는 말입니다. 진지한 불만부터 장난스러운 투정까지 다 돼요. 영상처럼 so를 길게 늘이면 과장이 더 살아납니다.",
+          "use": "He got a bonus and I didn't? That is so unfair.",
+          "useKo": "걔는 보너스 받고 나는 안 받았다고? 너무 불공평해."
+        }
+      ]
+    },
+    {
+      "id": "ss090",
+      "src": "videos/090.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#소개표현"
+      ],
+      "poster": "posters/090.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Arirang. — Yeah. — What is Arirang?",
+          "ko": "아리랑. — 네. — 아리랑이 뭐예요?"
+        },
+        {
+          "t": 3.84,
+          "en": "It's a Korean traditional song.",
+          "ko": "한국 전통 민요예요."
+        },
+        {
+          "t": 6.56,
+          "en": "So every Korean just knows it. Like, they just get to know it when they grow up.",
+          "ko": "그래서 한국 사람은 다 알아요. 크면서 자연스럽게 알게 되는 거죠."
+        },
+        {
+          "t": 11.36,
+          "en": "Oh, really? — Yes, it's just by mouth to mouth. They just get to know it.",
+          "ko": "아, 정말요? — 네, 그냥 입에서 입으로요. 그렇게 알게 돼요."
+        },
+        {
+          "t": 14.94,
+          "en": "And how did you all decide that this would be the title of the album?",
+          "ko": "그럼 이걸 앨범 제목으로 하자고 어떻게 정했어요?"
+        },
+        {
+          "t": 18.56,
+          "en": "So I think it's the song that represents the Koreans the most.",
+          "ko": "한국 사람을 제일 잘 보여 주는 노래라고 생각하거든요."
+        },
+        {
+          "t": 24.34,
+          "en": "So it includes lots of emotions in it.",
+          "ko": "안에 감정이 진짜 많이 담겨 있어요."
+        },
+        {
+          "t": 27.96,
+          "en": "It could be joy, it could be sorrow, longings, sadness, like, whatever, resistance.",
+          "ko": "기쁨일 수도 있고, 슬픔, 그리움, 서러움, 뭐든지요. 저항도요."
+        },
+        {
+          "t": 35.14,
+          "en": "So there's a lot of emotions in here. — Yeah, yeah, yeah.",
+          "ko": "그래서 여기 감정이 아주 많아요. — 네, 네, 네."
+        },
+        {
+          "t": 38.18,
+          "en": "So we just hope that our new songs could be also universal, like the Arirang,",
+          "ko": "그래서 저희 새 노래들도 아리랑처럼 누구에게나 통했으면 해요,"
+        },
+        {
+          "t": 44.64,
+          "en": "which is the Korean traditional song.",
+          "ko": "한국 전통 민요인 아리랑처럼요."
+        },
+        {
+          "t": 49.36,
+          "en": "And... Thank you.",
+          "ko": "그리고... 감사합니다."
+        },
+        {
+          "t": 53.88,
+          "en": "We just figured out that, you know, our roots are in Korea, you know, like, all in the military.",
+          "ko": "저희도 깨달은 거죠. 우리 뿌리는 한국에 있구나, 군대 갔다 오면서요."
+        },
+        {
+          "t": 59.9,
+          "en": "And after all, it's like, we have to, you know, come back to where we started from.",
+          "ko": "결국엔 우리가 시작한 곳으로 돌아와야 하는구나, 하고요."
+        },
+        {
+          "t": 64.24,
+          "en": "Yeah, of course. — Thank you. — Wow, can't forget your roots.",
+          "ko": "그럼요. — 감사합니다. — 와, 뿌리는 잊을 수 없죠."
+        },
+        {
+          "t": 68.48,
+          "en": "Never forget your roots.",
+          "ko": "뿌리는 절대 잊으면 안 돼요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "every Korean just knows it",
+          "ko": "한국 사람이면 다 아는 거예요",
+          "why": "설명할 필요 없이 누구나 안다는 말입니다. everyone knows보다 just가 들어가서 '그냥 자연스럽게 안다'는 느낌이 살아요. 나라 이름만 바꾸면 어떤 문화든 소개할 수 있습니다.",
+          "use": "Every Korean just knows this song.",
+          "useKo": "이 노래는 한국 사람이면 다 알아."
+        },
+        {
+          "chunk": "represents ___ the most",
+          "ko": "~를 제일 잘 보여 주다",
+          "why": "여럿 중에서 그 성격을 가장 잘 드러낸다는 말입니다. is typical of보다 격이 있고, 발표나 인터뷰에서 대표작이나 대표 음식을 소개할 때 어울려요. 뒤에 사람, 나라, 시대 뭐든 올 수 있습니다.",
+          "use": "This dish represents my hometown the most.",
+          "useKo": "이 음식이 우리 고향을 제일 잘 보여 줘."
+        },
+        {
+          "chunk": "come back to where we started from",
+          "ko": "처음 시작한 곳으로 돌아오다",
+          "why": "출발점으로 다시 돌아온다는 그림입니다. 장소뿐 아니라 초심, 원래 스타일, 첫 계획으로 되돌아갈 때도 써요. go back이 아니라 come back이라 지금 여기가 그 출발점이라는 느낌이 있습니다.",
+          "use": "After all these years, we came back to where we started from.",
+          "useKo": "그 많은 세월이 지나고 결국 처음 시작한 곳으로 돌아왔어."
+        }
+      ]
+    },
+    {
+      "id": "ss091",
+      "src": "videos/091.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#감정표현"
+      ],
+      "poster": "posters/091.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Do you have stress dreams before something is coming out?",
+          "ko": "뭔가 나오기 전에 스트레스 꿈 꿔요?"
+        },
+        {
+          "t": 3.2,
+          "en": "Yes. I have extreme stress and extreme joy at the same time.",
+          "ko": "네. 극도의 스트레스랑 극도의 기쁨이 동시에 와요."
+        },
+        {
+          "t": 10.96,
+          "en": "And it's always like back and forth, back and forth, every time, every night.",
+          "ko": "그게 계속 왔다 갔다, 왔다 갔다 해요. 매번, 매일 밤."
+        },
+        {
+          "t": 16.04,
+          "en": "I think these days, when I wake up in the morning,",
+          "ko": "요즘은 아침에 일어나면"
+        },
+        {
+          "t": 19.62,
+          "en": "I'm always in a good mood, just get a coffee.",
+          "ko": "늘 기분이 좋아요. 그냥 커피 한 잔 마시고,"
+        },
+        {
+          "t": 24.52,
+          "en": "And then it's a new day.",
+          "ko": "새로운 하루구나, 하죠."
+        },
+        {
+          "t": 26.24,
+          "en": "But at night, I feel like, I don't know what it's going to be like.",
+          "ko": "근데 밤이 되면, 앞으로 어떻게 될지 모르겠다 싶어요."
+        },
+        {
+          "t": 31.84,
+          "en": "And so I really want to live great in the mornings.",
+          "ko": "그래서 아침엔 진짜 잘 살고 싶어요."
+        },
+        {
+          "t": 38.08,
+          "en": "But I felt quite depressed and sad at night.",
+          "ko": "근데 밤에는 꽤 우울하고 슬펐어요."
+        },
+        {
+          "t": 41.7,
+          "en": "But the funny thing is, it was exactly the opposite years ago.",
+          "ko": "근데 웃긴 게, 몇 년 전엔 정반대였어요."
+        },
+        {
+          "t": 47.44,
+          "en": "I loved the night, because we worked every day during daytime.",
+          "ko": "밤이 좋았어요. 낮에는 매일 일했으니까."
+        },
+        {
+          "t": 54.52,
+          "en": "And at night, when I just come home and I feel alone,",
+          "ko": "밤에 집에 들어와서 혼자 있으면"
+        },
+        {
+          "t": 58.16,
+          "en": "I felt really great.",
+          "ko": "진짜 좋았거든요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "back and forth",
+          "ko": "왔다 갔다",
+          "why": "두 상태나 장소 사이를 계속 오간다는 그림입니다. 감정이 오락가락할 때, 두 도시를 오갈 때, 메시지를 주고받을 때 다 써요. 두 번 반복하면 '끝없이'라는 느낌이 더해집니다.",
+          "use": "I've been going back and forth on whether to take the job.",
+          "useKo": "그 일 할지 말지 계속 왔다 갔다 하고 있어."
+        },
+        {
+          "chunk": "in a good mood",
+          "ko": "기분이 좋은",
+          "why": "happy가 성격이나 상태라면 mood는 그때그때의 기분입니다. in a bad mood는 반대예요. 상사나 친구 기분을 살필 때 거의 매일 쓰는 말입니다.",
+          "use": "The boss is in a good mood today, so ask him now.",
+          "useKo": "오늘 부장님 기분 좋으시니까 지금 여쭤봐."
+        },
+        {
+          "chunk": "the funny thing is",
+          "ko": "웃긴 건, 재밌는 게",
+          "why": "뒤에 의외의 사실이 온다고 예고하는 말입니다. 꼭 웃긴 얘기가 아니라 '묘하게도', '신기하게도'라는 뜻이에요. 이야기에 작은 반전을 줄 때 앞에 붙입니다.",
+          "use": "The funny thing is, I never liked coffee until last year.",
+          "useKo": "웃긴 게, 작년까지는 커피를 안 좋아했어."
+        }
+      ]
+    },
+    {
+      "id": "ss092",
+      "src": "videos/092.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#소감표현"
+      ],
+      "poster": "posters/092.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "So when I first read the script,",
+          "ko": "처음 대본을 읽었을 때"
+        },
+        {
+          "t": 4.1,
+          "en": "I just thought it was really fun, very playful.",
+          "ko": "그냥 진짜 재밌고 장난기 넘친다고 생각했어요."
+        },
+        {
+          "t": 6.98,
+          "en": "And also, it had a really good message.",
+          "ko": "그리고 메시지도 정말 좋았고요."
+        },
+        {
+          "t": 8.92,
+          "en": "So I thought the kids would definitely love it.",
+          "ko": "그래서 애들이 분명 좋아하겠다 싶었죠."
+        },
+        {
+          "t": 11.74,
+          "en": "And I was a big fan of animation as a kid.",
+          "ko": "저도 어릴 때 애니메이션 완전 좋아했거든요."
+        },
+        {
+          "t": 16.82,
+          "en": "It was amazing. This animation is next level. — It is. — It's gorgeous.",
+          "ko": "대단했어요. 이 애니메이션은 차원이 달라요. — 맞아요. — 너무 아름다워요."
+        },
+        {
+          "t": 21.02,
+          "en": "And one of my favorites was Frozen.",
+          "ko": "제일 좋아했던 것 중 하나가 겨울왕국이었어요."
+        },
+        {
+          "t": 23.68,
+          "en": "And that was, like, almost my entire childhood,",
+          "ko": "그게 제 어린 시절의 거의 전부였죠,"
+        },
+        {
+          "t": 27.22,
+          "en": "although I watched it when I was, like, 20.",
+          "ko": "스무 살쯤에 보긴 했지만요."
+        },
+        {
+          "t": 31.72,
+          "en": "Yeah, I mean, I know how impactful it is for kids to have these kind of meaningful animations.",
+          "ko": "이런 의미 있는 애니메이션이 아이들한테 얼마나 큰 영향을 주는지 잘 알아요."
+        },
+        {
+          "t": 38.62,
+          "en": "And to be able to be on the other side to give back the message to kids just felt really special.",
+          "ko": "그래서 이번엔 반대편에서 아이들한테 메시지를 돌려줄 수 있다는 게 정말 특별했어요."
+        },
+        {
+          "t": 43.32,
+          "en": "Congratulations. That is cool, but you're a demon, though.",
+          "ko": "축하해요. 멋지네요. 근데 당신은 악마잖아요."
+        },
+        {
+          "t": 51.28,
+          "en": "I mean, do you consider your character...",
+          "ko": "그러니까, 본인 캐릭터를..."
+        },
+        {
+          "t": 55.4,
+          "en": "I never really thought of Jinu as a demon.",
+          "ko": "저는 진우를 악마라고 생각한 적이 없어요."
+        },
+        {
+          "t": 58.76,
+          "en": "I think that we all have a little demon inside of us.",
+          "ko": "우리 모두 안에 작은 악마가 하나씩 있잖아요."
+        },
+        {
+          "t": 63.24,
+          "en": "That's a nice way to put it.",
+          "ko": "표현 참 좋네요."
+        },
+        {
+          "t": 65.88,
+          "en": "But demons are never nice!",
+          "ko": "근데 악마는 절대 안 착하잖아요!"
+        },
+        {
+          "t": 68.46,
+          "en": "No, I just thought Jinu was more human than demon.",
+          "ko": "아니, 저는 진우가 악마보단 사람에 가깝다고 봤어요."
+        },
+        {
+          "t": 70.94,
+          "en": "He just made a wrong mistake at the wrong time.",
+          "ko": "그냥 안 좋은 때에 잘못된 실수를 한 거죠."
+        },
+        {
+          "t": 73.8,
+          "en": "And through Jinu, I wanted to kind of send the message that, you know, in order to overcome your mistake,",
+          "ko": "그래서 진우를 통해서 이런 메시지를 주고 싶었어요. 실수를 극복하려면"
+        },
+        {
+          "t": 80.52,
+          "en": "you just got to accept it, accept who you are, and just move on.",
+          "ko": "그냥 받아들이고, 자기 자신을 받아들이고, 넘어가야 한다고요."
+        },
+        {
+          "t": 84.06,
+          "en": "Good for you. I like that. — Yeah.",
+          "ko": "멋지네요. 마음에 들어요. — 네."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "a big fan of ___ as a kid",
+          "ko": "어릴 때 ~를 엄청 좋아했어요",
+          "why": "fan은 연예인뿐 아니라 음식, 영화, 취미에도 씁니다. I liked보다 '푹 빠져 있었다'는 느낌이에요. as a kid를 붙이면 어린 시절 취향 얘기가 바로 시작됩니다.",
+          "use": "I was a big fan of dinosaurs as a kid.",
+          "useKo": "나 어릴 때 공룡 엄청 좋아했어."
+        },
+        {
+          "chunk": "That's a nice way to put it",
+          "ko": "표현 참 좋네요",
+          "why": "말을 그렇게 표현한 방식이 좋다는 칭찬입니다. put it은 '말하다'라는 뜻이에요. 상대의 멋진 한마디에 바로 반응할 때, 또는 완곡하게 돌려 말한 걸 알아챘을 때도 씁니다.",
+          "use": "Retired early? That's a nice way to put it.",
+          "useKo": "조기 은퇴? 표현 참 좋네."
+        },
+        {
+          "chunk": "just move on",
+          "ko": "그냥 넘어가다, 털고 가다",
+          "why": "지난 일을 붙들지 말고 앞으로 간다는 말입니다. forget이 잊는 거라면 move on은 받아들이고 다음으로 가는 그림이에요. 실수, 이별, 회의 안건 모두에 씁니다.",
+          "use": "It's done. Let's just move on.",
+          "useKo": "끝난 일이야. 그냥 넘어가자."
+        }
+      ]
+    },
+    {
+      "id": "ss093",
+      "src": "videos/093.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#가족이야기"
+      ],
+      "poster": "posters/093.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Yeah, my parents were actually in Korea at the time I was shooting the show.",
+          "ko": "네, 제가 촬영할 때 마침 부모님이 한국에 계셨어요."
+        },
+        {
+          "t": 4.88,
+          "en": "And so I asked them if they wouldn't mind being on camera for it. — Yeah.",
+          "ko": "그래서 괜찮으시면 카메라에 좀 나와 주실 수 있냐고 여쭤봤죠. — 네."
+        },
+        {
+          "t": 9.18,
+          "en": "And they said yes, which was really, really, I think, a special moment for us.",
+          "ko": "그러겠다고 하셨는데, 저희한테 정말 특별한 순간이었어요."
+        },
+        {
+          "t": 13.38,
+          "en": "They're my parents. — Yeah.",
+          "ko": "제 부모님이니까요. — 그렇죠."
+        },
+        {
+          "t": 15.72,
+          "en": "But we were in the middle of Seoul in an area where they knew very well when they were teenagers.",
+          "ko": "근데 거기가 서울 한복판, 부모님이 십 대 때 아주 잘 알던 동네였거든요."
+        },
+        {
+          "t": 21.36,
+          "en": "And — I bet they didn't recognize it. — They didn't recognize it at all.",
+          "ko": "그런데— 분명 못 알아보셨겠죠. — 전혀 못 알아보셨어요."
+        },
+        {
+          "t": 23.52,
+          "en": "I know. — Yeah. — That's when you know you're getting old. — Yeah, no, it's true.",
+          "ko": "알아요. — 네. — 그럴 때 나이 들었구나 하는 거죠. — 네, 진짜 그래요."
+        },
+        {
+          "t": 28.1,
+          "en": "And so they were like, we don't want to go out without you. So show us around Seoul.",
+          "ko": "그래서 부모님이, 너 없이는 안 나가겠다, 서울 구경 좀 시켜 달라고 하시는 거예요."
+        },
+        {
+          "t": 33.26,
+          "en": "And I was like, you're asking me to show you around Seoul?",
+          "ko": "저는, 저한테 서울 구경을 시켜 달라고요? 했죠."
+        },
+        {
+          "t": 36.02,
+          "en": "And so that's how much the city and the country has changed. — Yeah.",
+          "ko": "도시도 나라도 그만큼 많이 변한 거예요. — 그러네요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "if you wouldn't mind ___ing",
+          "ko": "괜찮으시면 ~해 주실 수 있을까요",
+          "why": "부탁을 아주 부드럽게 꺼내는 말입니다. Can you보다 상대에게 거절할 여지를 주는 느낌이에요. 어른이나 처음 보는 사람에게 부탁할 때 딱입니다.",
+          "use": "I asked if you wouldn't mind sharing your notes.",
+          "useKo": "괜찮으시면 필기 좀 공유해 주실 수 있을까 해서요."
+        },
+        {
+          "chunk": "show ___ around",
+          "ko": "~에게 구경시켜 주다",
+          "why": "새로 온 사람을 데리고 다니며 안내한다는 말입니다. guide보다 훨씬 일상적이고, 회사 첫날 사무실 안내나 친구 동네 구경에 다 써요. 사람이 show와 around 사이에 들어갑니다.",
+          "use": "I'll show you around the office after lunch.",
+          "useKo": "점심 먹고 사무실 구경시켜 줄게."
+        },
+        {
+          "chunk": "that's how much ___ has changed",
+          "ko": "~가 그만큼 변한 거야",
+          "why": "앞에 든 예가 변화의 크기를 보여 준다고 마무리하는 말입니다. It changed a lot보다 '봐, 이 정도야'라고 증거를 내미는 느낌이에요. 고향, 기술, 사람 얘기에 두루 씁니다.",
+          "use": "My phone can't run the app anymore. That's how much things have changed.",
+          "useKo": "내 폰으론 그 앱이 안 돌아가. 세상이 그만큼 변한 거지."
+        }
+      ]
+    },
+    {
+      "id": "ss094",
+      "src": "videos/094.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#음식취향"
+      ],
+      "poster": "posters/094.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "So, you know, when you go out drinking in K-town,",
+          "ko": "그러니까, 코리아타운에 술 마시러 가면"
+        },
+        {
+          "t": 5.12,
+          "en": "one of the things that Koreans love to do is mix soju, which is this distilled alcohol right here.",
+          "ko": "한국 사람들이 즐겨 하는 것 중 하나가 소주를 섞는 거예요. 소주는 여기 이 증류주고요."
+        },
+        {
+          "t": 10.5,
+          "en": "And that can be distilled from many different things: wheat, grapes, rice.",
+          "ko": "여러 재료로 증류할 수 있어요. 밀, 포도, 쌀."
+        },
+        {
+          "t": 16.26,
+          "en": "But it's lower in alcohol content than vodka.",
+          "ko": "근데 보드카보다 도수가 낮아요."
+        },
+        {
+          "t": 19.88,
+          "en": "So it mixes really well with stuff like juices and beer.",
+          "ko": "그래서 주스나 맥주 같은 거랑 아주 잘 섞여요."
+        },
+        {
+          "t": 24.7,
+          "en": "So a really popular drink is soju mixed with beer, or maekju, as they call it.",
+          "ko": "그래서 진짜 인기 있는 술이 소주에 맥주를 섞은 건데, 한국에선 맥주를 maekju라고 하죠."
+        },
+        {
+          "t": 29.64,
+          "en": "So it's called somaek. — Oh, somaek, okay.",
+          "ko": "그래서 소맥이라고 불러요. — 아, 소맥, 알겠어요."
+        },
+        {
+          "t": 32.08,
+          "en": "Yeah, so it's kind of like a boilermaker, you know, when you drop whiskey into a beer. — Yeah.",
+          "ko": "네, 보일러메이커 같은 거예요. 맥주에 위스키를 떨어뜨리는 거 있잖아요. — 네."
+        },
+        {
+          "t": 37.62,
+          "en": "And so this is the Korean version of that.",
+          "ko": "이게 그거의 한국 버전이에요."
+        },
+        {
+          "t": 39.68,
+          "en": "So I thought we would make what's called a soju bomb. — Okay.",
+          "ko": "그래서 오늘 소주 폭탄주라는 걸 만들어 볼까 해요. — 좋아요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "one of the things ___ love to do is ___",
+          "ko": "~가 즐겨 하는 것 중 하나는 ~예요",
+          "why": "여러 가지 중 하나를 골라 소개하는 틀입니다. 바로 본론으로 들어가는 것보다 듣는 사람을 준비시켜 줘요. 문화, 취미, 주말 계획 설명에 두루 씁니다.",
+          "use": "One of the things my family loves to do is go camping.",
+          "useKo": "우리 가족이 즐겨 하는 것 중 하나가 캠핑이야."
+        },
+        {
+          "chunk": "it's kind of like ___",
+          "ko": "~랑 비슷한 거예요",
+          "why": "낯선 걸 상대가 아는 것에 빗대어 설명하는 말입니다. it's like보다 kind of가 붙어서 '완전히 같진 않지만'이라는 여유가 생겨요. 음식, 앱, 직업 설명에 거의 매일 씁니다.",
+          "use": "Tteokbokki? It's kind of like spicy rice cakes in sauce.",
+          "useKo": "떡볶이? 매운 소스에 버무린 떡 같은 거야."
+        },
+        {
+          "chunk": "the Korean version of that",
+          "ko": "그거의 한국 버전",
+          "why": "다른 나라에 있는 것과 비슷한 우리 것을 소개할 때 씁니다. version은 '같은 것의 다른 형태'라는 뜻이에요. Korean 자리에 나라, 회사, 세대를 넣어 응용합니다.",
+          "use": "Chuseok is kind of the Korean version of Thanksgiving.",
+          "useKo": "추석은 추수감사절의 한국 버전 같은 거야."
+        }
+      ]
+    },
+    {
+      "id": "ss095",
+      "src": "videos/095.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#일상대화"
+      ],
+      "poster": "posters/095.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "When you fly back from Italy, do they make you run it through the metal detector?",
+          "ko": "이탈리아에서 돌아올 때 그거 금속 탐지기에 통과시키라고 해요?"
+        },
+        {
+          "t": 7.88,
+          "en": "Yeah, and it's always a thing. — Really?",
+          "ko": "네, 매번 일이 돼요. — 진짜요?"
+        },
+        {
+          "t": 9.98,
+          "en": "It's always a thing, because on the X-ray, it shows up as this big black foreign object.",
+          "ko": "매번 그래요. 엑스레이에 커다란 검은 이물질로 찍히거든요."
+        },
+        {
+          "t": 16.1,
+          "en": "There's no definition or anything. — Right.",
+          "ko": "형태 같은 게 전혀 안 보여요. — 그렇죠."
+        },
+        {
+          "t": 18.94,
+          "en": "And so everyone's alarmed, naturally.",
+          "ko": "그러니까 다들 당연히 긴장하죠."
+        },
+        {
+          "t": 21.66,
+          "en": "And so they'll pull me back to the side, and they're like, do you have anything sharp?",
+          "ko": "그래서 저를 옆으로 빼서, 날카로운 거 있냐고 물어요."
+        },
+        {
+          "t": 25.7,
+          "en": "Like, no.",
+          "ko": "아뇨, 하죠."
+        },
+        {
+          "t": 27.18,
+          "en": "And when they pull it out, do they get excited?",
+          "ko": "꺼내 보면 다들 신나 해요?"
+        },
+        {
+          "t": 29.68,
+          "en": "Well, then this time around, I got used to it, right? Because I brought two other ones home.",
+          "ko": "이번에는 저도 익숙해졌죠. 전에 두 개를 더 가져왔으니까."
+        },
+        {
+          "t": 34.44,
+          "en": "Yeah. — And so...",
+          "ko": "네. — 그래서..."
+        },
+        {
+          "t": 40.14,
+          "en": "And so this time, I beat them to it.",
+          "ko": "그래서 이번엔 제가 선수를 쳤어요."
+        },
+        {
+          "t": 43.16,
+          "en": "I was like, is it the big black thing? And he's like, yes.",
+          "ko": "제가, 커다란 검은 거요? 하니까 그분이, 네, 하더라고요."
+        },
+        {
+          "t": 47.78,
+          "en": "I'm like, it's a medal. He's like, what kind of medal?",
+          "ko": "메달이에요, 했더니, 무슨 메달이요? 해요."
+        },
+        {
+          "t": 50.54,
+          "en": "Like, it's an Olympic medal, and he's like, really? I'm like, yeah.",
+          "ko": "올림픽 메달이요, 하니까, 진짜요? 그래서, 네, 했죠."
+        },
+        {
+          "t": 54.42,
+          "en": "And then he pulls it out, and he's like, that's really cool, congratulations. And then I'm good. Better than most of the stuff they pull out of people's bags.",
+          "ko": "그러고 꺼내 보더니, 진짜 멋지네요, 축하해요, 하더라고요. 그러고 끝이에요. 남들 가방에서 나오는 것들보단 낫죠."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "it's always a thing",
+          "ko": "매번 일이 돼요",
+          "why": "매번 신경 쓰이는 상황이 된다는 말입니다. 여기서 thing은 '문제', '소동'이라는 뜻이에요. It's not a thing이라고 하면 '별일 아니야'가 됩니다.",
+          "use": "Parking at that mall is always a thing.",
+          "useKo": "그 쇼핑몰 주차는 매번 일이야."
+        },
+        {
+          "chunk": "this time around",
+          "ko": "이번에는",
+          "why": "같은 일이 반복될 때 이번 차례를 가리킵니다. this time에 around가 붙어서 '한 바퀴 돌아 다시 온 이번'이라는 그림이에요. 재도전, 재방문, 시즌 2 얘기에 자주 씁니다.",
+          "use": "This time around, I'm going to prepare properly.",
+          "useKo": "이번에는 제대로 준비할 거야."
+        },
+        {
+          "chunk": "beat ___ to it",
+          "ko": "~보다 선수를 치다",
+          "why": "상대가 하려던 걸 내가 먼저 해 버렸다는 말입니다. 이기다가 아니라 '한발 앞서다'라는 그림이에요. 말하려던 걸 먼저 말하거나, 계산을 먼저 할 때 씁니다.",
+          "use": "I was going to buy that, but she beat me to it.",
+          "useKo": "내가 그거 사려고 했는데 걔가 선수 쳤어."
+        }
+      ]
+    },
+    {
+      "id": "ss096",
+      "src": "videos/096.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#진로이야기"
+      ],
+      "poster": "posters/096.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "I remember specifically Seth Rogen had said, like, I watched your audition reel.",
+          "ko": "세스 로건이 이렇게 말한 게 또렷이 기억나요. 네 오디션 영상 봤어."
+        },
+        {
+          "t": 3.98,
+          "en": "You know, we really believed you were a burned-out doctor.",
+          "ko": "우리 진짜로 네가 번아웃 온 의사인 줄 알았어."
+        },
+        {
+          "t": 6.72,
+          "en": "And I was saying without any irony, or not doing it, I said, because I am, you know.",
+          "ko": "그래서 제가 농담 아니고, 연기 아니고, 그랬죠. 진짜 그러니까요."
+        },
+        {
+          "t": 12.44,
+          "en": "And I shot it on a vacation day, because I was only, like, really a small part.",
+          "ko": "그거 휴가 날 찍었어요. 진짜 작은 역이었으니까."
+        },
+        {
+          "t": 17.44,
+          "en": "I was mature enough to think it's not like my world's gonna change overnight.",
+          "ko": "그걸로 내 세상이 하룻밤에 바뀌진 않는다는 걸 알 만큼은 철이 들어 있었죠."
+        },
+        {
+          "t": 20.9,
+          "en": "And I'm sure having the validation of Judd Apatow, Seth Rogen, Jason Segel, all those guys saying you're funny, that'll push you down the road.",
+          "ko": "그래도 저드 애파토, 세스 로건, 제이슨 시걸 같은 사람들이 '너 웃겨'라고 인정해 주는 건 분명 앞으로 나아갈 힘이 되죠."
+        },
+        {
+          "t": 29.28,
+          "en": "You're coronated by kings.",
+          "ko": "왕들한테 왕관을 받은 거네요."
+        },
+        {
+          "t": 31.72,
+          "en": "And Judd had said, like, you are my discovery, and I will put you in all my movies.",
+          "ko": "저드가 그랬어요, 넌 내가 발굴한 사람이야, 내 영화에 전부 넣어 줄게."
+        },
+        {
+          "t": 37.78,
+          "en": "And then he knew I quit my day job, and he'd helped me out so greatly.",
+          "ko": "그러다 제가 본업을 그만둔 걸 알고 엄청나게 도와줬어요."
+        },
+        {
+          "t": 41.36,
+          "en": "He gave me roles in a couple of movies that eventually, I think, were recast,",
+          "ko": "영화 몇 편에 역할을 줬는데, 결국엔 다른 배우로 바뀌었거나,"
+        },
+        {
+          "t": 47.58,
+          "en": "or I was doing so many Judd movies at once I couldn't do them all, and I still got paid for it.",
+          "ko": "제가 저드 영화를 한꺼번에 너무 많이 해서 다 못 했는데도 출연료는 다 받았어요."
+        },
+        {
+          "t": 53.26,
+          "en": "And I've never told anyone that.",
+          "ko": "이 얘기 아무한테도 안 했어요."
+        },
+        {
+          "t": 54.54,
+          "en": "I remember after The Hangover, I saw him at an Emmy party, and he said, you doing the sequel?",
+          "ko": "행오버 끝나고 에미상 파티에서 그 사람을 만났는데, 속편 하냐고 묻더라고요."
+        },
+        {
+          "t": 59.98,
+          "en": "And I said, yeah, and he said, great, I don't have to worry about you anymore.",
+          "ko": "네, 했더니, 잘됐다, 이제 네 걱정은 안 해도 되겠네, 하더라고요."
+        },
+        {
+          "t": 62.98,
+          "en": "I'm an international criminal. It always ends like this.",
+          "ko": "저는 국제 범죄자니까요. 늘 이렇게 끝나죠."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "quit my day job",
+          "ko": "본업을 그만두다",
+          "why": "day job은 꿈을 위해 생계로 하는 '낮 직장'입니다. Don't quit your day job은 '그걸로 먹고살 생각은 마'라는 농담이에요. 켄 정은 진짜 의사였으니 말 그대로입니다.",
+          "use": "I finally quit my day job to write full-time.",
+          "useKo": "드디어 본업 그만두고 전업으로 글 써."
+        },
+        {
+          "chunk": "It's not like ___ is going to change overnight",
+          "ko": "~가 하룻밤에 바뀌는 것도 아니고",
+          "why": "기대를 낮추며 현실적으로 말할 때 쓰는 틀입니다. overnight는 '하룻밤 사이에, 갑자기'라는 뜻이에요. It's not like로 시작하면 '그렇다고 ~도 아니잖아'라는 어조가 됩니다.",
+          "use": "It's not like my English is going to change overnight.",
+          "useKo": "내 영어가 하룻밤에 바뀌는 것도 아니고."
+        },
+        {
+          "chunk": "I've never told anyone that",
+          "ko": "이 얘기 아무한테도 안 했어",
+          "why": "지금 처음 털어놓는다는 신호입니다. 비밀 얘기 바로 앞이나 뒤에 붙여요. 듣는 사람을 특별하게 만드는 한마디라 인터뷰에서 자주 나옵니다.",
+          "use": "I've never told anyone that, so keep it to yourself.",
+          "useKo": "이 얘기 아무한테도 안 했으니까 너만 알고 있어."
+        }
+      ]
+    },
+    {
+      "id": "ss097",
+      "src": "videos/097.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#소감표현"
+      ],
+      "poster": "posters/097.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "I mean, you talk about you can always dream, dude. You're living the life.",
+          "ko": "꿈은 언제든 꿀 수 있다고 하셨는데, 지금 그 삶을 살고 있잖아요."
+        },
+        {
+          "t": 3.44,
+          "en": "Like, we were just talking about how we're at the Golden Globes, right? That was crazy to see you there.",
+          "ko": "아까 골든글로브 얘기했잖아요. 거기서 보니까 진짜 신기하더라고요."
+        },
+        {
+          "t": 7.94,
+          "en": "So what was that experience like, like, being there by yourself and doing interviews and just being in that world of film?",
+          "ko": "그 경험은 어땠어요? 혼자 거기 가서 인터뷰하고, 영화라는 세계에 있는 거요."
+        },
+        {
+          "t": 15.32,
+          "en": "Man, I was so nervous, because I'm used to, like, being surrounded by my members.",
+          "ko": "진짜 너무 긴장했어요. 늘 멤버들한테 둘러싸여 있는 게 익숙하니까."
+        },
+        {
+          "t": 19.92,
+          "en": "But, like, going there by myself, I was really nervous, but",
+          "ko": "근데 혼자 가니까 정말 긴장됐는데,"
+        },
+        {
+          "t": 23.98,
+          "en": "there was a lot of good feedback from, like, my fans, and you were there,",
+          "ko": "팬들 반응이 정말 좋았고, 형도 거기 있었으니까"
+        },
+        {
+          "t": 27.64,
+          "en": "so I was like a lot more comfortable doing, like, the interviews, and",
+          "ko": "인터뷰하는 게 훨씬 편했어요. 그리고"
+        },
+        {
+          "t": 31.86,
+          "en": "it kind of blew up. A lot of people were talking about that, like, me going to the Globes,",
+          "ko": "그게 꽤 화제가 됐어요. 제가 골든글로브 간 걸 많이들 얘기해서"
+        },
+        {
+          "t": 37.06,
+          "en": "so I was really happy with, like, the feedback.",
+          "ko": "반응이 정말 기뻤어요."
+        },
+        {
+          "t": 41.38,
+          "en": "Yeah, and I mean, what is also interesting to me is that, like, people were so excited that you got to meet the Heated Rivalry boys.",
+          "ko": "그리고 저한테 또 흥미로웠던 건, 히티드 라이벌리 배우들을 만났다고 사람들이 엄청 신나 했다는 거예요."
+        },
+        {
+          "t": 48.08,
+          "en": "Yeah, how was that backstage, you getting to see Connor and all of that?",
+          "ko": "무대 뒤는 어땠어요? 코너도 만나고 하는 거요."
+        },
+        {
+          "t": 52.48,
+          "en": "It was crazy, because I didn't know anything about Heated Rivalry before,",
+          "ko": "진짜 신기했어요. 전에는 히티드 라이벌리를 전혀 몰랐거든요,"
+        },
+        {
+          "t": 57.02,
+          "en": "but my fans, like, during, like, a fan call, my fan was like, you have to watch Heated Rivalry.",
+          "ko": "근데 팬 통화 때 팬이, 히티드 라이벌리 꼭 봐야 해요, 하는 거예요."
+        },
+        {
+          "t": 62.52,
+          "en": "Do you know Heated Rivalry? I was like, what's Heated Rivalry?",
+          "ko": "히티드 라이벌리 알아요? 저는, 히티드 라이벌리가 뭔데요? 했죠."
+        },
+        {
+          "t": 66.32,
+          "en": "And then suddenly I'm at the Globes with, like, the stars from Heated Rivalry.",
+          "ko": "그러다 갑자기 골든글로브에서 히티드 라이벌리 배우들이랑 같이 있는 거예요."
+        },
+        {
+          "t": 69.3,
+          "en": "It was really cool, like, meeting Hudson. He was like, oh, my fellow Korean.",
+          "ko": "허드슨 만난 게 진짜 멋졌어요. 저한테, 오, 같은 한국인이네, 하더라고요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "by myself",
+          "ko": "혼자서",
+          "why": "alone이 '혼자 있는 상태'라면, by myself는 '남의 도움 없이 내가'라는 느낌이 강합니다. 혼자 여행, 혼자 처리한 일을 말할 때 써요. yourself, himself로 바꿔 쓰면 됩니다.",
+          "use": "I went to the concert by myself.",
+          "useKo": "그 콘서트 혼자 갔어."
+        },
+        {
+          "chunk": "it kind of blew up",
+          "ko": "꽤 화제가 됐어",
+          "why": "blow up은 터진다는 뜻인데, 여기선 갑자기 유명해지거나 화제가 됐다는 말입니다. go viral보다 가볍고 입말이에요. kind of를 붙여 '좀, 꽤'라고 살짝 낮췄습니다.",
+          "use": "I posted the video and it kind of blew up.",
+          "useKo": "영상 올렸는데 꽤 화제가 됐어."
+        },
+        {
+          "chunk": "I didn't know anything about ___ before",
+          "ko": "전엔 ~에 대해 전혀 몰랐어",
+          "why": "어떤 것에 대해 완전히 백지였다는 말입니다. I didn't know보다 anything about이 들어가서 '하나도'라는 강조가 돼요. 새로 빠진 취미나 뒤늦게 안 사실 얘기에 자주 씁니다.",
+          "use": "I didn't know anything about wine before I met her.",
+          "useKo": "걔 만나기 전엔 와인에 대해 전혀 몰랐어."
+        }
+      ]
+    },
+    {
+      "id": "ss098",
+      "src": "videos/098.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#성장이야기"
+      ],
+      "poster": "posters/098.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "I'm so curious about, like, how you feel, you know, your background influences your music taste.",
+          "ko": "궁금한 게, 본인 배경이 음악 취향에 어떤 영향을 줬다고 느끼세요?"
+        },
+        {
+          "t": 7.42,
+          "en": "I know you moved from America when you were very young, but obviously still speak fluent English,",
+          "ko": "아주 어릴 때 미국에서 건너왔지만, 보다시피 영어는 여전히 유창하고,"
+        },
+        {
+          "t": 13.88,
+          "en": "you grew up in Korea. That's a really interesting kind of, like, in-between space,",
+          "ko": "한국에서 자랐잖아요. 그 사이에 낀 자리가 참 흥미롭거든요,"
+        },
+        {
+          "t": 18.44,
+          "en": "especially when you're, like, finding pop culture.",
+          "ko": "특히 대중문화를 찾아갈 때는요."
+        },
+        {
+          "t": 21.92,
+          "en": "How do you think that's influenced kind of your taste in music?",
+          "ko": "그게 음악 취향에 어떤 영향을 줬다고 생각해요?"
+        },
+        {
+          "t": 24.28,
+          "en": "My childhood has a huge influence on my taste today.",
+          "ko": "제 어린 시절이 지금 취향에 엄청 큰 영향을 줬어요."
+        },
+        {
+          "t": 30.76,
+          "en": "I think I have a weird taste in things because",
+          "ko": "제 취향이 좀 특이한 것 같은데, 왜냐면"
+        },
+        {
+          "t": 33.8,
+          "en": "I'm not completely American pop influenced, nor am I Korean pop influenced either.",
+          "ko": "완전히 미국 팝의 영향을 받은 것도 아니고, 그렇다고 한국 가요의 영향도 아니거든요."
+        },
+        {
+          "t": 45.04,
+          "en": "And, yeah, I feel like that really connects with my, I think that connects with my identity,",
+          "ko": "그게 제 정체성이랑 진짜 이어져 있다고 생각해요,"
+        },
+        {
+          "t": 54.12,
+          "en": "because I've never felt fully American nor Korean either.",
+          "ko": "저는 한 번도 완전히 미국인이라고도, 한국인이라고도 느낀 적이 없거든요."
+        },
+        {
+          "t": 61.66,
+          "en": "And that confused me a lot, but now I kind of think that might be a weapon of mine.",
+          "ko": "그게 저를 많이 혼란스럽게 했는데, 지금은 그게 제 무기일 수도 있겠다 싶어요."
+        },
+        {
+          "t": 70.8,
+          "en": "So I'm trying to just utilize it as much as I can.",
+          "ko": "그래서 최대한 잘 활용해 보려고요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "has a huge influence on ___",
+          "ko": "~에 엄청 큰 영향을 주다",
+          "why": "influence는 영향 그 자체, on 뒤에 영향을 받는 대상이 옵니다. affect보다 '방향을 바꿔 놓을 만큼'이라는 무게가 있어요. 사람, 작품, 환경 모두 주어로 올 수 있습니다.",
+          "use": "My older brother had a huge influence on my taste in music.",
+          "useKo": "우리 형이 내 음악 취향에 엄청 큰 영향을 줬어."
+        },
+        {
+          "chunk": "I've never felt fully ___",
+          "ko": "완전히 ~라고 느낀 적이 없어",
+          "why": "어디에도 온전히 속하지 못했다는 고백입니다. not이 아니라 never라서 살아오는 내내 그랬다는 뜻이에요. fully 자리에 at home, ready, confident 같은 말도 잘 어울립니다.",
+          "use": "I've never felt fully comfortable in big groups.",
+          "useKo": "큰 모임에서 완전히 편했던 적이 없어."
+        },
+        {
+          "chunk": "as much as I can",
+          "ko": "최대한, 할 수 있는 만큼",
+          "why": "할 수 있는 한도까지 다 한다는 말입니다. a lot이 양만 말한다면, 이건 '내 한계까지'라는 느낌이에요. 문장 끝에 붙이기만 하면 돼서 쓰기 쉽습니다.",
+          "use": "I'll help as much as I can.",
+          "useKo": "내가 할 수 있는 만큼은 도울게."
+        }
+      ]
+    },
+    {
+      "id": "ss099",
+      "src": "videos/099.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#진로이야기"
+      ],
+      "poster": "posters/099.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "And for me, with my career, I find myself in this funny position where, you know,",
+          "ko": "제 커리어로 말하자면, 저는 좀 묘한 위치에 있는 셈이에요."
+        },
+        {
+          "t": 5.54,
+          "en": "after a bunch of decades, I had my break at an unusual time.",
+          "ko": "수십 년이 지나서, 좀 특이한 시점에 빛을 봤거든요."
+        },
+        {
+          "t": 10.34,
+          "en": "I got mine at a time when normally, historically, there's a very real precedent for women",
+          "ko": "제가 기회를 잡은 나이는 보통, 역사적으로 여자 배우들이"
+        },
+        {
+          "t": 16.98,
+          "en": "at that age to retire, to stop, and to not have any opportunities anymore.",
+          "ko": "은퇴하고, 멈추고, 더 이상 기회가 없어지는 게 당연하던 나이였어요."
+        },
+        {
+          "t": 23.02,
+          "en": "And for me, it feels like science fiction that it's the opposite.",
+          "ko": "저한테는 그 반대가 됐다는 게 SF 영화 같아요."
+        },
+        {
+          "t": 27.52,
+          "en": "I feel like I'm making up for lost time a little bit,",
+          "ko": "잃어버린 시간을 조금 만회하고 있는 느낌이에요,"
+        },
+        {
+          "t": 31.7,
+          "en": "and I feel like I'm like a fully formed person that is now having to stay loose and fresh and wide-eyed",
+          "ko": "이미 다 자란 어른인데, 이제 와서 유연하고 신선하고 눈을 반짝여야 하는 거죠,"
+        },
+        {
+          "t": 40.36,
+          "en": "in a way that I didn't expect at all.",
+          "ko": "전혀 예상 못 한 방식으로요."
+        },
+        {
+          "t": 42.74,
+          "en": "I kind of thought that this is when I would be home more and garden and cook and be with my kiddos,",
+          "ko": "이 나이쯤엔 집에 더 있으면서 정원 가꾸고 요리하고 애들이랑 지낼 줄 알았거든요,"
+        },
+        {
+          "t": 49.9,
+          "en": "and I just did not expect this sort of flip-flop.",
+          "ko": "이렇게 뒤집힐 줄은 정말 몰랐어요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "find myself in a funny position",
+          "ko": "묘한 입장에 놓이다",
+          "why": "어쩌다 보니 그런 상황에 있게 됐다는 말입니다. I am in보다 find myself가 '정신 차려 보니'라는 느낌을 줘요. funny는 웃기다가 아니라 '이상한, 애매한'이라는 뜻입니다.",
+          "use": "I found myself in a funny position, managing my old boss.",
+          "useKo": "옛 상사를 내가 관리하는 묘한 입장이 됐어."
+        },
+        {
+          "chunk": "make up for lost time",
+          "ko": "잃어버린 시간을 만회하다",
+          "why": "못 했던 걸 몰아서 한다는 그림입니다. catch up이 따라잡는 거라면, 이건 놓친 몫을 채워 넣는 느낌이에요. 오랜만에 만난 친구, 늦게 시작한 취미 얘기에 딱입니다.",
+          "use": "We hadn't seen each other in years, so we're making up for lost time.",
+          "useKo": "몇 년 만에 만나서 지금 잃어버린 시간 만회 중이야."
+        },
+        {
+          "chunk": "had my break",
+          "ko": "기회를 잡았다, 빛을 봤다",
+          "why": "break는 쉬는 시간이 아니라 '인생을 바꾼 기회'입니다. big break라고도 하고, get a break는 '운이 따르다'예요. 데뷔나 전환점 얘기에 자주 나옵니다.",
+          "use": "She had her break at 40 with a small indie film.",
+          "useKo": "그 배우는 마흔에 작은 독립영화로 빛을 봤어."
+        }
+      ]
+    },
+    {
+      "id": "ss100",
+      "src": "videos/100.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#사람묘사"
+      ],
+      "poster": "posters/100.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "We have been together now for 34 going on 35 years.",
+          "ko": "우리는 이제 같이 산 지 34년, 곧 35년이 돼요."
+        },
+        {
+          "t": 8.46,
+          "en": "I knew almost immediately, and looks like I made a pretty good bet.",
+          "ko": "거의 바로 알았고, 보아하니 꽤 괜찮은 베팅을 한 것 같아요."
+        },
+        {
+          "t": 12.5,
+          "en": "This was a one-of-a-kind woman with the integrity and character",
+          "ko": "세상에 하나뿐인 여자였어요. 성실함과 인품,"
+        },
+        {
+          "t": 17.98,
+          "en": "and smarts and values that was going to make me better,",
+          "ko": "똑똑함과 가치관, 나를 더 나은 사람으로 만들어 줄 사람이었죠,"
+        },
+        {
+          "t": 22.18,
+          "en": "and just being with her made me better, and she still does,",
+          "ko": "같이 있는 것만으로 내가 나아졌고, 지금도 그래요,"
+        },
+        {
+          "t": 26.2,
+          "en": "and would make our kids have a foundation that would pay off for them over the long term,",
+          "ko": "우리 아이들한테도 오래도록 도움이 될 바탕을 만들어 줄 사람이었고,"
+        },
+        {
+          "t": 33.54,
+          "en": "and that's in fact what's happened.",
+          "ko": "실제로 그렇게 됐어요."
+        },
+        {
+          "t": 35.6,
+          "en": "I don't know if it's been an equal partnership.",
+          "ko": "동등한 파트너십이었는지는 모르겠어요."
+        },
+        {
+          "t": 37.46,
+          "en": "I've gotten, I'm sure, more out of it than she has, but it's worked out for me really well.",
+          "ko": "분명 내가 그 사람보다 더 많이 얻었을 거예요. 근데 나한테는 정말 잘 풀렸죠."
+        },
+        {
+          "t": 44.64,
+          "en": "For her, it's probably more of a mixed bag. — No. — Yeah, it's been all upside on my end.",
+          "ko": "그 사람한테는 아마 좋고 나쁜 게 섞여 있을 거예요. — 아니에요. — 내 쪽은 전부 이득이었어요."
+        },
+        {
+          "t": 50.42,
+          "en": "We are each other's counterbalance.",
+          "ko": "우리는 서로의 균형추예요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "I made a pretty good bet",
+          "ko": "꽤 괜찮은 베팅을 했어",
+          "why": "결과를 모르고 내린 선택이 잘 맞았다는 말입니다. 도박 용어지만 결혼, 투자, 채용처럼 '걸어 본' 선택에 다 써요. pretty good은 겸손하게 '꽤'라고 낮춘 표현입니다.",
+          "use": "Hiring her was a pretty good bet.",
+          "useKo": "그 사람 뽑은 건 꽤 괜찮은 베팅이었어."
+        },
+        {
+          "chunk": "one-of-a-kind",
+          "ko": "세상에 하나뿐인",
+          "why": "같은 종류가 하나밖에 없다는 뜻입니다. unique보다 따뜻하고 칭찬에 가까워요. 사람, 작품, 선물 앞에 형용사처럼 붙입니다.",
+          "use": "My grandmother was a one-of-a-kind woman.",
+          "useKo": "우리 할머니는 세상에 하나뿐인 분이셨어."
+        },
+        {
+          "chunk": "a mixed bag",
+          "ko": "좋고 나쁜 게 섞인 것",
+          "why": "좋은 것과 나쁜 것이 한 봉지에 섞여 있다는 그림입니다. not bad처럼 애매하게 말할 때 써요. 영화 평, 여행 후기, 한 해 평가에 딱입니다.",
+          "use": "The reviews were a mixed bag.",
+          "useKo": "평은 좋고 나쁜 게 섞여 있었어."
+        }
+      ]
+    },
+    {
+      "id": "ss101",
+      "src": "videos/101.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#원칙표현"
+      ],
+      "poster": "posters/101.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "We have family dinner every night, and that's non-negotiable, and it's always been that way.",
+          "ko": "저희는 매일 저녁 가족 식사를 해요. 그건 타협 불가고, 늘 그래 왔어요."
+        },
+        {
+          "t": 6.08,
+          "en": "And so we had a conversation about, the family dinner became so routine",
+          "ko": "근데 얘기를 하게 됐어요. 가족 식사가 너무 일상이 돼 버려서"
+        },
+        {
+          "t": 10.6,
+          "en": "that we weren't maybe, like, there were some nights where,",
+          "ko": "저희가 어쩌면, 그러니까 어떤 날 저녁은,"
+        },
+        {
+          "t": 14.34,
+          "en": "you know, because we have the company in Los Angeles, so sometimes there are calls",
+          "ko": "회사가 로스앤젤레스에 있으니까, 가끔 전화가 오고"
+        },
+        {
+          "t": 18.42,
+          "en": "and there's work going on during dinner in New York,",
+          "ko": "뉴욕에서 저녁 먹는 동안 일이 돌아가고 있거든요,"
+        },
+        {
+          "t": 22.06,
+          "en": "and, you know, Lucy and I are, you know, I gotta just return this text,",
+          "ko": "그러면 루시랑 저는, 이 문자만 답장할게,"
+        },
+        {
+          "t": 25.72,
+          "en": "or, oh, this person needs an answer to this.",
+          "ko": "아, 이 사람한테 답을 줘야 해, 하는 거죠."
+        },
+        {
+          "t": 27.5,
+          "en": "And one of my daughters said, well, you know, family dinner, you know, last night we didn't talk,",
+          "ko": "그런데 딸 하나가 그러는 거예요, 아빠, 가족 식사 말인데, 어젯밤에 우리 얘기 안 했잖아,"
+        },
+        {
+          "t": 32.36,
+          "en": "and we realized, oh my gosh, you're right, like, we sat down for dinner and there's a,",
+          "ko": "그제야 깨달았죠, 세상에, 네 말이 맞다. 같이 앉아서 밥은 먹는데,"
+        },
+        {
+          "t": 38.94,
+          "en": "you can get lost in that routine a little bit and not appreciate why you established the routine in the first place.",
+          "ko": "그 일상에 조금 파묻혀서, 애초에 왜 그 일상을 만들었는지 잊어버릴 수 있더라고요."
+        },
+        {
+          "t": 44.42,
+          "en": "We've been talking a lot about presence and about really trying to be in the moment,",
+          "ko": "요즘 저희는 '함께 있음'에 대해, 진짜 그 순간에 있으려고 하는 것에 대해 많이 얘기해요,"
+        },
+        {
+          "t": 52.56,
+          "en": "and because you can't slow time down, the only way to really do it is to really be there and be in it.",
+          "ko": "시간을 늦출 순 없으니까, 유일한 방법은 진짜 거기 있고, 그 안에 있는 거예요."
+        },
+        {
+          "t": 58.84,
+          "en": "Having two older kids who are out of the nest and knowing how fast these final years go,",
+          "ko": "큰애 둘은 이미 독립했고, 남은 이 몇 년이 얼마나 빨리 가는지 아니까,"
+        },
+        {
+          "t": 64.7,
+          "en": "we're trying to be mindful of, you know, holding on to what we can.",
+          "ko": "잡을 수 있는 건 잡아 두려고 신경 쓰고 있어요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "that's non-negotiable",
+          "ko": "그건 타협 불가야",
+          "why": "협상할 여지가 없다는 말입니다. 원래 계약 용어인데, 집안 규칙이나 개인 원칙을 말할 때 자주 써요. must보다 단호하고, 상대에게 '이건 건드리지 마'라고 선을 긋는 느낌입니다.",
+          "use": "Sunday is family day. That's non-negotiable.",
+          "useKo": "일요일은 가족의 날이야. 그건 타협 불가야."
+        },
+        {
+          "chunk": "get lost in the routine",
+          "ko": "일상에 파묻히다",
+          "why": "매일 반복하다 보니 원래 의미를 잊는다는 그림입니다. get lost in은 보통 '푹 빠지다'인데, routine 뒤에서는 '기계적으로 하게 되다'라는 뜻이 돼요. 결혼, 운동, 일 얘기에 다 씁니다.",
+          "use": "It's easy to get lost in the routine and forget why you started.",
+          "useKo": "일상에 파묻혀서 왜 시작했는지 잊기 쉬워."
+        },
+        {
+          "chunk": "in the first place",
+          "ko": "애초에",
+          "why": "문장 끝에 붙어 '처음부터, 원래'라는 뜻을 더합니다. at first가 '처음에는'이라면, 이건 '애초에 왜'라고 이유를 되짚는 말이에요. Why did you ask in the first place?처럼 씁니다.",
+          "use": "Why did we buy this in the first place?",
+          "useKo": "애초에 우리 이거 왜 샀지?"
+        }
+      ]
+    },
+    {
+      "id": "ss102",
+      "src": "videos/102.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#조언표현"
+      ],
+      "poster": "posters/102.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "I just saw this thing that was really good. It was, of course, it was Oprah.",
+          "ko": "얼마 전에 진짜 좋은 걸 봤어요. 당연히 오프라였죠."
+        },
+        {
+          "t": 4.92,
+          "en": "She's talking about having had this betrayal, and she was having a really emotional moment in the bathroom.",
+          "ko": "배신을 당한 얘기를 하는데, 화장실에서 감정이 북받쳐 있었대요."
+        },
+        {
+          "t": 10.58,
+          "en": "She's crying, and she called Maya Angelou. And I was like, I wish I could dial Maya Angelou.",
+          "ko": "울면서 마야 안젤루한테 전화를 한 거예요. 저는, 나도 마야 안젤루한테 전화할 수 있으면 좋겠다, 했죠."
+        },
+        {
+          "t": 15.96,
+          "en": "And she was sobbing, going, this person did this, and then Maya goes, stop it, stop it. Say thank you.",
+          "ko": "흐느끼면서, 이 사람이 이랬어요, 하니까 마야가, 그만, 그만. 고맙다고 해, 라는 거예요."
+        },
+        {
+          "t": 23.84,
+          "en": "She was like, what do you mean? She says, say thank you, because an incredible opportunity will come your way because of this.",
+          "ko": "오프라가, 무슨 말이에요? 하니까, 고맙다고 해, 이 일 때문에 엄청난 기회가 너한테 올 거니까, 하더래요."
+        },
+        {
+          "t": 30.08,
+          "en": "Say thank you. And it is a very, I think, a very Buddhist sort of, you know, change is coming. It's exciting.",
+          "ko": "고맙다고 해. 꽤 불교적인 생각이죠. 변화가 오고 있다, 설레는 일이다."
+        },
+        {
+          "t": 34.7,
+          "en": "So I think taking that in when the poop really hits the fan, you know, it hurts a lot now,",
+          "ko": "그러니까 일이 완전히 꼬였을 때 그 말을 새기는 거예요. 지금은 많이 아프지만,"
+        },
+        {
+          "t": 40.7,
+          "en": "but say thank you, because something amazing is gonna come, hopefully. — Yeah.",
+          "ko": "고맙다고 해, 뭔가 굉장한 게 올 테니까. 그러길 바라고요. — 맞아요."
+        },
+        {
+          "t": 49.76,
+          "en": "It already has. It already has. Every day is incredible. Kids are happy and healthy.",
+          "ko": "이미 왔어요. 이미 왔죠. 매일이 놀라워요. 애들은 행복하고 건강하고."
+        },
+        {
+          "t": 55.64,
+          "en": "Nothing is better.",
+          "ko": "그보다 좋은 건 없죠."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "come your way",
+          "ko": "너한테 오다, 찾아오다",
+          "why": "기회나 일이 내 쪽으로 다가온다는 그림입니다. 주어가 사람이 아니라 기회, 행운, 문제예요. Whatever comes your way는 '무슨 일이 닥치든'이라는 단골 표현입니다.",
+          "use": "Take every chance that comes your way.",
+          "useKo": "너한테 오는 기회는 다 잡아."
+        },
+        {
+          "chunk": "What do you mean?",
+          "ko": "무슨 말이에요?",
+          "why": "상대 말이 이해가 안 되거나 믿기지 않을 때 되묻는 말입니다. I don't understand보다 훨씬 자연스럽고 대화를 이어 줘요. 억양에 따라 놀람, 반박, 진짜 질문이 다 됩니다.",
+          "use": "You're leaving? What do you mean?",
+          "useKo": "그만둔다고? 무슨 말이야?"
+        },
+        {
+          "chunk": "take that in",
+          "ko": "그 말을 받아들이다, 새기다",
+          "why": "들은 말이나 상황을 천천히 소화한다는 그림입니다. understand보다 마음에 들여놓는 느낌이에요. 큰 소식을 들었을 때 Let me take that in이라고도 합니다.",
+          "use": "That's big news. Give me a second to take that in.",
+          "useKo": "큰 소식이네. 잠깐 받아들일 시간 좀 줘."
+        }
+      ]
+    },
+    {
+      "id": "ss103",
+      "src": "videos/103.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#몰입표현"
+      ],
+      "poster": "posters/103.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "You know, Kenneth Branagh wisely knows, the start... Start the schedule with something meaty.",
+          "ko": "케네스 브래너 감독은 현명하게도 알고 있었어요. 시작은... 일정의 시작은 굵직한 걸로 하라는 걸."
+        },
+        {
+          "t": 7.82,
+          "en": "Start the schedule with something really that you feel like you've got,",
+          "ko": "이건 확실히 잡았다 싶은 것으로 일정을 시작하라는 거죠,"
+        },
+        {
+          "t": 11.14,
+          "en": "you've planted a flag in the sand for what the film is.",
+          "ko": "이 영화가 뭔지 깃발을 꽂아 두는 거예요."
+        },
+        {
+          "t": 15.58,
+          "en": "I remember there was a moment where Ken had said to me,",
+          "ko": "켄이 저한테 이렇게 말한 순간이 기억나요,"
+        },
+        {
+          "t": 19.96,
+          "en": "when you say 'tell me,' say it really quietly.",
+          "ko": "'말해 봐'라고 할 때, 아주 조용히 말해."
+        },
+        {
+          "t": 24.46,
+          "en": "And then if he doesn't hear you and he doesn't tell you, demand that he tell you,",
+          "ko": "그래도 그가 못 듣고 말을 안 하면, 말하라고 요구해,"
+        },
+        {
+          "t": 30.12,
+          "en": "and don't take no for an answer until he tells you.",
+          "ko": "그리고 말할 때까지 안 된다는 대답은 받아 주지 마."
+        },
+        {
+          "t": 34.22,
+          "en": "And so that extraordinary explosion, when I say 'tell me,' there had been this silence on the other side of the camera,",
+          "ko": "그래서 그 엄청난 폭발 장면, 제가 '말해 봐'라고 할 때 카메라 건너편에 침묵이 흘렀는데,"
+        },
+        {
+          "t": 42.48,
+          "en": "Tony didn't say anything.",
+          "ko": "토니가 아무 말도 안 했어요."
+        },
+        {
+          "t": 45.62,
+          "en": "And I remember Ken's instruction was, make him tell you. And I just screamed, 'tell me.'",
+          "ko": "켄의 지시가 '말하게 만들어'였던 게 기억나서, 그냥 '말해!'라고 소리를 질렀죠."
+        },
+        {
+          "t": 50.82,
+          "en": "And then what happened as a result of that in the take was there was a kind of",
+          "ko": "그러자 그 테이크에서 벌어진 일은, 뭐랄까"
+        },
+        {
+          "t": 57.74,
+          "en": "a palpable emotional reality that was taking place, as I say, in the moment.",
+          "ko": "손에 잡힐 듯한 진짜 감정이, 말 그대로 그 순간에 일어났어요."
+        },
+        {
+          "t": 62.64,
+          "en": "I couldn't have cultivated it, and the results are in the film forever.",
+          "ko": "제가 만들어 낼 수 없던 거였고, 그 결과는 영화에 영원히 남아 있죠."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "start with something meaty",
+          "ko": "굵직한 것부터 시작하다",
+          "why": "meaty는 고기처럼 '씹을 게 많은, 알맹이 있는'이라는 뜻입니다. 회의나 프로젝트를 핵심 안건부터 다룬다고 할 때 써요. 가벼운 것부터 하는 start small과 반대 그림입니다.",
+          "use": "Let's start the meeting with something meaty: the budget.",
+          "useKo": "회의는 굵직한 것부터 하죠. 예산이요."
+        },
+        {
+          "chunk": "don't take no for an answer",
+          "ko": "안 된다는 말은 받아 주지 마",
+          "why": "거절당해도 물러서지 말라는 뜻입니다. 끈질기게 밀어붙이는 사람을 묘사할 때 He never takes no for an answer라고 해요. 협상, 부탁, 영업 얘기에 자주 나옵니다.",
+          "use": "Ask for the refund and don't take no for an answer.",
+          "useKo": "환불 요청하고, 안 된다는 말은 받아 주지 마."
+        },
+        {
+          "chunk": "in the moment",
+          "ko": "그 순간에, 지금 여기에",
+          "why": "미리 계획한 게 아니라 그 순간 일어난다는 말입니다. live in the moment는 '현재에 충실하다'는 뜻이에요. 배우, 운동선수, 명상 얘기에 두루 쓰입니다.",
+          "use": "I didn't plan that line. It just came out in the moment.",
+          "useKo": "그 대사는 계획한 게 아니야. 그 순간에 그냥 나온 거야."
+        }
+      ]
+    },
+    {
+      "id": "ss104",
+      "src": "videos/104.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#소감표현"
+      ],
+      "poster": "posters/104.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "First of all, congratulations. It was a big weekend for the film: Best Animated Motion Picture at the Golden Globes.",
+          "ko": "먼저, 축하드려요. 영화에 큰 주말이었죠. 골든글로브 최우수 애니메이션상."
+        },
+        {
+          "t": 8.9,
+          "en": "What's it been like for you, working on a film like this that has just been, you know, adored by millions around the world?",
+          "ko": "이렇게 전 세계 수백만 명이 사랑하는 영화 작업을 하는 건 어땠어요?"
+        },
+        {
+          "t": 16.66,
+          "en": "I just feel so surreal, you know. I know the whole team put so much effort into it,",
+          "ko": "그냥 너무 비현실적이에요. 팀 전체가 정말 많은 공을 들였다는 걸 아니까,"
+        },
+        {
+          "t": 22.98,
+          "en": "and for their passion to be recognized on a global scale, it's just so amazing.",
+          "ko": "그 열정이 전 세계적으로 인정받는 게 그냥 너무 놀라워요."
+        },
+        {
+          "t": 27.62,
+          "en": "And, you know, I'm so happy that as a Korean, K-culture is very loved all around.",
+          "ko": "그리고 한국 사람으로서 K-컬처가 이렇게 사랑받는다는 게 정말 기뻐요."
+        },
+        {
+          "t": 32.74,
+          "en": "So that feels so special to me.",
+          "ko": "그래서 저한텐 더 특별하게 느껴져요."
+        },
+        {
+          "t": 35.36,
+          "en": "You know, I gotta imagine there maybe was a little head scratching when you got the script, and you look at the title: KPop Demon Hunters.",
+          "ko": "대본을 받고 제목을 봤을 때 좀 갸우뚱했을 것 같은데요. 케이팝 데몬 헌터스라니."
+        },
+        {
+          "t": 42.92,
+          "en": "Before you open it up, did you already have some ideas of what is this?",
+          "ko": "열어 보기 전에 이게 뭘까 짐작이 가던가요?"
+        },
+        {
+          "t": 47.36,
+          "en": "Yeah, so when I first got the script, KPop Demon Hunters, I was like, okay, what could this be? You know, K-pop and demon hunting?",
+          "ko": "네, 처음 대본을 받았을 때 케이팝 데몬 헌터스, 저는, 어, 이게 뭘까? 케이팝에 악마 사냥?"
+        },
+        {
+          "t": 55.98,
+          "en": "But when I read the script, it was actually really, really fun.",
+          "ko": "근데 대본을 읽어 보니까 진짜, 진짜 재밌었어요."
+        },
+        {
+          "t": 59.74,
+          "en": "It was very funny, very playful, and I thought the kids will love it. — Yeah.",
+          "ko": "되게 웃기고, 장난기 넘치고, 애들이 좋아하겠다 싶었어요. — 네."
+        },
+        {
+          "t": 64.62,
+          "en": "At the same time, it had a really good message of kind of, you know, overcoming your mistakes.",
+          "ko": "동시에 실수를 극복한다는, 정말 좋은 메시지가 있었고요."
+        },
+        {
+          "t": 69.56,
+          "en": "So, yeah, I was just really excited to be a part of this project. Yeah.",
+          "ko": "그래서 이 프로젝트에 참여하게 돼서 정말 설렜어요. 네."
+        },
+        {
+          "t": 75.08,
+          "en": "I was psyched and nervous at the same time. — Yeah.",
+          "ko": "설레면서 동시에 긴장됐어요. — 네."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "It feels so surreal",
+          "ko": "너무 비현실적이야, 꿈만 같아",
+          "why": "surreal은 현실 같지 않을 만큼 믿기지 않는다는 뜻입니다. unbelievable이 '못 믿겠다'면, surreal은 '꿈속 같다'는 그림이에요. 수상, 데뷔, 큰 무대 소감에 단골로 나옵니다.",
+          "use": "Seeing my name on the poster feels so surreal.",
+          "useKo": "포스터에 내 이름이 있는 게 너무 비현실적이야."
+        },
+        {
+          "chunk": "put so much effort into ___",
+          "ko": "~에 정말 많은 공을 들이다",
+          "why": "effort를 into 뒤의 일에 '쏟아 넣는' 그림입니다. work hard보다 구체적으로 '그 일에'라고 대상을 찍어 줘요. 칭찬할 때 You put so much effort into this라고 하면 진심이 전해집니다.",
+          "use": "She put so much effort into this presentation.",
+          "useKo": "걔 이 발표에 정말 많은 공을 들였어."
+        },
+        {
+          "chunk": "psyched and nervous at the same time",
+          "ko": "설레면서 동시에 긴장되는",
+          "why": "psyched는 excited의 더 캐주얼한 말로 '완전 들뜬'이라는 뜻입니다. 설렘과 긴장이 같이 올 때 at the same time으로 묶어요. 첫 출근, 발표, 여행 전날에 딱입니다.",
+          "use": "First day tomorrow. I'm psyched and nervous at the same time.",
+          "useKo": "내일 첫날이야. 설레면서 동시에 긴장돼."
+        }
+      ]
+    },
+    {
+      "id": "ss105",
+      "src": "videos/105.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#전화영어"
+      ],
+      "poster": "posters/105.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Arden, out of all the success, I mean, it is massive, it's global,",
+          "ko": "아든, 이렇게 성공했는데, 그러니까 엄청나잖아요, 전 세계적이고,"
+        },
+        {
+          "t": 5.56,
+          "en": "do you have any moments, like a pinch-me moment, or something happened to you where you're like,",
+          "ko": "'이게 꿈이야 생시야' 싶은 순간 있었어요? 이런 일이 생긴 순간이요,"
+        },
+        {
+          "t": 8.84,
+          "en": "oh, yeah, the coolest thing happened to me?",
+          "ko": "와, 나한테 제일 멋진 일이 일어났다, 하는."
+        },
+        {
+          "t": 10.86,
+          "en": "So many. But, I mean, a couple months after the movie came out,",
+          "ko": "너무 많아요. 근데 영화 나오고 몇 달 뒤에,"
+        },
+        {
+          "t": 15.24,
+          "en": "Linda Larkin, the voice of Princess Jasmine, called me.",
+          "ko": "재스민 공주 목소리인 린다 라킨이 저한테 전화를 했어요."
+        },
+        {
+          "t": 19.32,
+          "en": "From Aladdin? — Yes, from Aladdin.",
+          "ko": "알라딘이요? — 네, 알라딘이요."
+        },
+        {
+          "t": 21.3,
+          "en": "And we had a two-hour phone conversation.",
+          "ko": "두 시간 동안 통화를 했어요."
+        },
+        {
+          "t": 23.26,
+          "en": "I, like, put it on speaker, because the entire first hour, I was like,",
+          "ko": "스피커폰으로 해 놓고요. 첫 한 시간 내내 저는,"
+        },
+        {
+          "t": 26.34,
+          "en": "is this really happening? Am I talking with Jasmine?",
+          "ko": "이게 진짜야? 내가 지금 재스민이랑 얘기하고 있어? 했거든요."
+        },
+        {
+          "t": 29.24,
+          "en": "She just called you out of the blue? That's so nice.",
+          "ko": "그냥 느닷없이 전화를 한 거예요? 너무 좋다."
+        },
+        {
+          "t": 30.9,
+          "en": "She wanted to congratulate me, and she actually told me that as a voice actor,",
+          "ko": "축하해 주고 싶었대요. 그리고 성우로서"
+        },
+        {
+          "t": 34.54,
+          "en": "she was really impressed with my work with Rumi, and she loved the depth and the layers and all of it.",
+          "ko": "제 루미 연기가 정말 인상적이었다고, 깊이랑 결이 다 좋았다고 해 줬어요."
+        },
+        {
+          "t": 39.82,
+          "en": "And I was like, I think we were both crying at one point.",
+          "ko": "저는, 어느 순간엔 둘 다 울고 있었던 것 같아요."
+        },
+        {
+          "t": 42.68,
+          "en": "It was incredible. — Oh, my gosh! — I will never forget it.",
+          "ko": "믿기지 않았어요. — 세상에! — 절대 못 잊을 거예요."
+        },
+        {
+          "t": 45.2,
+          "en": "And now I'm like, Princess Jasmine called me! — Yes, that's so cool!",
+          "ko": "지금도 저는, 재스민 공주가 나한테 전화했어! 이러고 있어요. — 그럼요, 진짜 멋지다!"
+        },
+        {
+          "t": 49.52,
+          "en": "And she was like, you're gonna be a modern-day princess. — Oh, my God.",
+          "ko": "그분이 그랬어요, 넌 현대판 공주가 될 거야. — 세상에."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "a pinch-me moment",
+          "ko": "꿈인지 생시인지 싶은 순간",
+          "why": "너무 좋아서 꿈인지 확인하려고 '나 좀 꼬집어 봐'라고 하는 데서 온 말입니다. unbelievable moment보다 생생하고 귀여워요. 좋은 일에만 씁니다.",
+          "use": "Meeting my favorite author was a pinch-me moment.",
+          "useKo": "제일 좋아하는 작가를 만난 건 꿈인지 생시인지 싶은 순간이었어."
+        },
+        {
+          "chunk": "out of the blue",
+          "ko": "느닷없이, 난데없이",
+          "why": "맑은 하늘에서 갑자기 뭔가 떨어지는 그림입니다. suddenly보다 '전혀 예고 없이'라는 느낌이 강해요. 오랜만의 연락, 뜻밖의 제안에 자주 씁니다.",
+          "use": "He texted me out of the blue after five years.",
+          "useKo": "걔가 5년 만에 느닷없이 문자를 보냈어."
+        },
+        {
+          "chunk": "put it on speaker",
+          "ko": "스피커폰으로 하다",
+          "why": "전화를 스피커폰 모드로 돌린다는 말입니다. speakerphone을 줄여서 speaker라고만 해요. 운전 중이거나 여럿이 같이 들을 때 Can you put it on speaker?라고 부탁합니다.",
+          "use": "Put it on speaker so we can all hear.",
+          "useKo": "다 같이 듣게 스피커폰으로 해 줘."
+        }
+      ]
+    },
+    {
+      "id": "ss106",
+      "src": "videos/106.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#가족이야기"
+      ],
+      "poster": "posters/106.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "And I think it's been good for me to be a little shaken a bit, you know,",
+          "ko": "저한테는 좀 흔들리는 게 오히려 좋았던 것 같아요,"
+        },
+        {
+          "t": 6.84,
+          "en": "to be pushed to do more than what I thought I could do.",
+          "ko": "제가 할 수 있다고 생각한 것보다 더 하도록 떠밀리는 거요."
+        },
+        {
+          "t": 12.96,
+          "en": "And some of my first uncomfortable steps in my career, you know, leaving a corporate law firm,",
+          "ko": "제 커리어에서 처음으로 불편한 걸음을 뗀 게, 대형 로펌을 나온 건데,"
+        },
+        {
+          "t": 19.0,
+          "en": "was because I met him. I was like, this guy, you're a community organizer?",
+          "ko": "그게 이 사람을 만나서였어요. 저는, 이 사람 뭐지, 지역 운동가라고요? 했죠."
+        },
+        {
+          "t": 24.48,
+          "en": "I was like, what's that? Never heard of that. He's organizing in my city, you know.",
+          "ko": "그게 뭔데요? 그런 건 처음 들어 봐요. 우리 동네에서 활동하고 있었거든요."
+        },
+        {
+          "t": 29.64,
+          "en": "So he made me think more broadly about what I could do with this Harvard law degree besides be a lawyer.",
+          "ko": "그래서 이 하버드 법대 학위로 변호사 말고 뭘 할 수 있을지 더 넓게 생각하게 됐어요."
+        },
+        {
+          "t": 36.26,
+          "en": "And there was just so much. He gave me the courage. He was my ballast.",
+          "ko": "정말 많았어요. 이 사람이 저한테 용기를 줬어요. 제 중심을 잡아 줬죠."
+        },
+        {
+          "t": 40.9,
+          "en": "You know, he was like, I got you.",
+          "ko": "이 사람은, 내가 있잖아, 이러는 거예요."
+        },
+        {
+          "t": 42.68,
+          "en": "And however hard it's been, the ups and the downs, he's got me, you know?",
+          "ko": "아무리 힘들어도, 오르락내리락해도, 이 사람이 저를 받쳐 줬어요."
+        },
+        {
+          "t": 49.9,
+          "en": "He's like, try new things, go leap.",
+          "ko": "새로운 거 해 봐, 뛰어들어 봐, 그래요."
+        },
+        {
+          "t": 54.0,
+          "en": "Sometimes the stuff I do, he's like, look at you.",
+          "ko": "가끔 제가 뭘 하면, 이야, 이것 봐라, 하고요."
+        },
+        {
+          "t": 56.48,
+          "en": "But I can do a lot of these things because I know if I slip or fall or trip, he's got me.",
+          "ko": "근데 제가 이런 걸 다 할 수 있는 건, 미끄러지든 넘어지든 걸려 자빠지든 이 사람이 받쳐 줄 걸 아니까예요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "I got you",
+          "ko": "내가 있잖아, 내가 책임질게",
+          "why": "네 뒤는 내가 받쳐 준다는 말입니다. I'll help you보다 짧고 든든해요. 계산할 때 '내가 낼게', 부탁 받았을 때 '알겠어, 맡겨'로도 씁니다.",
+          "use": "Don't worry about the rent this month. I got you.",
+          "useKo": "이번 달 월세는 걱정 마. 내가 있잖아."
+        },
+        {
+          "chunk": "look at you",
+          "ko": "이야, 이것 봐라",
+          "why": "상대가 뭔가 해낸 걸 보고 감탄하는 말입니다. 직역하면 '너 좀 봐'인데, '많이 컸네', '제법인데'라는 느낌이에요. 옷차림이나 성과를 칭찬할 때 씁니다.",
+          "use": "Look at you, running your own business!",
+          "useKo": "이야, 이것 봐라, 자기 사업을 다 하고!"
+        },
+        {
+          "chunk": "Never heard of that",
+          "ko": "그런 건 처음 들어 봐",
+          "why": "그 이름이나 개념을 들어 본 적이 없다는 말입니다. I don't know보다 '존재 자체를 몰랐다'는 뜻이에요. 앞의 I've를 생략하고 짧게 말하는 게 보통입니다.",
+          "use": "A sleep coach? Never heard of that.",
+          "useKo": "수면 코치? 그런 건 처음 들어 봐."
+        }
+      ]
+    },
+    {
+      "id": "ss107",
+      "src": "videos/107.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#직장표현"
+      ],
+      "poster": "posters/107.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "No, you know what? To me, I think that I feel responsible for the time of the crew and the cast,",
+          "ko": "아니, 있잖아요. 저는 스태프랑 배우들의 시간에 책임을 느껴요,"
+        },
+        {
+          "t": 6.58,
+          "en": "and I want everyone to feel good and have a joyous experience, even though it's intense.",
+          "ko": "그래서 다들 기분 좋게, 즐겁게 했으면 해요. 빡세긴 해도요."
+        },
+        {
+          "t": 10.16,
+          "en": "Why?",
+          "ko": "왜요?"
+        },
+        {
+          "t": 12.58,
+          "en": "Because that's your experience. That's going to be your photo album for your life.",
+          "ko": "그게 당신 경험이니까요. 평생 남는 사진첩이 될 거니까."
+        },
+        {
+          "t": 16.52,
+          "en": "That moment in time is going to be your life story.",
+          "ko": "그 순간이 당신 인생 이야기가 되는 거예요."
+        },
+        {
+          "t": 20.16,
+          "en": "Oh, wow. Is that... — That's what I feel, because, I mean, I look at my life, like Charlie's Angels,",
+          "ko": "오, 와. 그게... — 저는 그렇게 느껴요. 제 인생을 보면, 미녀 삼총사,"
+        },
+        {
+          "t": 24.1,
+          "en": "Kill Bill, you know, Rosemead, Why Women Kill. — Ally McBeal.",
+          "ko": "킬 빌, 로즈미드, 와이 위민 킬. — 앨리 맥빌."
+        },
+        {
+          "t": 30.88,
+          "en": "Even, like, a cameo in Devil Wears Prada, like, all of these things are not just, like, work to me.",
+          "ko": "악마는 프라다를 입는다 카메오까지, 이 모든 게 저한텐 그냥 일이 아니에요."
+        },
+        {
+          "t": 35.44,
+          "en": "These are, like, parts of my life that I can remember, and this is my photo album. — Right.",
+          "ko": "기억할 수 있는 제 인생의 조각들이고, 제 사진첩이에요. — 그렇죠."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "feel responsible for ___",
+          "ko": "~에 책임을 느끼다",
+          "why": "꼭 의무가 아니어도 내가 챙겨야 한다고 느낀다는 말입니다. be responsible for가 공식적인 담당이라면, feel이 들어가면 마음의 문제예요. 팀, 후배, 결과에 두루 씁니다.",
+          "use": "I feel responsible for the new hires on my team.",
+          "useKo": "우리 팀 신입들한테 책임감을 느껴."
+        },
+        {
+          "chunk": "even though it's intense",
+          "ko": "빡세긴 해도",
+          "why": "힘든 건 인정하면서 그래도라는 양보입니다. intense는 hard보다 '강도가 세다'는 느낌으로, 일정, 운동, 감정에 다 써요. even though 뒤에는 사실을, 앞에는 그래도 하고 싶은 말을 둡니다.",
+          "use": "I love this job, even though it's intense.",
+          "useKo": "이 일 좋아해, 빡세긴 해도."
+        },
+        {
+          "chunk": "not just work to me",
+          "ko": "나한텐 그냥 일이 아니야",
+          "why": "그 일이 내게 그 이상의 의미라는 말입니다. to me가 붙어서 '남은 몰라도 나에게는'이라는 뉘앙스예요. work 자리에 a job, a hobby를 넣어 응용합니다.",
+          "use": "This café is not just work to me. It's my family's history.",
+          "useKo": "이 카페는 나한텐 그냥 일이 아니야. 우리 가족 역사야."
+        }
+      ]
+    },
+    {
+      "id": "ss108",
+      "src": "videos/108.mp4",
+      "source": "토크쇼",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#토크쇼영어",
+        "#부탁표현"
+      ],
+      "poster": "posters/108.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "I'll preface this by saying that my fiancée works in music,",
+          "ko": "먼저 말해 두자면, 제 약혼자가 음악 쪽에서 일해요,"
+        },
+        {
+          "t": 5.3,
+          "en": "so she's a digital marketing executive, and she grew up a Swiftie.",
+          "ko": "디지털 마케팅 임원인데, 어릴 때부터 스위프티였어요."
+        },
+        {
+          "t": 8.68,
+          "en": "She loves Taylor Swift, um, you know, and Taylor Swift's songs and her music,",
+          "ko": "테일러 스위프트를 정말 좋아해요. 테일러 스위프트 노래랑 음악이"
+        },
+        {
+          "t": 14.7,
+          "en": "that was a big part of, like, even the beginning of our relationship was getting to know her",
+          "ko": "우리 관계의 시작에서도 큰 부분이었거든요. 그 노래들을 통해서"
+        },
+        {
+          "t": 18.5,
+          "en": "through those songs and why they meant so much to her,",
+          "ko": "그 사람을, 그 노래들이 왜 그렇게 소중한지를 알아 갔으니까."
+        },
+        {
+          "t": 21.28,
+          "en": "you know, and so I was like, well, if there's one person that would make this engagement so special, and I reached out,",
+          "ko": "그래서 생각했죠, 이 약혼을 특별하게 만들어 줄 사람이 한 명 있다면, 하고 연락을 했어요,"
+        },
+        {
+          "t": 30.58,
+          "en": "as if we're BFF. No, I mean, I met her a couple times, she's fantastic,",
+          "ko": "마치 절친인 것처럼요. 아니, 몇 번 만나 봤어요. 정말 좋은 분이에요,"
+        },
+        {
+          "t": 35.02,
+          "en": "but I did, I reached out to Taylor through her publicist, and I said,",
+          "ko": "근데 진짜로 테일러한테 홍보 담당자를 통해 연락해서 말했어요,"
+        },
+        {
+          "t": 38.28,
+          "en": "hey, is there any way, is there any way that I could convince you to make, like, a two-second video",
+          "ko": "혹시, 혹시 어떻게든 2초짜리 영상 하나만 찍어 주실 수 없을까요,"
+        },
+        {
+          "t": 46.06,
+          "en": "just to say, you know, just to say congrats?",
+          "ko": "그냥 축하한다고 한마디만요, 하고요."
+        },
+        {
+          "t": 47.7,
+          "en": "And she literally two days later sent it over, and I was able to play it for her, and so...",
+          "ko": "그랬더니 진짜 이틀 뒤에 보내 줬고, 그걸 약혼자한테 틀어 줄 수 있었죠..."
+        },
+        {
+          "t": 55.3,
+          "en": "Are you kidding me?",
+          "ko": "말도 안 돼."
+        },
+        {
+          "t": 56.26,
+          "en": "And so Taylor Swift was the cherry on top, and I was like, wow.",
+          "ko": "그래서 테일러 스위프트가 화룡점정이었어요. 저는, 와,"
+        },
+        {
+          "t": 59.38,
+          "en": "I should plan things more often.",
+          "ko": "나 좀 더 자주 계획 세워야겠다, 했죠."
+        },
+        {
+          "t": 60.96,
+          "en": "Yeah, you should plan. How cool is that?",
+          "ko": "그래요, 계획 세워야죠. 진짜 멋지다."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "I'll preface this by saying",
+          "ko": "먼저 말해 두자면",
+          "why": "본론 전에 알아 둘 배경을 깔아 주는 말입니다. preface는 책의 서문이라는 뜻이에요. 오해를 막거나 변명을 미리 해 둘 때 격식 있게 쓰기 좋습니다.",
+          "use": "I'll preface this by saying I'm not an expert.",
+          "useKo": "먼저 말해 두자면, 나 전문가는 아니야."
+        },
+        {
+          "chunk": "is there any way I could convince you to ___",
+          "ko": "어떻게든 ~해 주실 수 없을까요",
+          "why": "거절당할 걸 알면서도 조심스럽게 부탁하는 말입니다. Could you보다 훨씬 낮은 자세예요. 바쁜 사람이나 윗사람에게 큰 부탁을 할 때 씁니다.",
+          "use": "Is there any way I could convince you to stay one more day?",
+          "useKo": "어떻게든 하루만 더 있어 주실 수 없을까요?"
+        },
+        {
+          "chunk": "the cherry on top",
+          "ko": "화룡점정, 금상첨화",
+          "why": "케이크 위 체리처럼 이미 좋은 것에 얹힌 마지막 한 조각입니다. bonus보다 예쁘고 생생해요. 좋은 일이 겹칠 때 '거기다 ~까지'라는 느낌으로 씁니다.",
+          "use": "The hotel was great, and the free upgrade was the cherry on top.",
+          "useKo": "호텔도 좋았는데 무료 업그레이드까지, 금상첨화였어."
+        }
+      ]
+    },
+    {
+      "id": "ss109",
+      "src": "videos/109.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#가족이야기"
+      ],
+      "poster": "posters/109.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "The speech that Bill Murray, when he talks about taking...",
+          "ko": "빌 머레이가 하는 그 연설, 그러니까..."
+        },
+        {
+          "t": 6.04,
+          "en": "My dad had a real thing against inherited wealth and against rich kids.",
+          "ko": "우리 아버지는 물려받은 재산이랑 부잣집 애들을 진짜 싫어하셨어요."
+        },
+        {
+          "t": 12.06,
+          "en": "And so that speech that Bill Murray delivers in Rushmore,",
+          "ko": "그래서 러시모어에서 빌 머레이가 하는 그 연설,"
+        },
+        {
+          "t": 16.34,
+          "en": "get the rich kids in your crosshairs and bring them down.",
+          "ko": "부잣집 애들을 조준해서 끌어내려라."
+        },
+        {
+          "t": 19.94,
+          "en": "My dad wrote that whole thing.",
+          "ko": "그거 전부 우리 아버지가 쓰신 거예요."
+        },
+        {
+          "t": 21.7,
+          "en": "I don't know if you're gonna jump on me for this. And Wes.",
+          "ko": "이 얘기 하면 뭐라 하실지 모르겠는데요. 웨스랑 같이요."
+        },
+        {
+          "t": 26.28,
+          "en": "Does he get a credit, Owen?",
+          "ko": "아버지 이름이 크레딧에 올라가요, 오웬?"
+        },
+        {
+          "t": 28.54,
+          "en": "No, but when we screened it, like, I think it was at the New York Film Festival,",
+          "ko": "아뇨. 근데 시사회를 했을 때, 아마 뉴욕 영화제였을 거예요,"
+        },
+        {
+          "t": 36.16,
+          "en": "and, you know, at the end of the movie, my dad leans over to my mom and goes,",
+          "ko": "영화 끝날 때 아버지가 어머니한테 몸을 기울이더니 그러는 거예요,"
+        },
+        {
+          "t": 39.86,
+          "en": "did you see that my scene got the biggest laugh in the movie?",
+          "ko": "봤어? 내 장면에서 제일 크게 웃었어."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "have a real thing against ___",
+          "ko": "~를 진짜 싫어하다",
+          "why": "have a thing against는 특별한 이유 없이 못마땅해한다는 말입니다. hate보다 가볍고 조금 유머러스해요. real을 넣으면 '진짜로'라고 강도가 올라갑니다.",
+          "use": "My mom has a real thing against tattoos.",
+          "useKo": "우리 엄마는 문신을 진짜 싫어하셔."
+        },
+        {
+          "chunk": "jump on ___ for ___",
+          "ko": "~를 ~로 몰아세우다",
+          "why": "말이 끝나기도 전에 달려들어 뭐라 한다는 그림입니다. criticize보다 빠르고 공격적인 느낌이에요. Don't jump on me는 '나한테 뭐라 하지 마'입니다.",
+          "use": "Don't jump on him for one mistake.",
+          "useKo": "실수 하나 가지고 걔를 몰아세우지 마."
+        },
+        {
+          "chunk": "get the biggest laugh",
+          "ko": "제일 크게 웃기다",
+          "why": "공연이나 발표에서 가장 큰 웃음을 받아낸다는 말입니다. 웃음을 '얻는다'고 get을 써요. get a laugh는 '웃음을 따다'라는 뜻으로 코미디언들이 자주 씁니다.",
+          "use": "Her joke about the printer got the biggest laugh.",
+          "useKo": "프린터 얘기한 농담이 제일 크게 터졌어."
+        }
+      ]
+    },
+    {
+      "id": "ss110",
+      "src": "videos/110.mp4",
+      "source": "인터뷰",
+      "band": {
+        "top": 0.294,
+        "bottom": 0.706
+      },
+      "tags": [
+        "#인터뷰영어",
+        "#감사표현"
+      ],
+      "poster": "posters/110.jpg",
+      "cues": [
+        {
+          "t": 0.0,
+          "en": "Wow. God, I haven't seen it for years.",
+          "ko": "와. 세상에, 이거 몇 년 동안 못 봤어요."
+        },
+        {
+          "t": 2.68,
+          "en": "I remember first time watching that. — Do you? — Yeah.",
+          "ko": "저 처음 봤을 때 기억나요. — 그래요? — 네."
+        },
+        {
+          "t": 6.14,
+          "en": "It was on a night shoot of True Blood, the HBO vampire show I did years ago.",
+          "ko": "트루 블러드 야간 촬영 때였어요. 제가 몇 년 전에 했던 HBO 뱀파이어 드라마요."
+        },
+        {
+          "t": 12.96,
+          "en": "And one of the cast members had a screener of it.",
+          "ko": "출연자 중 한 명이 시사용 영상을 갖고 있었거든요."
+        },
+        {
+          "t": 17.04,
+          "en": "And we had a long break in between setups, and we sat in my trailer and watched it.",
+          "ko": "세팅 사이에 긴 휴식이 있어서, 제 트레일러에 앉아서 같이 봤어요."
+        },
+        {
+          "t": 21.9,
+          "en": "Oh, wow. — Yeah. And I just remember being blown away by it. It was so, so strong.",
+          "ko": "오, 와. — 네. 완전히 압도당했던 게 기억나요. 진짜, 진짜 강렬했어요."
+        },
+        {
+          "t": 28.12,
+          "en": "Oh. — Amazing.",
+          "ko": "아. — 대단하네요."
+        },
+        {
+          "t": 30.34,
+          "en": "It changed the trajectory of my career, that film.",
+          "ko": "그 영화가 제 커리어의 방향을 바꿔 놨어요."
+        },
+        {
+          "t": 34.64,
+          "en": "Were you doing Peep Show around that time? — Yeah. It was quite different. — Slightly different.",
+          "ko": "그때 핍 쇼 하고 있었죠? — 네. 꽤 달랐죠. — 살짝 달랐죠."
+        },
+        {
+          "t": 40.86,
+          "en": "Paddy Considine wrote it and directed it, and... — Did you know each other?",
+          "ko": "패디 콘시다인이 각본도 쓰고 연출도 했는데... — 원래 아는 사이였어요?"
+        },
+        {
+          "t": 46.84,
+          "en": "We met on Hot Fuzz. — Oh. — Again, all very different.",
+          "ko": "뜨거운 녀석들에서 만났어요. — 아. — 역시 전혀 다른 작품이죠."
+        },
+        {
+          "t": 50.7,
+          "en": "He had no reason to think that I could do it.",
+          "ko": "제가 할 수 있을 거라고 생각할 이유가 전혀 없었거든요."
+        },
+        {
+          "t": 53.16,
+          "en": "And I opened the door for him in the first rehearsal and smiled at him,",
+          "ko": "근데 첫 리허설 때 제가 문을 열어 주면서 웃었더니,"
+        },
+        {
+          "t": 57.08,
+          "en": "and he thought, oh, yeah, I'll use her for my short film, which I'll be eternally grateful to him for.",
+          "ko": "아, 그래, 내 단편에 저 배우를 써야겠다, 했대요. 그건 평생 고마울 거예요."
+        },
+        {
+          "t": 63.0,
+          "en": "And then the short film became Tyrannosaur.",
+          "ko": "그 단편이 나중에 티라노소어가 됐고요."
+        },
+        {
+          "t": 66.32,
+          "en": "And, yeah, I loved it. Loved it. Peter Mullan was amazing.",
+          "ko": "정말, 너무 좋았어요. 너무 좋았어요. 피터 멀런도 대단했고요."
+        },
+        {
+          "t": 71.9,
+          "en": "It was all just heaven.",
+          "ko": "그냥 전부 천국이었어요."
+        },
+        {
+          "t": 73.28,
+          "en": "It will remain my favourite thing I've ever done. — Really? — Yeah, I think so.",
+          "ko": "제가 한 작품 중에 영원히 제일 좋아하는 작품일 거예요. — 정말요? — 네, 그런 것 같아요."
+        }
+      ],
+      "picks": [
+        {
+          "chunk": "be blown away by ___",
+          "ko": "~에 완전히 압도당하다",
+          "why": "바람에 날아갈 만큼 충격적으로 좋았다는 그림입니다. impressed보다 훨씬 세고, 감탄이 터지는 느낌이에요. 공연, 음식, 사람의 실력에 다 씁니다.",
+          "use": "I was blown away by her voice.",
+          "useKo": "걔 목소리에 완전히 압도당했어."
+        },
+        {
+          "chunk": "change the trajectory of ___",
+          "ko": "~의 방향을 바꿔 놓다",
+          "why": "trajectory는 날아가는 물체의 궤도입니다. 커리어나 인생이 가던 길을 틀었다는 말이라 change my life보다 '그 뒤로 쭉'이라는 느낌이 있어요. 전환점 이야기에 어울립니다.",
+          "use": "That one class changed the trajectory of my career.",
+          "useKo": "그 수업 하나가 내 커리어의 방향을 바꿔 놨어."
+        },
+        {
+          "chunk": "eternally grateful",
+          "ko": "평생 고마운",
+          "why": "영원히 고맙다는 가장 강한 감사 표현입니다. thankful보다 격이 높고, 인생을 바꿔 준 사람에게 써요. I'll be eternally grateful to ___ for ___ 형태로 외우면 됩니다.",
+          "use": "I'll be eternally grateful to my first boss for taking a chance on me.",
+          "useKo": "나한테 기회를 준 첫 상사한테 평생 고마울 거야."
         }
       ]
     }
