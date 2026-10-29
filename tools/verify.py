@@ -19,8 +19,10 @@ if lufs is None or not (-25 <= lufs <= -19): bad("음량이 기존 클립 범위
 if len(clip["picks"]) != 3: bad("표현은 3개여야 함")
 if clip["cues"][0]["t"] != 0.0: bad("첫 자막 t는 0.0이어야 함")
 if clip["cues"][-1]["t"] > d - 0.4: bad("마지막 자막이 영상 끝을 넘음")
-for k in ("id","src","source","band","tags","cues","picks","poster"):
+for k in ("id","src","source","who","cat","band","tags","cues","picks","poster"):
     if k not in clip: bad(f"필드 누락: {k}")
+if clip.get("cat") not in ("korean","actor","singer","celeb","brian"): bad("cat은 korean/actor/singer/celeb/brian 중 하나")
+if not clip.get("who"): bad("who(인물 이름)가 비어 있음")
 # 싱크: 완성본 재전사 후 각 큐 시작이 어떤 단어 시작과 0.6초 이내인지
 run(["python", os.path.join(ROOT,"tools","transcribe.py"), cid, "--file", vid])
 words = [w["s"] for s in json.load(open(os.path.join(WORK,f"{cid}_words.json"),encoding="utf-8")) for w in s["words"]]

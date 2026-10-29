@@ -84,6 +84,14 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
   text-shadow:0 1px 4px rgba(0,0,0,.55)}
 .dots{width:34px;height:34px;display:grid;place-items:center;border-radius:50%}
 .dots svg{width:18px;height:18px;fill:var(--paper)}
+/* 분류 칩 */
+.chips{display:flex;gap:6px;padding:6px 14px 0;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.chips::-webkit-scrollbar{display:none}
+.chips button{flex:none;font-size:11.5px;font-weight:600;letter-spacing:-.02em;padding:5px 11px;border-radius:999px;
+  background:rgba(0,0,0,.38);color:rgba(255,255,255,.82);border:1px solid rgba(255,255,255,.2);
+  backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.chips button[aria-pressed="true"]{background:var(--paper);color:#000;border-color:var(--paper)}
+.clip.reading .chips{display:none}
 .avatar{border-radius:50%;flex:none;display:grid;place-items:center;
   background:conic-gradient(from 210deg,#ffe066,#ff8a5c,#e6478f,#7a5cff,#ffe066);
   width:var(--s,34px);height:var(--s,34px);padding:2px}
@@ -115,7 +123,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 
 /* 소리 켜기 안내 */
 .soundhint{position:absolute;left:50%;transform:translateX(-50%);z-index:7;
-  top:calc(100px + env(safe-area-inset-top));
+  top:calc(140px + env(safe-area-inset-top));   /* 분류 칩 아래 */
   display:flex;align-items:center;gap:6px;padding:8px 14px;border-radius:999px;
   background:rgba(20,20,22,.72);border:1px solid var(--line);
   backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
@@ -285,6 +293,22 @@ function orderClips(clips){
 
 let FEED=null, MODE="ko", SOUND=false;   /* 더보기는 클립마다 따로 (el._open) */
 const MODES=["ko","en","off"];
+/* 분류 칩: 한 편은 한 칸(cat)에만 속한다 */
+const CATS=[["all","전체"],["korean","한국 연예인"],["actor","해외 배우"],["singer","해외 가수"],["celeb","해외 셀럽"],["brian","Brian"]];
+let CAT=store.get("ss:cat")||"all";
+if(!CATS.some(([k])=>k===CAT)) CAT="all";
+function applyCat(){
+  const base=CAT==="all"?FEED.all:FEED.all.filter(c=>c.cat===CAT);
+  if(!base.length){ CAT="all"; store.set("ss:cat",CAT); FEED.clips=orderClips(FEED.all); return; }
+  FEED.clips=orderClips(base);
+}
+function setCat(k){
+  if(k===CAT) return;
+  CAT=k; store.set("ss:cat",k);
+  if(liveEl){ const v=liveEl.querySelector("video"); v.pause(); v.muted=true; liveEl=null; }
+  applyCat(); render();
+  document.getElementById("feed").scrollTop=0;
+}
 const server={}, pending={};
 const total=id=>(server[id]||0)+(pending[id]||0);
 
@@ -298,7 +322,12 @@ async function boot(){
   console.log("Swipe & Speak feed v"+FEED.version);
   FEED.clips.forEach(c=>{ server[c.id]=0; pending[c.id]=0; });
   FEED.byId={}; FEED.clips.forEach(c=>FEED.byId[c.id]=c);
-  FEED.clips=orderClips(FEED.clips);
+  FEED.all=FEED.clips;
+  applyCat();
+  buildTabs();
+  window.addEventListener("resize",layoutAll);
+  window.addEventListener("orientationchange",()=>setTimeout(layoutAll,250));
+  if(window.visualViewport) window.visualViewport.addEventListener("resize",layoutAll);
   render();
   connect();
 }
@@ -318,10 +347,11 @@ function render(){
       <span class="avatar" style="--s:34px"><i>B</i></span>
       <span class="meta">
         <span class="name">${FEED.handle}${VERIFIED}</span>
-        <span class="sub">${esc(c.source)}</span>
+        <span class="sub">${c.who?esc(c.who)+" · ":""}${esc(c.source)}</span>
       </span>
       <button class="dots" aria-label="옵션">${DOTS}</button>
     </div>
+    <div class="chips" aria-label="분류">${CATS.map(([k,l])=>`<button data-cat="${k}" aria-pressed="${k===CAT}">${l}</button>`).join("")}</div>
   </header>
 
   <button class="soundhint"><svg viewBox="0 0 24 24">${ICON.soundOn}</svg>탭하면 소리가 켜집니다</button>
@@ -362,12 +392,10 @@ function render(){
   </div>
 </section>`).join("");
 
-  buildTabs(); renderViews();
+  renderViews();
   document.querySelectorAll(".clip").forEach(bind);
+  io.disconnect();
   document.querySelectorAll(".clip").forEach(el=>io.observe(el));
-  window.addEventListener("resize",layoutAll);
-window.addEventListener("orientationchange",()=>setTimeout(layoutAll,250));
-if(window.visualViewport) window.visualViewport.addEventListener("resize",layoutAll);
   layoutAll(); syncUI();
 }
 
@@ -377,6 +405,8 @@ function bind(el){
   el.querySelectorAll(".seg button").forEach(b=>
     b.addEventListener("click",()=>{ MODE=b.dataset.mode; syncUI(); }));
   el.querySelector(".more").addEventListener("click",()=>{ el._open=!el._open; paintPicks(el); });
+  el.querySelectorAll(".chips button").forEach(b=>
+    b.addEventListener("click",e=>{ e.stopPropagation(); setCat(b.dataset.cat); }));
   el.querySelector(".grip").addEventListener("click",()=>{ el._open=false; paintPicks(el); });
   el.querySelector(".like").addEventListener("click",e=>tapLike(e.currentTarget,el));
   el.querySelector(".save").addEventListener("click",()=>{
@@ -670,6 +700,7 @@ function renderViews(){
 }
 function goToClip(id){
   switchView("home");
+  if(!FEED.clips.some(c=>c.id===id)) setCat("all");   /* 다른 칸의 클립이면 전체로 */
   const el=document.querySelector(`.clip[data-id="${id}"]`);
   if(el) el.scrollIntoView({behavior:"instant",block:"start"});
 }

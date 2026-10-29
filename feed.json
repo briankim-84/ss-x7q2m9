@@ -1,11 +1,13 @@
 {
-  "version": "3.14",
+  "version": "3.15",
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
       "id": "ss001",
       "src": "videos/001.mp4",
       "source": "Vogue 인터뷰",
+      "who": "로제",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -140,6 +142,8 @@
       "id": "ss002",
       "src": "videos/002.mp4",
       "source": "Vogue 인터뷰",
+      "who": "로제",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -294,6 +298,8 @@
       "id": "ss003",
       "src": "videos/003.mp4",
       "source": "Zane Lowe 인터뷰",
+      "who": "로제",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -368,6 +374,8 @@
       "id": "ss004",
       "src": "videos/004.mp4",
       "source": "Zane Lowe 인터뷰",
+      "who": "로제",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -467,6 +475,8 @@
       "id": "ss005",
       "src": "videos/005.mp4",
       "source": "영화 인터뷰",
+      "who": "오디세이 출연진",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -581,6 +591,8 @@
       "id": "ss006",
       "src": "videos/006.mp4",
       "source": "토크쇼",
+      "who": "톰 홀랜드",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -650,6 +662,8 @@
       "id": "ss007",
       "src": "videos/007.mp4",
       "source": "인터뷰",
+      "who": "톰 홀랜드",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -724,6 +738,8 @@
       "id": "ss008",
       "src": "videos/008.mp4",
       "source": "인터뷰",
+      "who": "조이 도이치·닉 로빈슨",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -793,6 +809,8 @@
       "id": "ss009",
       "src": "videos/009.mp4",
       "source": "인터뷰",
+      "who": "조이 도이치·닉 로빈슨",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -862,6 +880,8 @@
       "id": "ss010",
       "src": "videos/010.mp4",
       "source": "아카데미 수상 소감",
+      "who": "레오나르도 디카프리오",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -951,6 +971,8 @@
       "id": "ss011",
       "src": "videos/011.mp4",
       "source": "아카데미 수상 소감",
+      "who": "레오나르도 디카프리오",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -1055,6 +1077,8 @@
       "id": "ss012",
       "src": "videos/012.mp4",
       "source": "배우 대담",
+      "who": "제니퍼 애니스턴·리사 쿠드로",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -1149,6 +1173,8 @@
       "id": "ss013",
       "src": "videos/013.mp4",
       "source": "Q&A 영상",
+      "who": "타블로",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -1233,6 +1259,8 @@
       "id": "ss014",
       "src": "videos/014.mp4",
       "source": "인터뷰",
+      "who": "맷 데이먼·톰 홀랜드",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -1327,6 +1355,8 @@
       "id": "ss015",
       "src": "videos/015.mp4",
       "source": "토크쇼",
+      "who": "톰 홀랜드",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -1436,6 +1466,8 @@
       "id": "ss016",
       "src": "videos/016.mp4",
       "source": "토크쇼",
+      "who": "맷 데이먼",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -1615,6 +1647,8 @@
       "id": "ss017",
       "src": "videos/017.mp4",
       "source": "토크쇼",
+      "who": "세이디 싱크",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -1769,6 +1803,8 @@
       "id": "ss018",
       "src": "videos/018.mp4",
       "source": "인터뷰",
+      "who": "제니",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -1893,6 +1929,8 @@
       "id": "ss019",
       "src": "videos/019.mp4",
       "source": "인터뷰",
+      "who": "허윤진",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2012,6 +2050,8 @@
       "id": "ss020",
       "src": "videos/020.mp4",
       "source": "인터뷰",
+      "who": "로버트 다우니 주니어",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2091,6 +2131,8 @@
       "id": "ss021",
       "src": "videos/021.mp4",
       "source": "토크쇼",
+      "who": "앤 해서웨이",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2235,6 +2277,8 @@
       "id": "ss022",
       "src": "videos/022.mp4",
       "source": "인터뷰",
+      "who": "젠데이아·톰 홀랜드",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2289,6 +2333,8 @@
       "id": "ss023",
       "src": "videos/023.mp4",
       "source": "인터뷰",
+      "who": "일론 머스크",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2383,6 +2429,8 @@
       "id": "ss024",
       "src": "videos/024.mp4",
       "source": "인터뷰",
+      "who": "스파이더맨 출연진",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2467,6 +2515,8 @@
       "id": "ss025",
       "src": "videos/025.mp4",
       "source": "배우 대담",
+      "who": "아리아나 그란데",
+      "cat": "singer",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2561,6 +2611,8 @@
       "id": "ss026",
       "src": "videos/026.mp4",
       "source": "토크쇼",
+      "who": "크리스토퍼 놀란",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2660,6 +2712,8 @@
       "id": "ss027",
       "src": "videos/027.mp4",
       "source": "인터뷰",
+      "who": "톰 홀랜드·존 번탈",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2769,6 +2823,8 @@
       "id": "ss028",
       "src": "videos/028.mp4",
       "source": "인터뷰",
+      "who": "존 번탈",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2883,6 +2939,8 @@
       "id": "ss029",
       "src": "videos/029.mp4",
       "source": "인터뷰",
+      "who": "톰 홀랜드",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -2987,6 +3045,8 @@
       "id": "ss030",
       "src": "videos/030.mp4",
       "source": "토크쇼",
+      "who": "샤를리즈 테론",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -3106,6 +3166,8 @@
       "id": "ss031",
       "src": "videos/031.mp4",
       "source": "인터뷰",
+      "who": "정호연",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -3185,6 +3247,8 @@
       "id": "ss032",
       "src": "videos/032.mp4",
       "source": "인터뷰",
+      "who": "안야 테일러조이",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -3309,6 +3373,8 @@
       "id": "ss033",
       "src": "videos/033.mp4",
       "source": "인터뷰",
+      "who": "제니",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -3433,6 +3499,8 @@
       "id": "ss034",
       "src": "videos/034.mp4",
       "source": "Brian · 캐나다 이야기",
+      "who": "Brian",
+      "cat": "brian",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -3517,6 +3585,8 @@
       "id": "ss035",
       "src": "videos/035.mp4",
       "source": "Brian · 빠른 문답",
+      "who": "Brian",
+      "cat": "brian",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -3576,6 +3646,8 @@
       "id": "ss036",
       "src": "videos/036.mp4",
       "source": "Brian · 메시지",
+      "who": "Brian",
+      "cat": "brian",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -3645,6 +3717,8 @@
       "id": "ss037",
       "src": "videos/037.mp4",
       "source": "Brian · 빠른 문답",
+      "who": "Brian",
+      "cat": "brian",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -3729,6 +3803,8 @@
       "id": "ss038",
       "src": "videos/038.mp4",
       "source": "토크쇼",
+      "who": "리사",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -3838,6 +3914,8 @@
       "id": "ss039",
       "src": "videos/039.mp4",
       "source": "토크쇼",
+      "who": "리사",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -3937,6 +4015,8 @@
       "id": "ss040",
       "src": "videos/040.mp4",
       "source": "토크쇼",
+      "who": "리사",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -4021,6 +4101,8 @@
       "id": "ss041",
       "src": "videos/041.mp4",
       "source": "토크쇼",
+      "who": "릴리 라인하트",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -4125,6 +4207,8 @@
       "id": "ss042",
       "src": "videos/042.mp4",
       "source": "토크쇼",
+      "who": "릴리 라인하트",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -4229,6 +4313,8 @@
       "id": "ss043",
       "src": "videos/043.mp4",
       "source": "토크쇼",
+      "who": "갤 가돗",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -4373,6 +4459,8 @@
       "id": "ss044",
       "src": "videos/044.mp4",
       "source": "토크쇼",
+      "who": "앤 해서웨이",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -4507,6 +4595,8 @@
       "id": "ss045",
       "src": "videos/045.mp4",
       "source": "토크쇼",
+      "who": "벤 애플렉",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -4626,6 +4716,8 @@
       "id": "ss046",
       "src": "videos/046.mp4",
       "source": "인터뷰",
+      "who": "제니",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -4725,6 +4817,8 @@
       "id": "ss047",
       "src": "videos/047.mp4",
       "source": "토크쇼",
+      "who": "톰 크루즈",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -4854,6 +4948,8 @@
       "id": "ss048",
       "src": "videos/048.mp4",
       "source": "인터뷰",
+      "who": "셀레나 고메즈",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -4953,6 +5049,8 @@
       "id": "ss049",
       "src": "videos/049.mp4",
       "source": "인터뷰",
+      "who": "메릴 스트립",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -5037,6 +5135,8 @@
       "id": "ss050",
       "src": "videos/050.mp4",
       "source": "토크쇼",
+      "who": "폴 매카트니",
+      "cat": "singer",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -5141,6 +5241,8 @@
       "id": "ss051",
       "src": "videos/051.mp4",
       "source": "토크쇼",
+      "who": "앤드루 가필드",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -5270,6 +5372,8 @@
       "id": "ss052",
       "src": "videos/052.mp4",
       "source": "인터뷰",
+      "who": "빌리 아일리시",
+      "cat": "singer",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -5354,6 +5458,8 @@
       "id": "ss053",
       "src": "videos/053.mp4",
       "source": "인터뷰",
+      "who": "톰 홀랜드",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -5483,6 +5589,8 @@
       "id": "ss054",
       "src": "videos/054.mp4",
       "source": "인터뷰",
+      "who": "매기 강",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -5582,6 +5690,8 @@
       "id": "ss055",
       "src": "videos/055.mp4",
       "source": "인터뷰",
+      "who": "허윤진",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -5681,6 +5791,8 @@
       "id": "ss056",
       "src": "videos/056.mp4",
       "source": "인터뷰",
+      "who": "존 시나",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -5795,6 +5907,8 @@
       "id": "ss057",
       "src": "videos/057.mp4",
       "source": "토크쇼",
+      "who": "세바스찬 스탠",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -5919,6 +6033,8 @@
       "id": "ss058",
       "src": "videos/058.mp4",
       "source": "인터뷰",
+      "who": "케 후이 콴",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -5998,6 +6114,8 @@
       "id": "ss059",
       "src": "videos/059.mp4",
       "source": "인터뷰",
+      "who": "매슈 매커너히·우디 해럴슨",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -6117,6 +6235,8 @@
       "id": "ss060",
       "src": "videos/060.mp4",
       "source": "인터뷰",
+      "who": "플로렌스 퓨",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -6231,6 +6351,8 @@
       "id": "ss061",
       "src": "videos/061.mp4",
       "source": "토크쇼",
+      "who": "헤일리 스타인펠드",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -6315,6 +6437,8 @@
       "id": "ss062",
       "src": "videos/062.mp4",
       "source": "인터뷰",
+      "who": "에릭 남",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -6404,6 +6528,8 @@
       "id": "ss063",
       "src": "videos/063.mp4",
       "source": "인터뷰",
+      "who": "REI AMI",
+      "cat": "singer",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -6508,6 +6634,8 @@
       "id": "ss064",
       "src": "videos/064.mp4",
       "source": "인터뷰",
+      "who": "리암 니슨",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -6577,6 +6705,8 @@
       "id": "ss065",
       "src": "videos/065.mp4",
       "source": "토크쇼",
+      "who": "조시 브롤린",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -6676,6 +6806,8 @@
       "id": "ss066",
       "src": "videos/066.mp4",
       "source": "인터뷰",
+      "who": "라이언 레이놀즈",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -6755,6 +6887,8 @@
       "id": "ss067",
       "src": "videos/067.mp4",
       "source": "인터뷰",
+      "who": "드웨인 존슨",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -6839,6 +6973,8 @@
       "id": "ss068",
       "src": "videos/068.mp4",
       "source": "토크쇼",
+      "who": "스티븐 스필버그",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -6928,6 +7064,8 @@
       "id": "ss069",
       "src": "videos/069.mp4",
       "source": "인터뷰",
+      "who": "오프라 윈프리",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7022,6 +7160,8 @@
       "id": "ss070",
       "src": "videos/070.mp4",
       "source": "토크쇼",
+      "who": "우마 서먼",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7136,6 +7276,8 @@
       "id": "ss071",
       "src": "videos/071.mp4",
       "source": "토크쇼",
+      "who": "크리스틴 벨",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7255,6 +7397,8 @@
       "id": "ss072",
       "src": "videos/072.mp4",
       "source": "인터뷰",
+      "who": "제나 오르테가",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7344,6 +7488,8 @@
       "id": "ss073",
       "src": "videos/073.mp4",
       "source": "토크쇼",
+      "who": "윌리엄 왕세자",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7428,6 +7574,8 @@
       "id": "ss074",
       "src": "videos/074.mp4",
       "source": "토크쇼",
+      "who": "헬렌 미렌",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7512,6 +7660,8 @@
       "id": "ss075",
       "src": "videos/075.mp4",
       "source": "토크쇼",
+      "who": "에이미 애덤스",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7606,6 +7756,8 @@
       "id": "ss076",
       "src": "videos/076.mp4",
       "source": "토크쇼",
+      "who": "대니얼 래드클리프",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7695,6 +7847,8 @@
       "id": "ss077",
       "src": "videos/077.mp4",
       "source": "인터뷰",
+      "who": "존 조",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7784,6 +7938,8 @@
       "id": "ss078",
       "src": "videos/078.mp4",
       "source": "토크쇼",
+      "who": "데이지 에드거존스",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7878,6 +8034,8 @@
       "id": "ss079",
       "src": "videos/079.mp4",
       "source": "인터뷰",
+      "who": "제니퍼 가너·클로이 세비니",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -7972,6 +8130,8 @@
       "id": "ss080",
       "src": "videos/080.mp4",
       "source": "인터뷰",
+      "who": "윌 페럴",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -8036,6 +8196,8 @@
       "id": "ss081",
       "src": "videos/081.mp4",
       "source": "인터뷰",
+      "who": "빅토리아 베컴",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -8145,6 +8307,8 @@
       "id": "ss082",
       "src": "videos/082.mp4",
       "source": "토크쇼",
+      "who": "제나 오르테가",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -8229,6 +8393,8 @@
       "id": "ss083",
       "src": "videos/083.mp4",
       "source": "인터뷰",
+      "who": "제나 오르테가·에이미 애덤스",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -8308,6 +8474,8 @@
       "id": "ss084",
       "src": "videos/084.mp4",
       "source": "인터뷰",
+      "who": "마야 호크",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -8407,6 +8575,8 @@
       "id": "ss085",
       "src": "videos/085.mp4",
       "source": "인터뷰",
+      "who": "젬마 챈",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -8501,6 +8671,8 @@
       "id": "ss086",
       "src": "videos/086.mp4",
       "source": "인터뷰",
+      "who": "하산 민하즈",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -8600,6 +8772,8 @@
       "id": "ss087",
       "src": "videos/087.mp4",
       "source": "토크쇼",
+      "who": "이병헌",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -8749,6 +8923,8 @@
       "id": "ss088",
       "src": "videos/088.mp4",
       "source": "인터뷰",
+      "who": "이병헌",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -8828,6 +9004,8 @@
       "id": "ss089",
       "src": "videos/089.mp4",
       "source": "토크쇼",
+      "who": "BTS",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -8932,6 +9110,8 @@
       "id": "ss090",
       "src": "videos/090.mp4",
       "source": "토크쇼",
+      "who": "BTS",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -9051,6 +9231,8 @@
       "id": "ss091",
       "src": "videos/091.mp4",
       "source": "인터뷰",
+      "who": "RM",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -9155,6 +9337,8 @@
       "id": "ss092",
       "src": "videos/092.mp4",
       "source": "토크쇼",
+      "who": "안효섭",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -9304,6 +9488,8 @@
       "id": "ss093",
       "src": "videos/093.mp4",
       "source": "토크쇼",
+      "who": "다니엘 대 김",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -9393,6 +9579,8 @@
       "id": "ss094",
       "src": "videos/094.mp4",
       "source": "토크쇼",
+      "who": "다니엘 대 김",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -9482,6 +9670,8 @@
       "id": "ss095",
       "src": "videos/095.mp4",
       "source": "토크쇼",
+      "who": "클로이 김",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -9596,6 +9786,8 @@
       "id": "ss096",
       "src": "videos/096.mp4",
       "source": "인터뷰",
+      "who": "켄 정",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -9710,6 +9902,8 @@
       "id": "ss097",
       "src": "videos/097.mp4",
       "source": "인터뷰",
+      "who": "조슈아 (세븐틴)",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -9829,6 +10023,8 @@
       "id": "ss098",
       "src": "videos/098.mp4",
       "source": "인터뷰",
+      "who": "버논 (세븐틴)",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -9928,6 +10124,8 @@
       "id": "ss099",
       "src": "videos/099.mp4",
       "source": "인터뷰",
+      "who": "그레타 리",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -10017,6 +10215,8 @@
       "id": "ss100",
       "src": "videos/100.mp4",
       "source": "인터뷰",
+      "who": "버락 오바마",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -10111,6 +10311,8 @@
       "id": "ss101",
       "src": "videos/101.mp4",
       "source": "인터뷰",
+      "who": "맷 데이먼",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -10220,6 +10422,8 @@
       "id": "ss102",
       "src": "videos/102.mp4",
       "source": "인터뷰",
+      "who": "산드라 불럭·니콜 키드먼",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -10309,6 +10513,8 @@
       "id": "ss103",
       "src": "videos/103.mp4",
       "source": "인터뷰",
+      "who": "톰 히들스턴",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -10413,6 +10619,8 @@
       "id": "ss104",
       "src": "videos/104.mp4",
       "source": "인터뷰",
+      "who": "안효섭",
+      "cat": "korean",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -10522,6 +10730,8 @@
       "id": "ss105",
       "src": "videos/105.mp4",
       "source": "토크쇼",
+      "who": "아든 조",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -10641,6 +10851,8 @@
       "id": "ss106",
       "src": "videos/106.mp4",
       "source": "인터뷰",
+      "who": "미셸 오바마",
+      "cat": "celeb",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -10740,6 +10952,8 @@
       "id": "ss107",
       "src": "videos/107.mp4",
       "source": "토크쇼",
+      "who": "루시 리우",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -10824,6 +11038,8 @@
       "id": "ss108",
       "src": "videos/108.mp4",
       "source": "토크쇼",
+      "who": "시무 리우",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -10938,6 +11154,8 @@
       "id": "ss109",
       "src": "videos/109.mp4",
       "source": "인터뷰",
+      "who": "오웬 윌슨",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
@@ -11027,6 +11245,8 @@
       "id": "ss110",
       "src": "videos/110.mp4",
       "source": "인터뷰",
+      "who": "올리비아 콜먼·알렉산더 스카스가드",
+      "cat": "actor",
       "band": {
         "top": 0.294,
         "bottom": 0.706
