@@ -3,7 +3,7 @@
   "handle": "DoEnglishwithBrian",
   "clips": [
     {
-      "id": "ss001",
+      "id": "ss001", "hide": ["teen"],
       "src": "videos/001.mp4",
       "source": "Vogue 인터뷰",
       "who": "로제",
@@ -139,7 +139,7 @@
       "poster": "posters/001.jpg"
     },
     {
-      "id": "ss002",
+      "id": "ss002", "hide": ["teen"],
       "src": "videos/002.mp4",
       "source": "Vogue 인터뷰",
       "who": "로제",
@@ -9576,7 +9576,7 @@
       ]
     },
     {
-      "id": "ss094",
+      "id": "ss094", "hide": ["teen"],
       "src": "videos/094.mp4",
       "source": "토크쇼",
       "who": "다니엘 대 김",

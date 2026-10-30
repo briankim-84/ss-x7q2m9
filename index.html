@@ -319,6 +319,9 @@ boot();
 async function boot(){
   const res=await fetch("feed.json",{cache:"no-cache"});
   FEED=await res.json();
+  /* ?p=teen 같은 프로필이면 hide에 그 프로필이 들어간 클립은 뺀다 (2026-10-30 Olivia) */
+  const PROFILE=new URLSearchParams(location.search).get("p");
+  if(PROFILE) FEED.clips=FEED.clips.filter(c=>!(c.hide||[]).includes(PROFILE));
   console.log("Swipe & Speak feed v"+FEED.version);
   FEED.clips.forEach(c=>{ server[c.id]=0; pending[c.id]=0; });
   FEED.byId={}; FEED.clips.forEach(c=>FEED.byId[c.id]=c);
