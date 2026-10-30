@@ -23,6 +23,13 @@ for k in ("id","src","source","who","cat","band","tags","cues","picks","poster")
     if k not in clip: bad(f"필드 누락: {k}")
 if clip.get("cat") not in ("korean","actor","singer","celeb","brian"): bad("cat은 korean/actor/singer/celeb/brian 중 하나")
 if not clip.get("who"): bad("who(인물 이름)가 비어 있음")
+# 표현 위치: at(자막 번호) / hl(그 자막 en 안의 강조 부분). 없으면 칩·다시 듣기가 안 뜬다
+for p in clip["picks"]:
+    if "at" not in p:
+        print(f"   (참고) 위치 없음: {p['chunk']} — 영상에서 실제로 말하지 않는 표현이면 그대로 둬도 됨")
+        continue
+    if not (isinstance(p["at"], int) and 0 <= p["at"] < len(clip["cues"])): bad(f"at 범위 밖: {p['chunk']}")
+    elif p.get("hl") and p["hl"] not in clip["cues"][p["at"]]["en"]: bad(f"hl이 {p['at']}번 자막에 없음: {p['chunk']}")
 # 싱크: 완성본 재전사 후 각 큐 시작이 어떤 단어 시작과 0.6초 이내인지
 run(["python", os.path.join(ROOT,"tools","transcribe.py"), cid, "--file", vid])
 words = [w["s"] for s in json.load(open(os.path.join(WORK,f"{cid}_words.json"),encoding="utf-8")) for w in s["words"]]
