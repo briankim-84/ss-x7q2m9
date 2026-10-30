@@ -145,13 +145,17 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 /* 표현 강조 — 영어 자막 안의 핵심 표현 (picks[].hl) */
 .subs .line mark{background:linear-gradient(to top,rgba(255,224,102,.30) 0 40%,transparent 40%);
   color:var(--mark);font-weight:700;padding:0 1px;border-radius:2px}
-/* 표현 칩 — 그 표현이 나오는 자막(picks[].at)이 떠 있는 동안 영상 아래쪽에 */
-.pchip{position:absolute;left:14px;bottom:calc(100% + 8px);transform:translateY(6px);z-index:7;
+/* 표현 칩 — 그 표현이 나오는 자막(picks[].at)부터 다음 자막 뒤 몇 초까지 영상 아래쪽에. 누르면 그 줄 다시 듣기 */
+.pchip{font:inherit;color:inherit;text-align:left;cursor:pointer;position:absolute;left:14px;bottom:calc(100% + 8px);transform:translateY(6px);z-index:7;
   max-width:calc(100% - 92px);display:flex;align-items:center;gap:9px;padding:7px 13px 7px 9px;
   border-radius:14px;background:rgba(14,14,16,.78);border:1px solid rgba(255,224,102,.55);
   backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
   opacity:0;transition:opacity .22s,transform .22s;pointer-events:none}
-.pchip.on{opacity:1;transform:translateY(0)}
+.pchip.on{opacity:1;transform:translateY(0);pointer-events:auto}
+.pchip:active{background:rgba(40,36,20,.88)}
+.pchip .again{flex:none;display:flex;flex-direction:column;align-items:center;gap:1px;margin-left:3px;padding-left:10px;
+  border-left:1px solid rgba(255,255,255,.18);color:var(--mark);font-size:10px;font-weight:700;letter-spacing:-.02em}
+.pchip .again svg{width:15px;height:15px;stroke:var(--mark);stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}
 .pchip .star{flex:none;width:17px;height:17px;border-radius:50%;background:var(--mark);color:#141416;
   display:grid;place-items:center;font-size:10px;font-weight:800}
 .pchip .t{display:flex;flex-direction:column;gap:1px;min-width:0}
@@ -391,7 +395,7 @@ function render(){
   </div>
 
   <div class="lower">
-    <div class="pchip"><span class="star">★</span><span class="t"><span class="c"></span><span class="k"></span></span></div>
+    <button class="pchip" aria-label="이 표현 다시 듣기"><span class="star">★</span><span class="t"><span class="c"></span><span class="k"></span></span><span class="again"><svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>다시</span></button>
     <div class="prog"><span class="track"><i></i></span><span class="knob"></span><span class="time"></span></div>
     <div class="subs" data-mode="${MODE}"><div class="line"></div></div>
     <div class="seg" role="tablist" aria-label="자막 설정">
@@ -434,9 +438,10 @@ function bind(el){
   el.querySelectorAll(".chips button").forEach(b=>
     b.addEventListener("click",e=>{ e.stopPropagation(); setCat(b.dataset.cat); }));
   el.querySelector(".grip").addEventListener("click",()=>{ el._open=false; paintPicks(el); });
-  /* 이 장면 다시 듣기: 표현이 나온 자막 한 줄만 재생하고 멈춘다 */
-  el.querySelectorAll(".replay").forEach(b=>b.addEventListener("click",()=>{
-    const c=FEED.byId[el.dataset.id], p=c.picks[+b.dataset.k];
+  /* 이 장면 다시 듣기: 표현이 나온 자막 한 줄만 재생하고 멈춘다 (더보기 버튼·표현 칩 공용) */
+  const replay=k=>{
+    const c=FEED.byId[el.dataset.id], p=c.picks[k];
+    if(!p||!Number.isInteger(p.at)) return;
     const from=c.cues[p.at].t, to=(c.cues[p.at+1]||{}).t;
     el._open=false; paintPicks(el);
     if(!SOUND) setSound(true);
@@ -449,7 +454,13 @@ function bind(el){
       requestAnimationFrame(tick);
     };
     requestAnimationFrame(tick);
-  }));
+  };
+  el.querySelectorAll(".replay").forEach(b=>b.addEventListener("click",()=>replay(+b.dataset.k)));
+  el.querySelector(".pchip").addEventListener("click",e=>{
+    e.stopPropagation();
+    const c=FEED.byId[el.dataset.id], chip=e.currentTarget;
+    if(chip._p) replay(c.picks.indexOf(chip._p));
+  });
   el.querySelector(".like").addEventListener("click",e=>tapLike(e.currentTarget,el));
   el.querySelector(".save").addEventListener("click",()=>{
     const id=el.dataset.id;
@@ -506,6 +517,7 @@ function cueAt(c,t){
   for(const q of c.cues){ if(t>=q.t) found=q; else break; }
   return found;
 }
+const CHIP_HOLD=3.5;   /* 표현 자막이 끝난 뒤 칩이 더 남아 있는 시간(초) */
 function paint(el){
   const c=FEED.clips[+el.dataset.i], v=el.querySelector("video");
   const box=el.querySelector(".subs"), line=box.querySelector(".line");
@@ -514,8 +526,12 @@ function paint(el){
   const q=cueAt(c,v.currentTime||0);
   const qi=q?c.cues.indexOf(q):-1;
   const p=qi<0?null:c.picks.find(p=>p.at===qi);   /* 지금 자막에 핵심 표현이 있으면 */
-  if(p && MODE!=="off"){
-    if(chip._p!==p){ chip.querySelector(".c").textContent=p.chunk; chip.querySelector(".k").textContent=p.ko; chip._p=p; }
+  const now=v.currentTime||0;
+  if(p) el._hold={p, from:c.cues[p.at].t, until:((c.cues[p.at+1]||{}).t ?? (v.duration||now))+CHIP_HOLD};
+  const h=el._hold;
+  const show=p || (h && now>=h.from && now<h.until ? h.p : null);   /* 다음 자막으로 넘어가도 몇 초 더 */
+  if(show && MODE!=="off"){
+    if(chip._p!==show){ chip.querySelector(".c").textContent=show.chunk; chip.querySelector(".k").textContent=show.ko; chip._p=show; }
     chip.classList.add("on");
   } else chip.classList.remove("on");
   if(MODE==="off"){ line.textContent=""; return; }
