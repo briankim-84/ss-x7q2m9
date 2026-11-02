@@ -31,7 +31,7 @@ for p in clip["picks"]:
     if not (isinstance(p["at"], int) and 0 <= p["at"] < len(clip["cues"])): bad(f"at 범위 밖: {p['chunk']}")
     elif p.get("hl") and p["hl"] not in clip["cues"][p["at"]]["en"]: bad(f"hl이 {p['at']}번 자막에 없음: {p['chunk']}")
 # 싱크: 완성본 재전사 후 각 큐 시작이 어떤 단어 시작과 0.6초 이내인지
-run(["python", os.path.join(ROOT,"tools","transcribe.py"), cid, "--file", vid])
+run([sys.executable, os.path.join(ROOT,"tools","transcribe.py"), cid, "--file", vid])   # 지금 쓰는 파이썬(가상환경)으로
 words = [w["s"] for s in json.load(open(os.path.join(WORK,f"{cid}_words.json"),encoding="utf-8")) for w in s["words"]]
 errs = [(q["t"], min(abs(w-q["t"]) for w in words)) for q in clip["cues"][1:]]
 worst = max(errs, key=lambda x:x[1]) if errs else (0,0)

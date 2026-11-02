@@ -1,0 +1,22 @@
+name: tests
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read          # 읽기만. 비밀값(secrets)은 쓰지 않는다
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends ffmpeg
+      # 전사(faster-whisper)·다운로드(yt-dlp)는 테스트에 필요 없어서 설치하지 않는다
+      - run: pip install "pillow>=12,<14" "pytest>=9,<10"
+      - run: python -m pytest -q
