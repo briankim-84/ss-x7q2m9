@@ -13,7 +13,7 @@ for f in os.listdir(WORK):
 cmd = ["yt-dlp","--no-playlist",
        "-f","bv*[height<=1080][ext=mp4]+ba[ext=m4a]/b[ext=mp4]/b",
        "--download-sections",f"*{a:.1f}-{b:.1f}","--force-keyframes-at-cuts",
-       "--merge-output-format","mp4","-o",out,url]
+       "--merge-output-format","mp4","-o",out,"--",url]   # "--": url이 -로 시작해도 옵션으로 읽히지 않게
 # 로그인된 크롬 쿠키로 시도 → 실패하면 쿠키 없이
 try:
     run(cmd[:1]+["--cookies-from-browser","chrome"]+cmd[1:])

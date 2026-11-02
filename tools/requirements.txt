@@ -1,3 +1,6 @@
-yt-dlp
-faster-whisper
-pillow
+# 2026-11 기준 확인한 버전. 하한은 실제로 돌려 본 버전, 상한은 다음 메이저 전까지.
+# yt-dlp는 유튜브 변경에 맞춰 자주 고쳐지므로 상한 없이 최신을 쓴다 (pip install -U yt-dlp).
+yt-dlp>=2026.10.26
+faster-whisper>=1.2.1,<2
+pillow>=12,<14
+numpy>=2          # transcribe.py가 직접 import

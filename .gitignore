@@ -2,3 +2,15 @@ work/
 __pycache__/
 
 .claude/
+
+# 비밀·로컬 파일 (공개 레포에 올라가지 않게)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+cookies*.txt
+*service-account*.json
+.venv/
+venv/
+.pytest_cache/

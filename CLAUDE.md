@@ -87,3 +87,8 @@ Brian이 "링크 + 구간(+ 인물)"을 주면 아래 순서대로 끝까지 진
 - 표현 확인 없이 인코딩·푸시
 - 기존 클립의 cues/picks 수정 (요청이 있을 때만)
 - videos/·posters/ 안의 기존 파일 삭제
+
+## 테스트
+- `pip install -r tools/requirements-dev.txt` 후 `python -m pytest -q`
+- feed.json 형식, 비밀값 유출, index.html 이스케이프, merge/encode 도구를 검사한다. 푸시 전에 돌린다.
+- `tests/test_feed.py`의 LEGACY_* 목록은 규칙과 다른 기존 클립이다. 새 클립은 여기에 넣지 말고 json을 고친다.

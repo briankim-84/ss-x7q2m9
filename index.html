@@ -286,7 +286,8 @@ const ICON={
   pause:'<rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/>'
 };
 const nf=n=>n.toLocaleString("en-US");
-const esc=s=>String(s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+/* 속성값(="...")에도 쓰므로 따옴표까지 바꾼다 */
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
 const mem={};
 const store={
@@ -362,9 +363,9 @@ async function boot(){
 
 function render(){
   document.getElementById("feed").innerHTML = FEED.clips.map((c,i)=>`
-<section class="clip" data-i="${i}" data-id="${c.id}"
+<section class="clip" data-i="${i}" data-id="${esc(c.id)}"
          style="--lower-top:${(c.band.bottom*100).toFixed(2)}%">
-  <video class="vid" data-src="${c.src}" poster="${c.poster||""}" playsinline webkit-playsinline loop muted preload="none" disablepictureinpicture></video>
+  <video class="vid" data-src="${esc(c.src)}" poster="${esc(c.poster||"")}" playsinline webkit-playsinline loop muted preload="none" disablepictureinpicture></video>
   <div class="scrim"></div>
   <button class="tapzone" aria-label="재생 또는 일시정지"></button>
   <div class="pausebadge"><svg viewBox="0 0 24 24">${ICON.pause}</svg></div>
@@ -374,7 +375,7 @@ function render(){
     <div class="acct">
       <span class="avatar" style="--s:34px"><i>B</i></span>
       <span class="meta">
-        <span class="name">${FEED.handle}${VERIFIED}</span>
+        <span class="name">${esc(FEED.handle)}${VERIFIED}</span>
         <span class="sub">${c.who?esc(c.who)+" · ":""}${esc(c.source)}</span>
       </span>
       <button class="dots" aria-label="옵션">${DOTS}</button>
@@ -406,7 +407,7 @@ function render(){
     </div>
     <div class="sheet">
       <div class="grip"></div>
-      <p class="cap"><span class="who">${FEED.handle}</span><span class="tags">${c.tags.join(" ")}</span><button class="more">더보기</button></p>
+      <p class="cap"><span class="who">${esc(FEED.handle)}</span><span class="tags">${esc(c.tags.join(" "))}</span><button class="more">더보기</button></p>
       <div class="picks">
         <h3>핵심 표현 ${c.picks.length}</h3>
         ${c.picks.map((p,k)=>`
@@ -744,8 +745,8 @@ function switchView(v){
 }
 function cardHTML(c){
   const first=(c.picks&&c.picks[0]&&c.picks[0].chunk)||"";
-  return `<button class="card" data-go="${c.id}">
-    <img src="${c.poster||""}" alt="" loading="lazy">
+  return `<button class="card" data-go="${esc(c.id)}">
+    <img src="${esc(c.poster||"")}" alt="" loading="lazy">
     ${SAVED.has(c.id)?'<span class="mark"><svg viewBox="0 0 24 24"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.5L5 21V4a1 1 0 0 1 1-1Z"/></svg></span>':""}
     <span class="meta"><span class="src">${esc(c.source)}</span><span class="cue">${esc(first)}</span></span>
   </button>`;
@@ -769,14 +770,14 @@ function renderViews(){
 function goToClip(id){
   switchView("home");
   if(!FEED.clips.some(c=>c.id===id)) setCat("all");   /* 다른 칸의 클립이면 전체로 */
-  const el=document.querySelector(`.clip[data-id="${id}"]`);
+  const el=document.querySelector(`.clip[data-id="${CSS.escape(id)}"]`);
   if(el) el.scrollIntoView({behavior:"instant",block:"start"});
 }
 
 async function connect(){
   try{
-    const { initializeApp }=await import("https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js");
-    const m=await import("https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js");
+    const { initializeApp }=await import("https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js");
+    const m=await import("https://www.gstatic.com/firebasejs/10.14.1/firebase-database.js");
     db=m.getDatabase(initializeApp(FIREBASE)); dbApi=m;
     m.onValue(m.ref(db,"likes"),snap=>{
       const v=snap.val()||{};
